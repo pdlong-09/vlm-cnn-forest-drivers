@@ -1,0 +1,2412 @@
+eid,split_official,part_spatial,label,merged_label,latitude,longitude,year
+0,train,fit,Fruit plantation,Plantation,4.722125,9.708,2016
+1,train,test,Fruit plantation,Plantation,4.847319444,9.790763889,2017
+2,train,fit,Fruit plantation,Plantation,4.728625,9.777,2019
+3,train,test,Fruit plantation,Plantation,4.846875,9.79375,2017
+4,train,test,Fruit plantation,Plantation,4.731125,9.652625,2020
+5,train,fit,Fruit plantation,Plantation,4.727847222,9.773208333,2017
+6,train,test,Fruit plantation,Plantation,4.729375,9.667375,2015
+7,train,fit,Fruit plantation,Plantation,4.730579545,9.770397727,2015
+8,train,fit,Fruit plantation,Plantation,4.722625,9.707125,2016
+9,train,test,Fruit plantation,Plantation,4.851125,9.773625,2019
+10,train,test,Fruit plantation,Plantation,3.48665625,10.08115625,2020
+11,train,fit,Fruit plantation,Plantation,4.723875,9.706625,2019
+12,train,fit,Fruit plantation,Plantation,4.722490385,9.713163462,2017
+13,train,fit,Fruit plantation,Plantation,4.721625,9.695125,2015
+14,train,test,Fruit plantation,Plantation,4.719625,9.657125,2017
+15,train,fit,Fruit plantation,Plantation,4.720375,9.694232143,2015
+16,train,fit,Fruit plantation,Plantation,4.729451923,9.772105769,2019
+17,train,test,Fruit plantation,Plantation,3.489,10.075125,2020
+18,train,test,Fruit plantation,Plantation,4.724625,9.649625,2017
+19,train,fit,Fruit plantation,Plantation,4.723375,9.71325,2017
+20,train,test,Fruit plantation,Plantation,3.492325,10.078525,2020
+21,train,test,Fruit plantation,Plantation,4.852625,9.78525,2016
+22,train,test,Fruit plantation,Plantation,4.85146875,9.78515625,2019
+23,train,test,Fruit plantation,Plantation,4.849825,9.783275,2015
+24,train,fit,Fruit plantation,Plantation,4.723375,9.705875,2016
+25,train,fit,Fruit plantation,Plantation,4.720513889,9.696416667,2015
+26,train,test,Fruit plantation,Plantation,4.728075,9.655975,2017
+27,train,fit,Grassland shrubland,Grassland shrubland,5.838091667,9.397191667,2020
+28,train,fit,Grassland shrubland,Grassland shrubland,5.86735146,9.403767185,2020
+29,train,fit,Grassland shrubland,Grassland shrubland,5.844827381,9.38714881,2020
+30,train,fit,Grassland shrubland,Grassland shrubland,5.895291667,9.807708333,2020
+31,train,fit,Grassland shrubland,Grassland shrubland,5.851375,9.393688492,2020
+32,train,fit,Grassland shrubland,Grassland shrubland,5.891347222,9.156041667,2020
+33,train,fit,Grassland shrubland,Grassland shrubland,5.851333333,9.659708333,2020
+34,train,holdout,Grassland shrubland,Grassland shrubland,5.920267857,9.048910714,2020
+35,train,test,Grassland shrubland,Grassland shrubland,5.987208333,9.126916667,2020
+36,train,fit,Grassland shrubland,Grassland shrubland,5.810160714,9.66460119,2020
+37,train,fit,Grassland shrubland,Grassland shrubland,5.918430556,9.253819444,2020
+38,train,fit,Grassland shrubland,Grassland shrubland,5.814041667,9.369736111,2020
+39,train,test,Grassland shrubland,Grassland shrubland,5.994625,9.582509615,2020
+40,train,fit,Grassland shrubland,Grassland shrubland,5.865966667,9.392470833,2020
+41,train,fit,Grassland shrubland,Grassland shrubland,5.914458333,9.169166667,2020
+42,train,fit,Grassland shrubland,Grassland shrubland,5.96014881,9.091791667,2020
+43,train,fit,Grassland shrubland,Grassland shrubland,5.830291667,9.569041667,2020
+44,train,fit,Grassland shrubland,Grassland shrubland,5.844333333,9.386208333,2020
+45,train,test,Grassland shrubland,Grassland shrubland,5.943859375,9.11775,2020
+46,train,fit,Grassland shrubland,Grassland shrubland,5.857925,9.653608333,2020
+47,train,val,Grassland shrubland,Grassland shrubland,5.87265625,9.002526042,2020
+48,train,fit,Grassland shrubland,Grassland shrubland,5.972655303,9.432736111,2020
+49,train,holdout,Grassland shrubland,Grassland shrubland,5.851427083,9.95521875,2020
+50,train,fit,Grassland shrubland,Grassland shrubland,5.893930556,9.158430556,2020
+51,train,val,Grassland shrubland,Grassland shrubland,5.823513889,9.708486111,2020
+52,train,fit,Grassland shrubland,Grassland shrubland,5.835680556,9.406402778,2020
+53,train,test,Grassland shrubland,Grassland shrubland,5.959325,9.125908333,2020
+54,train,fit,Grassland shrubland,Grassland shrubland,5.814069444,9.65159375,2020
+55,train,fit,Grassland shrubland,Grassland shrubland,5.844301282,9.386958333,2020
+56,train,val,Grassland shrubland,Grassland shrubland,5.963375,9.182916667,2020
+57,train,fit,Grassland shrubland,Grassland shrubland,5.943291667,9.311458333,2020
+58,train,test,Grassland shrubland,Grassland shrubland,5.980916667,9.023625,2020
+59,train,val,Grassland shrubland,Grassland shrubland,5.993425,9.235275,2020
+60,train,fit,Grassland shrubland,Grassland shrubland,5.887166667,9.2604375,2020
+61,train,fit,Grassland shrubland,Grassland shrubland,5.995025,9.788825,2020
+62,train,holdout,Grassland shrubland,Grassland shrubland,5.813166667,9.776375,2020
+63,train,fit,Grassland shrubland,Grassland shrubland,5.865770833,9.390625,2020
+64,train,fit,Grassland shrubland,Grassland shrubland,5.809041667,9.366041667,2020
+65,train,fit,Grassland shrubland,Grassland shrubland,5.853708333,9.397416667,2020
+66,train,fit,Grassland shrubland,Grassland shrubland,5.840013889,9.329472222,2020
+67,train,fit,Grassland shrubland,Grassland shrubland,5.842808333,9.296201667,2020
+68,train,holdout,Grassland shrubland,Grassland shrubland,5.896189815,9.862407407,2020
+69,train,test,Grassland shrubland,Grassland shrubland,5.959854167,9.126145833,2020
+70,train,fit,Grassland shrubland,Grassland shrubland,5.957291667,9.250125,2020
+71,train,fit,Grassland shrubland,Grassland shrubland,5.993720588,9.265906863,2020
+72,train,test,Grassland shrubland,Grassland shrubland,5.980958333,9.023208333,2020
+73,train,fit,Grassland shrubland,Grassland shrubland,5.806958333,9.369625,2020
+74,train,test,Grassland shrubland,Grassland shrubland,5.882041667,9.960708333,2020
+75,train,fit,Grassland shrubland,Grassland shrubland,5.979638889,9.431134921,2020
+76,train,fit,Grassland shrubland,Grassland shrubland,5.979458333,9.433083333,2020
+77,train,holdout,Grassland shrubland,Grassland shrubland,5.8496875,9.817645833,2020
+78,train,holdout,Grassland shrubland,Grassland shrubland,5.916375,9.055208333,2020
+79,train,fit,Grassland shrubland,Grassland shrubland,5.812625,9.652375,2020
+80,train,fit,Grassland shrubland,Grassland shrubland,5.836082143,9.383129762,2020
+81,train,fit,Grassland shrubland,Grassland shrubland,5.801708333,9.313125,2020
+82,train,test,Hunting,Other,3.055625,14.716125,2019
+83,train,holdout,Hunting,Other,5.979225,12.393825,2016
+84,train,fit,Hunting,Other,7.914475,12.756175,2019
+85,train,fit,Hunting,Other,5.263125,12.778625,2019
+86,train,test,Hunting,Other,8.411375,12.975625,2020
+87,train,val,Hunting,Other,3.029925,15.165775,2017
+88,train,fit,Hunting,Other,2.1238125,15.77153125,2018
+89,train,fit,Hunting,Other,2.442475,15.483825,2020
+90,train,val,Hunting,Other,3.005166667,15.126375,2016
+91,train,test,Hunting,Other,8.589291667,13.36120833,2019
+92,train,fit,Hunting,Other,2.151625,15.647375,2019
+93,train,val,Hunting,Other,3.514875,15.24275,2015
+94,train,val,Hunting,Other,3.514041667,15.24559722,2019
+95,train,test,Hunting,Other,2.129848684,14.88975658,2018
+96,train,fit,Hunting,Other,2.6802375,15.3173,2020
+97,train,holdout,Hunting,Other,5.904125,12.314875,2015
+98,train,val,Hunting,Other,3.474625,15.061375,2019
+99,train,fit,Hunting,Other,2.147408333,14.77324167,2019
+100,train,holdout,Hunting,Other,2.438,15.438,2015
+101,train,holdout,Hunting,Other,8.634875,13.44375,2016
+102,train,test,Hunting,Other,2.712625,15.453625,2015
+103,train,fit,Hunting,Other,5.261458333,12.78170833,2018
+104,train,val,Hunting,Other,3.474375,15.056375,2017
+105,train,test,Hunting,Other,8.5629375,13.31189583,2018
+106,train,val,Hunting,Other,2.455875,12.833125,2018
+107,train,test,Hunting,Other,8.426375,12.966375,2017
+108,train,holdout,Hunting,Other,2.497375,15.3595,2018
+109,train,holdout,Hunting,Other,3.524375,14.958125,2016
+110,train,val,Hunting,Other,3.022,15.15475,2015
+111,train,fit,Hunting,Other,8.502125,13.655625,2018
+112,train,val,Hunting,Other,3.007625,15.122375,2019
+113,train,val,Hunting,Other,5.076541667,12.44245833,2015
+114,train,fit,Hunting,Other,5.259625,12.780375,2016
+115,train,val,Hunting,Other,4.87484375,12.42584375,2019
+116,train,val,Hunting,Other,3.478625,15.051125,2020
+117,train,fit,Hunting,Other,2.157208333,15.72020833,2017
+118,train,holdout,Hunting,Other,2.439375,15.4205,2017
+119,train,fit,Hunting,Other,2.676125,15.3205,2015
+120,train,fit,Hunting,Other,2.467625,15.292625,2015
+121,train,holdout,Hunting,Other,2.443,15.43925,2016
+122,train,fit,Hunting,Other,3.005425,14.763975,2020
+123,train,val,Hunting,Other,3.514125,15.244625,2017
+124,train,test,Hunting,Other,2.120125,14.92725,2015
+125,train,val,Hunting,Other,3.00825,15.1215,2015
+126,train,val,Hunting,Other,5.079,12.437375,2017
+127,train,fit,Hunting,Other,7.912975,12.741925,2018
+128,train,test,Hunting,Other,2.156125,14.928875,2016
+129,train,test,Hunting,Other,2.49840625,15.29809375,2020
+130,train,val,Hunting,Other,2.999125,14.815625,2015
+131,train,test,Hunting,Other,3.26575,14.845125,2017
+132,train,holdout,Hunting,Other,3.525375,14.9375,2019
+133,train,fit,Hunting,Other,4.86275,12.260625,2016
+134,train,val,Hunting,Other,3.474875,15.062625,2016
+135,train,val,Hunting,Other,4.888375,12.425375,2020
+136,train,val,Hunting,Other,5.0828,12.43425,2019
+137,train,holdout,Hunting,Other,3.524770833,14.93590625,2020
+138,train,fit,Hunting,Other,8.481025,13.694075,2019
+139,train,fit,Hunting,Other,2.681875,15.315125,2016
+140,train,val,Hunting,Other,2.472375,12.841375,2020
+141,train,holdout,Hunting,Other,5.977671875,12.40048437,2018
+142,train,fit,Hunting,Other,5.267788043,12.77563587,2015
+143,train,holdout,Hunting,Other,5.987125,12.398375,2020
+144,train,holdout,Hunting,Other,3.524775,14.967425,2018
+145,train,holdout,Hunting,Other,2.433541667,15.41895833,2019
+146,train,fit,Hunting,Other,2.682475,15.314325,2018
+147,train,val,Hunting,Other,4.86484375,12.40559375,2015
+148,train,fit,Hunting,Other,5.272625,12.78375,2020
+149,train,val,Hunting,Other,3.002625,15.116875,2018
+150,train,fit,Hunting,Other,2.681625,15.316375,2019
+151,train,val,Hunting,Other,3.022053571,15.1428631,2018
+152,train,val,Hunting,Other,3.468708333,15.04695833,2018
+153,train,test,Hunting,Other,3.24475,14.876,2015
+154,train,holdout,Infrastructure,Other,2.317736648,12.75195967,2020
+155,train,test,Infrastructure,Other,4.054180092,9.363514419,2020
+156,train,test,Infrastructure,Other,3.892483341,11.12870395,2020
+157,train,fit,Infrastructure,Other,3.976924978,11.60391274,2020
+158,train,val,Infrastructure,Other,7.784883467,14.71388025,2020
+159,train,holdout,Infrastructure,Other,4.96507179,10.69391936,2020
+160,train,val,Infrastructure,Other,6.062813068,14.38689349,2020
+161,train,test,Infrastructure,Other,4.324572993,10.04264077,2020
+162,train,fit,Infrastructure,Other,3.121728827,13.85329421,2020
+163,train,fit,Infrastructure,Other,5.690012225,12.10786761,2020
+164,train,test,Infrastructure,Other,3.992196338,11.55540371,2020
+165,train,holdout,Infrastructure,Other,4.555440021,13.7526829,2020
+166,train,fit,Infrastructure,Other,4.145808251,9.562042097,2020
+167,train,test,Infrastructure,Other,2.941167455,10.05521719,2020
+168,train,fit,Infrastructure,Other,3.883500188,11.27063777,2020
+169,train,test,Infrastructure,Other,3.128017034,10.29237242,2020
+170,train,fit,Infrastructure,Other,3.612208973,10.98138025,2020
+171,train,test,Infrastructure,Other,2.811810054,9.929453048,2020
+172,train,fit,Infrastructure,Other,3.975128347,12.24171659,2020
+173,train,fit,Infrastructure,Other,3.71551523,12.68099276,2020
+174,train,fit,Infrastructure,Other,4.029027264,9.213495767,2020
+175,train,test,Infrastructure,Other,4.070349767,9.381480725,2020
+176,train,fit,Infrastructure,Other,3.781990561,11.13050058,2020
+177,train,fit,Infrastructure,Other,3.495427986,11.21584054,2020
+178,train,test,Infrastructure,Other,4.144011621,11.28141755,2020
+179,train,val,Infrastructure,Other,2.880980331,9.91957158,2020
+180,train,fit,Mining,Other,3.626375,10.753125,2017
+181,train,holdout,Mining,Other,2.54140625,12.7616875,2016
+182,train,val,Mining,Other,2.467125,12.825875,2017
+183,train,fit,Mining,Other,3.582875,10.753875,2016
+184,train,fit,Mining,Other,3.589375,10.76666667,2017
+185,train,test,Mining,Other,3.296625,15.616875,2017
+186,train,fit,Mining,Other,3.662041667,10.62204167,2017
+187,train,fit,Mining,Other,3.66205,10.632575,2019
+188,train,holdout,Mining,Other,3.378875,10.584375,2016
+189,train,test,Mining,Other,3.332291667,15.56895833,2017
+190,train,holdout,Mining,Other,3.380875,10.582625,2015
+191,train,fit,Mining,Other,2.645391667,12.64414167,2015
+192,train,fit,Mining,Other,2.646875,12.652,2016
+193,train,fit,Mining,Other,3.585125,10.756875,2015
+194,train,test,Mining,Other,3.279625,15.59625,2017
+195,train,holdout,Mining,Other,2.5455,12.743875,2015
+196,train,fit,Mining,Other,2.988625,14.1805,2016
+197,train,fit,Mining,Other,2.564958333,9.948041667,2017
+198,train,holdout,Mining,Other,3.347226562,10.62667188,2019
+199,train,fit,Mining,Other,3.770541667,10.65254167,2017
+200,train,fit,Mining,Other,3.7715,10.644375,2015
+201,train,holdout,Mining,Other,3.587375,10.621625,2017
+202,train,test,Mining,Other,3.060875,14.198,2016
+203,train,fit,Mining,Other,3.620625,10.753375,2019
+204,train,holdout,Mining,Other,2.227541667,13.92945833,2015
+205,train,val,Mining,Other,2.451125,12.848375,2019
+206,train,test,Mining,Other,3.419125,13.8335,2015
+207,train,fit,Mining,Other,3.67325,10.594875,2017
+208,train,test,Mining,Other,3.333375,15.564125,2017
+209,train,holdout,Mining,Other,2.608625,12.680625,2016
+210,train,fit,Mining,Other,2.648125,12.658625,2016
+211,train,test,Mining,Other,2.792125,13.899125,2016
+212,train,fit,Mining,Other,3.564125,10.762,2017
+213,train,test,Mining,Other,3.318875,14.10745833,2015
+214,train,fit,Mining,Other,3.62575,10.756375,2015
+215,train,holdout,Mining,Other,3.588625,10.6205,2019
+216,train,fit,Mining,Other,3.585160714,10.75544643,2017
+217,train,test,Mining,Other,3.352041667,14.13429167,2016
+218,train,test,Mining,Other,3.32575,15.578625,2016
+219,train,holdout,Mining,Other,3.588875,10.619,2017
+220,train,test,Mining,Other,2.798375,13.90625,2015
+221,train,test,Mining,Other,2.784625,13.877375,2016
+222,train,fit,Mining,Other,2.595125,12.806625,2015
+223,train,fit,Mining,Other,3.586,10.758625,2017
+224,train,holdout,Mining,Other,3.378325,10.586365,2015
+225,train,fit,Mining,Other,3.772125,10.652375,2016
+226,train,holdout,Mining,Other,2.232375,13.918125,2015
+227,train,fit,Mining,Other,3.618375,10.751625,2019
+228,train,fit,Mining,Other,3.669425,10.601725,2019
+229,train,fit,Mining,Other,3.663284091,10.64178409,2016
+230,train,holdout,Mining,Other,3.236625,15.623125,2016
+231,train,fit,Mining,Other,3.656567308,10.63831731,2016
+232,train,fit,Mining,Other,3.581875,10.753375,2019
+233,train,fit,Mining,Other,2.97125,14.182375,2015
+234,train,fit,Mining,Other,3.662825,10.623475,2016
+235,train,holdout,Mining,Other,3.378125,10.605875,2016
+236,train,holdout,Mining,Other,2.211,13.888125,2016
+237,train,fit,Mining,Other,3.663541667,10.63854167,2017
+238,train,test,Mining,Other,3.447125,10.677625,2017
+239,train,test,Mining,Other,3.28125,15.583125,2017
+240,train,val,Mining,Other,2.459125,12.817,2017
+241,train,fit,Mining,Other,3.674708333,10.59995833,2015
+242,train,fit,Mining,Other,3.551525,10.773425,2017
+243,train,holdout,Mining,Other,3.571625,10.604875,2015
+244,train,holdout,Mining,Other,3.394625,10.61425,2015
+245,train,val,Mining,Other,2.425875,12.805125,2016
+246,train,holdout,Mining,Other,2.54575,12.763375,2016
+247,train,fit,Mining,Other,3.587125,10.755875,2015
+248,train,fit,Mining,Other,3.772433824,10.65472794,2015
+249,train,test,Mining,Other,3.298625,15.605625,2016
+250,train,fit,Mining,Other,3.620625,10.754375,2015
+251,train,test,Mining,Other,3.354875,14.14,2019
+252,train,holdout,Mining,Other,3.590125,10.618875,2016
+253,train,test,Mining,Other,2.417875,12.83525,2017
+254,train,holdout,Mining,Other,2.542875,12.762125,2016
+255,train,fit,Mining,Other,3.554125,10.776375,2015
+256,train,fit,Mining,Other,3.772775,10.650325,2019
+257,train,test,Mining,Other,3.32575,15.57975,2016
+258,train,fit,Mining,Other,2.647875,12.6575,2019
+259,train,fit,Mining,Other,3.669875,10.603375,2015
+260,train,fit,Mining,Other,3.586625,10.759125,2019
+261,train,holdout,Mining,Other,2.611597222,12.68106944,2019
+262,train,test,Mining,Other,3.460541667,10.69079167,2019
+263,train,test,Mining,Other,3.333125,15.569,2017
+264,train,fit,Mining,Other,3.673625,10.598625,2016
+265,train,test,Mining,Other,3.354940217,14.13670109,2015
+266,train,fit,Mining,Other,3.627125,10.752375,2017
+267,train,fit,Mining,Other,3.7735,10.656675,2016
+268,train,holdout,Mining,Other,3.351402778,10.60768056,2016
+269,train,val,Mining,Other,2.451875,12.810625,2017
+270,train,fit,Mining,Other,3.6645,10.641625,2015
+271,train,fit,Mining,Other,3.6645,10.635625,2015
+272,train,holdout,Mining,Other,2.610458333,12.67629167,2019
+273,train,fit,Mining,Other,2.645875,12.647875,2015
+274,train,test,Mining,Other,3.298,15.606,2016
+275,train,holdout,Mining,Other,3.589125,10.618375,2017
+276,train,holdout,Mining,Other,2.54375,12.762125,2015
+277,train,test,Mining,Other,2.799875,13.876,2015
+278,train,holdout,Mining,Other,2.613125,12.674125,2017
+279,train,fit,Mining,Other,3.583375,10.75375,2016
+280,train,holdout,Mining,Other,2.614263889,12.67981944,2017
+281,train,fit,Mining,Other,2.968946429,14.15066071,2017
+282,train,holdout,Mining,Other,2.2085,13.91375,2019
+283,train,holdout,Mining,Other,3.391125,10.624625,2017
+284,train,test,Mining,Other,3.28428125,15.59473958,2019
+285,train,test,Mining,Other,3.325744048,15.58520833,2016
+286,train,fit,Mining,Other,2.645785714,12.65308929,2017
+287,train,fit,Mining,Other,2.555089286,9.941196429,2017
+288,train,holdout,Mining,Other,2.549375,12.738625,2015
+289,train,test,Mining,Other,3.3525,14.1395,2017
+290,train,fit,Oil palm plantation,Plantation,3.997625,10.485875,2017
+291,train,test,Oil palm plantation,Plantation,3.726223214,10.58213393,2017
+292,train,fit,Oil palm plantation,Plantation,4.464625,9.132625,2020
+293,train,fit,Oil palm plantation,Plantation,5.173935976,9.321301829,2015
+294,train,fit,Oil palm plantation,Plantation,4.227625,9.016375,2019
+295,train,test,Oil palm plantation,Plantation,4.191763889,9.340430556,2020
+296,train,test,Oil palm plantation,Plantation,4.149625,8.9955,2015
+297,train,val,Oil palm plantation,Plantation,2.558053571,9.993517857,2019
+298,train,val,Oil palm plantation,Plantation,4.439,8.937,2019
+299,train,test,Oil palm plantation,Plantation,4.133625,9.320625,2017
+300,train,fit,Oil palm plantation,Plantation,5.083535714,8.979410714,2020
+301,train,fit,Oil palm plantation,Plantation,3.650791667,10.67104167,2019
+302,train,test,Oil palm plantation,Plantation,4.032875,9.129,2015
+303,train,fit,Oil palm plantation,Plantation,4.109625,9.220625,2019
+304,train,test,Oil palm plantation,Plantation,5.178763889,9.396152778,2019
+305,train,test,Oil palm plantation,Plantation,4.032375,9.132375,2016
+306,train,val,Oil palm plantation,Plantation,2.901375,9.944625,2020
+307,train,fit,Oil palm plantation,Plantation,4.101275,9.226675,2019
+308,train,fit,Oil palm plantation,Plantation,4.540125,9.099125,2016
+309,train,test,Oil palm plantation,Plantation,5.169875,9.413875,2016
+310,train,val,Oil palm plantation,Plantation,4.053125,9.196125,2019
+311,train,test,Oil palm plantation,Plantation,4.1975,9.296625,2020
+312,train,fit,Oil palm plantation,Plantation,5.156805556,9.299,2017
+313,train,val,Oil palm plantation,Plantation,4.463625,8.960625,2016
+314,train,test,Oil palm plantation,Plantation,4.134791667,9.328041667,2019
+315,train,fit,Oil palm plantation,Plantation,3.387125,10.128125,2020
+316,train,fit,Oil palm plantation,Plantation,4.993375,8.881875,2016
+317,train,fit,Oil palm plantation,Plantation,4.993541667,8.903652778,2019
+318,train,test,Oil palm plantation,Plantation,3.132625,12.273625,2016
+319,train,fit,Oil palm plantation,Plantation,5.594401316,10.12292763,2020
+320,train,fit,Oil palm plantation,Plantation,4.457375,9.1445,2015
+321,train,test,Oil palm plantation,Plantation,4.8625,8.71325,2019
+322,train,fit,Oil palm plantation,Plantation,3.628525,10.666925,2017
+323,train,test,Oil palm plantation,Plantation,4.03409375,9.13821875,2019
+324,train,test,Oil palm plantation,Plantation,2.954875,10.033375,2020
+325,train,test,Oil palm plantation,Plantation,5.194125,9.464625,2017
+326,train,fit,Oil palm plantation,Plantation,4.157625,9.591875,2019
+327,train,holdout,Oil palm plantation,Plantation,4.254916667,8.966458333,2015
+328,train,fit,Oil palm plantation,Plantation,3.652,10.644875,2017
+329,train,fit,Oil palm plantation,Plantation,5.18325,9.34125,2017
+330,train,test,Oil palm plantation,Plantation,5.172333333,9.431541667,2017
+331,train,fit,Oil palm plantation,Plantation,3.653958333,10.65408333,2015
+332,train,test,Oil palm plantation,Plantation,5.039125,9.06525,2017
+333,train,fit,Oil palm plantation,Plantation,5.155214286,9.322625,2015
+334,train,test,Oil palm plantation,Plantation,5.162875,9.426125,2019
+335,train,test,Oil palm plantation,Plantation,3.134125,12.27419643,2017
+336,train,fit,Oil palm plantation,Plantation,5.168708333,9.264208333,2020
+337,train,fit,Oil palm plantation,Plantation,4.093208333,9.202958333,2017
+338,train,fit,Oil palm plantation,Plantation,4.1065,9.223125,2016
+339,train,fit,Oil palm plantation,Plantation,4.532696429,9.111875,2020
+340,train,fit,Oil palm plantation,Plantation,4.563375,9.056875,2019
+341,train,fit,Oil palm plantation,Plantation,3.714125,10.621625,2020
+342,train,test,Oil palm plantation,Plantation,5.18625,9.445625,2015
+343,train,fit,Oil palm plantation,Plantation,4.936875,8.842375,2016
+344,train,test,Oil palm plantation,Plantation,3.728875,10.57775,2016
+345,train,test,Oil palm plantation,Plantation,5.086,9.024,2017
+346,train,fit,Oil palm plantation,Plantation,4.500708333,8.971958333,2019
+347,train,fit,Oil palm plantation,Plantation,5.588965909,10.09955682,2016
+348,train,fit,Oil palm plantation,Plantation,4.56625,9.052375,2017
+349,train,test,Oil palm plantation,Plantation,2.574625,9.891875,2020
+350,train,fit,Oil palm plantation,Plantation,4.01425,10.477,2019
+351,train,holdout,Oil palm plantation,Plantation,4.176875,9.006875,2016
+352,train,test,Oil palm plantation,Plantation,4.639,9.054125,2019
+353,train,test,Oil palm plantation,Plantation,4.970208333,8.864958333,2020
+354,train,holdout,Oil palm plantation,Plantation,5.322022727,9.469863636,2016
+355,train,fit,Oil palm plantation,Plantation,4.99025,8.906125,2017
+356,train,fit,Oil palm plantation,Plantation,3.723125,10.642625,2016
+357,train,fit,Oil palm plantation,Plantation,4.470791667,9.133541667,2016
+358,train,fit,Oil palm plantation,Plantation,4.538875,9.098,2015
+359,train,fit,Oil palm plantation,Plantation,4.542375,9.540625,2020
+360,train,fit,Oil palm plantation,Plantation,4.992,8.905125,2015
+361,train,fit,Oil palm plantation,Plantation,4.4290625,9.405125,2020
+362,train,fit,Oil palm plantation,Plantation,3.606625,10.669,2015
+363,train,fit,Oil palm plantation,Plantation,4.531553571,9.116482143,2017
+364,train,fit,Oil palm plantation,Plantation,3.899958333,9.816541667,2015
+365,train,holdout,Oil palm plantation,Plantation,5.337625,9.476,2015
+366,train,test,Oil palm plantation,Plantation,4.135875,9.3285625,2020
+367,train,holdout,Oil palm plantation,Plantation,5.331875,9.47375,2019
+368,train,fit,Oil palm plantation,Plantation,4.942125,8.821875,2019
+369,train,fit,Oil palm plantation,Plantation,4.149534091,9.604443182,2016
+370,train,fit,Oil palm plantation,Plantation,5.157625,9.281875,2019
+371,train,fit,Oil palm plantation,Plantation,5.600147727,10.11057955,2017
+372,train,val,Oil palm plantation,Plantation,4.394125,9.583125,2020
+373,train,fit,Oil palm plantation,Plantation,4.229625,9.014625,2016
+374,train,fit,Oil palm plantation,Plantation,4.534664474,9.127046053,2019
+375,train,holdout,Oil palm plantation,Plantation,4.261041667,8.977208333,2017
+376,train,fit,Oil palm plantation,Plantation,2.966013889,9.965319444,2020
+377,train,fit,Oil palm plantation,Plantation,4.096942308,9.218028846,2017
+378,train,test,Oil palm plantation,Plantation,5.165625,9.420125,2020
+379,train,test,Oil palm plantation,Plantation,3.72795,10.579875,2015
+380,train,fit,Oil palm plantation,Plantation,3.715754032,10.64581855,2017
+381,train,holdout,Oil palm plantation,Plantation,3.921375,9.871375,2019
+382,train,fit,Oil palm plantation,Plantation,3.65465625,10.67625,2020
+383,train,val,Oil palm plantation,Plantation,4.45775,8.964125,2015
+384,train,fit,Oil palm plantation,Plantation,3.722,10.64375,2015
+385,train,test,Other,Other,5.977662037,10.98866204,2020
+386,train,test,Other,Other,5.961575,10.03905833,2020
+387,train,test,Other,Other,5.996671919,10.93492437,2020
+388,train,test,Other,Other,5.952629464,11.07803869,2020
+389,train,test,Other,Other,5.959155899,11.07193961,2020
+390,train,test,Other,Other,5.960375,10.038375,2020
+391,train,test,Other,Other,5.993200758,11.04120076,2020
+392,train,test,Other,Other,5.999677083,10.92951389,2020
+393,train,test,Other,Other,5.976781824,10.99992487,2020
+394,train,test,Other,Other,5.975796505,11.02305027,2020
+395,train,test,Other,Other,5.976458333,10.99195833,2020
+396,train,test,Other,Other,5.995208333,11.040875,2020
+397,train,test,Other,Other,5.979041667,11.00020833,2020
+398,train,test,Other,Other,5.994916667,11.04095833,2020
+399,train,test,Other,Other,5.976972222,10.99334028,2020
+400,train,test,Other,Other,5.956301724,11.07667026,2020
+401,train,test,Other,Other,5.999216195,10.92736164,2020
+402,train,test,Other,Other,5.969875,11.01204167,2020
+403,train,test,Other,Other,5.975778023,10.9780723,2020
+404,train,test,Other,Other,5.960375,11.07095833,2020
+405,train,test,Other,Other,5.991364969,10.96110185,2020
+406,train,test,Other,Other,5.962731863,11.06876716,2020
+407,train,test,Other,Other,5.998418624,11.03439234,2020
+408,train,test,Other,Other,5.979291667,10.98045833,2020
+409,train,test,Other,Other,5.99425,11.04104167,2020
+410,train,test,Other,Other,5.985875,10.18270833,2020
+411,train,test,Other,Other,5.997102231,10.94822017,2020
+412,train,test,Other,Other,5.992333333,11.041375,2020
+413,train,test,Other,Other,5.951877976,11.07920536,2020
+414,train,test,Other,Other,5.996333333,10.93929167,2020
+415,train,test,Other,Other,5.981791667,11.04858333,2020
+416,train,val,Other,Other,5.998151206,11.33976796,2020
+417,train,test,Other,Other,5.988958333,10.96801389,2020
+418,train,test,Other,Other,5.999725,10.92278864,2020
+419,train,test,Other,Other,5.977859979,10.98441434,2020
+420,train,test,Other,Other,5.974322832,11.00172663,2020
+421,train,test,Other,Other,5.982456024,10.97549906,2020
+422,train,test,Other,Other,5.962569444,10.03956944,2020
+423,train,test,Other,Other,5.989772528,11.03168401,2020
+424,train,test,Other,Other,5.979583333,10.99904167,2020
+425,train,test,Other,Other,5.954847222,11.07761574,2020
+426,train,test,Other,Other,5.977791667,10.98816667,2020
+427,train,test,Other,Other,5.973541667,11.00354167,2020
+428,train,test,Other,Other,5.995093935,10.95464867,2020
+429,train,test,Other,Other,5.949516667,11.080675,2020
+430,train,test,Other,Other,5.987921296,11.04174228,2020
+431,train,test,Other,Other,5.986125,10.18270833,2020
+432,train,test,Other,Other,5.985425,10.163675,2020
+433,train,test,Other,Other,5.987828822,10.97030281,2020
+434,train,test,Other,Other,5.982383333,11.047625,2020
+435,train,test,Other,Other,5.994526316,10.93801261,2020
+436,train,test,Other,Other,5.951375,11.079375,2020
+437,train,fit,Other large-scale plantations,Plantation,6.383125,10.815875,2019
+438,train,fit,Other large-scale plantations,Plantation,6.085375,10.381625,2019
+439,train,fit,Other large-scale plantations,Plantation,6.085165289,10.37841873,2020
+440,train,fit,Other large-scale plantations,Plantation,4.02675,10.48990625,2020
+441,train,test,Other large-scale plantations,Plantation,4.603375,12.233375,2015
+442,train,fit,Other large-scale plantations,Plantation,3.660875,10.059625,2016
+443,train,fit,Other large-scale plantations,Plantation,6.112,10.389625,2016
+444,train,fit,Other large-scale plantations,Plantation,3.653875,10.059875,2016
+445,train,fit,Other large-scale plantations,Plantation,4.09,9.207875,2015
+446,train,fit,Other large-scale plantations,Plantation,3.63625,10.077125,2016
+447,train,holdout,Other large-scale plantations,Plantation,3.858375,9.986375,2019
+448,train,fit,Other large-scale plantations,Plantation,4.690625,14.137375,2015
+449,train,fit,Other large-scale plantations,Plantation,4.137375,9.253625,2016
+450,train,fit,Other large-scale plantations,Plantation,6.385208333,10.82216667,2017
+451,train,test,Other large-scale plantations,Plantation,4.189125,9.337375,2016
+452,train,fit,Other large-scale plantations,Plantation,4.692625,14.179375,2016
+453,train,fit,Other large-scale plantations,Plantation,3.895339286,9.814053571,2016
+454,train,fit,Other large-scale plantations,Plantation,3.898375,9.826125,2017
+455,train,test,Other large-scale plantations,Plantation,4.603236111,12.23595833,2015
+456,train,fit,Other large-scale plantations,Plantation,4.096125,9.22675,2020
+457,train,fit,Other large-scale plantations,Plantation,6.096875,10.398375,2016
+458,train,test,Other large-scale plantations,Plantation,4.1905,9.336,2015
+459,train,test,Other large-scale plantations,Plantation,4.188875,9.337875,2016
+460,train,test,Other large-scale plantations,Plantation,4.603583333,12.23210417,2015
+461,train,fit,Other large-scale plantations,Plantation,3.996920455,10.48967045,2020
+462,train,fit,Other large-scale plantations,Plantation,6.098375,10.396875,2020
+463,train,test,Other large-scale plantations,Plantation,4.191375,9.335916667,2019
+464,train,holdout,Other large-scale plantations,Plantation,3.863585294,9.955952941,2016
+465,train,fit,Other large-scale plantations,Plantation,4.106425,9.225775,2020
+466,train,fit,Other large-scale plantations,Plantation,3.900291667,9.807791667,2019
+467,train,fit,Other large-scale plantations,Plantation,6.079225,10.363575,2017
+468,train,test,Other large-scale plantations,Plantation,4.192041667,9.337208333,2019
+469,train,fit,Other large-scale plantations,Plantation,6.111541667,10.39648611,2017
+470,train,fit,Other large-scale plantations,Plantation,6.385083333,10.82995833,2015
+471,train,fit,Other large-scale plantations,Plantation,4.68925,14.2115,2019
+472,train,fit,Other large-scale plantations,Plantation,6.387875,10.80675,2016
+473,train,test,Other large-scale plantations,Plantation,4.18975,9.334125,2015
+474,train,fit,Other large-scale plantations,Plantation,6.384875,10.807375,2016
+475,train,fit,Other large-scale plantations,Plantation,4.137125,9.254375,2017
+476,train,fit,Other large-scale plantations,Plantation,4.681625,14.225,2019
+477,train,fit,Other large-scale plantations,Plantation,4.132325,9.252875,2017
+478,train,fit,Other large-scale plantations,Plantation,4.689458333,14.19529167,2019
+479,train,test,Other large-scale plantations,Plantation,4.190775,9.343875,2016
+480,train,fit,Other large-scale plantations,Plantation,3.898375,9.805625,2017
+481,train,fit,Other large-scale plantations,Plantation,4.698875,14.2221875,2015
+482,train,fit,Other large-scale plantations,Plantation,4.099375,9.205375,2020
+483,train,fit,Other large-scale plantations,Plantation,3.635375,10.067875,2019
+484,train,fit,Other large-scale plantations,Plantation,6.377443182,10.81321591,2015
+485,train,fit,Other large-scale plantations,Plantation,5.587075,10.113275,2015
+486,train,fit,Other large-scale plantations,Plantation,6.085525,10.361175,2017
+487,train,fit,Other large-scale plantations,Plantation,5.587,10.112625,2015
+488,train,fit,Other large-scale plantations,Plantation,4.1356875,9.2549375,2019
+489,train,fit,Other large-scale plantations,Plantation,3.79325,9.88325,2020
+490,train,fit,Other large-scale plantations,Plantation,3.893875,9.838875,2019
+491,train,holdout,Other large-scale plantations,Plantation,3.86,9.985375,2020
+492,train,fit,Other large-scale plantations,Plantation,4.136125,9.251875,2016
+493,train,fit,Other large-scale plantations,Plantation,4.134625,9.261125,2015
+494,train,fit,Other large-scale plantations,Plantation,4.09571875,9.225453125,2020
+495,train,fit,Other large-scale plantations,Plantation,6.104875,10.398125,2016
+496,train,fit,Other large-scale plantations,Plantation,3.631125,10.059875,2019
+497,train,holdout,Other large-scale plantations,Plantation,3.857375,9.9875,2019
+498,train,holdout,Other large-scale plantations,Plantation,3.867375,9.959075,2017
+499,train,fit,Other large-scale plantations,Plantation,4.0905,9.20875,2015
+500,train,fit,Other large-scale plantations,Plantation,6.108125,10.3955,2015
+501,train,fit,Other large-scale plantations,Plantation,3.896875,9.812125,2020
+502,train,fit,Other large-scale plantations,Plantation,6.101075,10.398525,2017
+503,train,fit,Other large-scale plantations,Plantation,6.084791667,10.35520833,2016
+504,train,fit,Other large-scale plantations,Plantation,3.891125,9.810125,2016
+505,train,fit,Other large-scale plantations,Plantation,4.126625,9.24025,2017
+506,train,holdout,Other large-scale plantations,Plantation,3.86803125,9.967296875,2017
+507,train,fit,Other large-scale plantations,Plantation,4.691625,14.185875,2017
+508,train,fit,Other large-scale plantations,Plantation,3.891916667,9.834375,2016
+509,train,fit,Rubber plantation,Plantation,2.7275,9.989625,2020
+510,train,val,Rubber plantation,Plantation,3.179875,12.374875,2015
+511,train,val,Rubber plantation,Plantation,4.38925,9.574125,2015
+512,train,fit,Rubber plantation,Plantation,4.500291667,8.965041667,2020
+513,train,val,Rubber plantation,Plantation,3.18075,12.4275,2015
+514,train,fit,Rubber plantation,Plantation,3.017125,12.570625,2016
+515,train,test,Rubber plantation,Plantation,4.307125,9.454875,2020
+516,train,val,Rubber plantation,Plantation,3.202875,12.376375,2016
+517,train,test,Rubber plantation,Plantation,3.075875,12.420625,2018
+518,train,test,Rubber plantation,Plantation,3.076125,12.436,2018
+519,train,val,Rubber plantation,Plantation,3.195375,12.404625,2017
+520,train,fit,Rubber plantation,Plantation,4.011,9.251375,2019
+521,train,fit,Rubber plantation,Plantation,4.513625,8.983625,2020
+522,train,val,Rubber plantation,Plantation,4.389401832,9.582869837,2017
+523,train,fit,Rubber plantation,Plantation,4.418625,9.401303571,2019
+524,train,fit,Rubber plantation,Plantation,4.491625,8.983375,2020
+525,train,fit,Rubber plantation,Plantation,3.974625,9.235375,2016
+526,train,val,Rubber plantation,Plantation,3.238375,12.414375,2017
+527,train,fit,Rubber plantation,Plantation,2.808696429,12.54523214,2015
+528,train,fit,Rubber plantation,Plantation,4.012803571,9.252339286,2016
+529,train,fit,Rubber plantation,Plantation,4.011125,9.280625,2015
+530,train,test,Rubber plantation,Plantation,4.3106,9.471225,2020
+531,train,val,Rubber plantation,Plantation,4.388581522,9.57063587,2016
+532,train,val,Rubber plantation,Plantation,3.184875,12.420625,2019
+533,train,val,Rubber plantation,Plantation,4.393625,9.583125,2016
+534,train,fit,Rubber plantation,Plantation,4.436625,9.400375,2016
+535,train,fit,Rubber plantation,Plantation,2.731875,9.997125,2020
+536,train,test,Rubber plantation,Plantation,3.072535714,12.41801786,2015
+537,train,test,Rubber plantation,Plantation,4.606625,12.239125,2020
+538,train,fit,Rubber plantation,Plantation,4.013125,9.270375,2017
+539,train,test,Rubber plantation,Plantation,3.076875,12.450375,2016
+540,train,val,Rubber plantation,Plantation,3.237125,12.407125,2016
+541,train,fit,Rubber plantation,Plantation,4.40875,9.3735,2017
+542,train,test,Rubber plantation,Plantation,4.602482143,12.23105357,2020
+543,train,fit,Rubber plantation,Plantation,3.97684375,9.23065625,2020
+544,train,fit,Rubber plantation,Plantation,3.973375,9.223875,2019
+545,train,test,Rubber plantation,Plantation,2.899875,12.563625,2019
+546,train,fit,Rubber plantation,Plantation,4.014041667,9.268708333,2020
+547,train,test,Rubber plantation,Plantation,3.0608,12.4068,2017
+548,train,test,Rubber plantation,Plantation,2.93075,12.544375,2018
+549,train,holdout,Rubber plantation,Plantation,3.327125,10.015125,2020
+550,train,fit,Rubber plantation,Plantation,4.43675,9.39975,2016
+551,train,val,Rubber plantation,Plantation,3.971375,10.517375,2015
+552,train,test,Rubber plantation,Plantation,3.075375,12.418,2016
+553,train,test,Rubber plantation,Plantation,3.0760625,12.4513125,2018
+554,train,val,Rubber plantation,Plantation,3.184425,12.424025,2019
+555,train,test,Rubber plantation,Plantation,3.074875,12.426875,2019
+556,train,fit,Rubber plantation,Plantation,2.808875,12.532375,2015
+557,train,val,Rubber plantation,Plantation,3.223375,12.396125,2018
+558,train,fit,Rubber plantation,Plantation,4.00915,9.290525,2015
+559,train,fit,Rubber plantation,Plantation,3.974125,9.234875,2016
+560,train,val,Rubber plantation,Plantation,3.223125,12.396625,2018
+561,train,val,Rubber plantation,Plantation,3.225125,12.41874038,2015
+562,train,val,Rubber plantation,Plantation,3.181375,12.405625,2019
+563,train,fit,Rubber plantation,Plantation,3.0105,12.553375,2017
+564,train,fit,Rubber plantation,Plantation,3.017625,12.554125,2019
+565,train,test,Rubber plantation,Plantation,3.076875,12.448625,2016
+566,train,test,Rubber plantation,Plantation,4.596125,12.226375,2020
+567,train,val,Rubber plantation,Plantation,3.238375,12.40725,2016
+568,train,val,Rubber plantation,Plantation,3.199375,12.401375,2016
+569,train,val,Rubber plantation,Plantation,4.392625,9.574125,2019
+570,train,fit,Rubber plantation,Plantation,3.976229167,9.22815625,2019
+571,train,fit,Rubber plantation,Plantation,3.012541667,12.58104167,2017
+572,train,val,Rubber plantation,Plantation,3.9705,10.516,2015
+573,train,val,Rubber plantation,Plantation,3.2259,12.415475,2015
+574,train,fit,Rubber plantation,Plantation,4.4213125,9.3885625,2015
+575,train,val,Selective logging,Other,2.855230263,11.43895395,2018
+576,train,test,Selective logging,Other,4.531875,13.42425,2016
+577,train,test,Selective logging,Other,5.72575,11.458125,2017
+578,train,test,Selective logging,Other,2.73925,11.979125,2017
+579,train,fit,Selective logging,Other,2.765375,15.776875,2017
+580,train,fit,Selective logging,Other,4.103375,14.759625,2016
+581,train,test,Selective logging,Other,5.46375,11.92354167,2018
+582,train,holdout,Selective logging,Other,2.810625,12.29,2018
+583,train,fit,Selective logging,Other,5.219833333,9.272458333,2015
+584,train,val,Selective logging,Other,5.07025,13.550375,2015
+585,train,val,Selective logging,Other,5.232625,12.663625,2016
+586,train,test,Selective logging,Other,4.533196429,13.440625,2017
+587,train,fit,Selective logging,Other,3.389775,14.296275,2018
+588,train,fit,Selective logging,Other,3.192875,14.968,2015
+589,train,holdout,Selective logging,Other,4.3825625,14.44778125,2017
+590,train,fit,Selective logging,Other,3.655875,12.948625,2015
+591,train,holdout,Selective logging,Other,5.317208333,9.276041667,2017
+592,train,test,Selective logging,Other,4.13775,14.74325,2017
+593,train,test,Selective logging,Other,3.500666667,10.69033333,2017
+594,train,fit,Selective logging,Other,5.809965909,8.927875,2018
+595,train,test,Selective logging,Other,3.427575,15.138925,2015
+596,train,test,Selective logging,Other,2.900236111,15.91690278,2018
+597,train,test,Selective logging,Other,2.894708333,13.76345833,2018
+598,train,holdout,Selective logging,Other,4.985875,12.406875,2016
+599,train,fit,Selective logging,Other,3.7535,11.802625,2016
+600,train,test,Selective logging,Other,3.028375,15.456,2016
+601,train,fit,Selective logging,Other,4.186125,13.101125,2017
+602,train,fit,Selective logging,Other,3.421097222,15.51415278,2018
+603,train,test,Selective logging,Other,3.001375,15.529375,2015
+604,train,test,Selective logging,Other,4.533670455,13.42742045,2018
+605,train,fit,Selective logging,Other,4.354333333,13.5975,2018
+606,train,test,Selective logging,Other,3.42925,13.66115625,2017
+607,train,val,Selective logging,Other,5.624625,9.40725,2016
+608,train,fit,Selective logging,Other,3.08,11.329625,2015
+609,train,test,Selective logging,Other,3.127625,13.765375,2016
+610,train,fit,Selective logging,Other,5.067625,8.89075,2015
+611,train,test,Selective logging,Other,2.7215,14.310125,2017
+612,train,val,Selective logging,Other,2.854125,11.44830357,2015
+613,train,fit,Selective logging,Other,3.408875,14.546625,2018
+614,train,fit,Selective logging,Other,4.110958333,10.38440278,2015
+615,train,holdout,Selective logging,Other,5.93325,9.065125,2017
+616,train,test,Selective logging,Other,3.157208333,15.22445833,2018
+617,train,val,Selective logging,Other,3.070375,15.731875,2015
+618,train,test,Selective logging,Other,3.402041667,15.47595833,2015
+619,train,fit,Selective logging,Other,3.939375,12.937125,2015
+620,train,holdout,Selective logging,Other,4.7005,10.304125,2017
+621,train,fit,Selective logging,Other,2.706303571,15.240875,2015
+622,train,fit,Selective logging,Other,2.358125,10.682125,2018
+623,train,val,Selective logging,Other,4.40675,10.695625,2016
+624,train,holdout,Selective logging,Other,4.827875,10.704375,2018
+625,train,fit,Selective logging,Other,3.486553571,12.14891071,2015
+626,train,val,Selective logging,Other,3.6185,10.34075,2015
+627,train,holdout,Selective logging,Other,2.842625,10.96925,2017
+628,train,val,Selective logging,Other,2.603,12.886875,2015
+629,train,test,Selective logging,Other,2.724525,15.679075,2018
+630,train,test,Selective logging,Other,2.521325,10.98075,2015
+631,train,fit,Selective logging,Other,5.385375,13.074125,2016
+632,train,fit,Selective logging,Other,5.595946429,9.271982143,2015
+633,train,val,Selective logging,Other,3.018,15.214375,2015
+634,train,fit,Selective logging,Other,3.119,14.500375,2016
+635,train,holdout,Selective logging,Other,3.2226875,15.64434375,2017
+636,train,val,Selective logging,Other,3.657458333,13.11670833,2017
+637,train,fit,Selective logging,Other,4.87225,13.625625,2017
+638,train,fit,Selective logging,Other,3.128375,14.521125,2015
+639,train,fit,Selective logging,Other,2.589125,11.411125,2018
+640,train,test,Selective logging,Other,4.405875,14.46175,2015
+641,train,fit,Selective logging,Other,4.343425,14.384275,2018
+642,train,fit,Selective logging,Other,4.333125,14.351875,2015
+643,train,fit,Selective logging,Other,4.117096591,12.36025852,2017
+644,train,test,Selective logging,Other,2.557958333,12.23404167,2016
+645,train,fit,Selective logging,Other,2.765625,15.167,2018
+646,train,fit,Selective logging,Other,5.614625,9.117625,2018
+647,train,val,Selective logging,Other,2.933,14.126125,2017
+648,train,val,Selective logging,Other,3.705375,15.198875,2018
+649,train,holdout,Selective logging,Other,4.824125,10.704375,2016
+650,train,holdout,Selective logging,Other,4.716135,10.307935,2016
+651,train,test,Selective logging,Other,4.194875,14.168625,2018
+652,train,test,Selective logging,Other,2.522083333,12.96070833,2015
+653,train,fit,Selective logging,Other,3.090625,14.191625,2016
+654,train,holdout,Selective logging,Other,5.32075,11.225625,2017
+655,train,fit,Selective logging,Other,2.683375,11.201125,2016
+656,train,holdout,Selective logging,Other,5.322375,11.22279167,2015
+657,train,test,Selective logging,Other,3.019625,15.452625,2018
+658,train,fit,Selective logging,Other,2.734375,11.437375,2016
+659,train,fit,Selective logging,Other,2.6105,9.999875,2015
+660,train,test,Selective logging,Other,3.365225,14.484275,2015
+661,train,test,Selective logging,Other,2.24275,15.151125,2015
+662,train,test,Selective logging,Other,2.628291667,13.31229167,2018
+663,train,fit,Selective logging,Other,5.369625,13.08925,2018
+664,train,test,Selective logging,Other,4.18775,13.455375,2018
+665,train,fit,Selective logging,Other,2.423625,14.0015,2017
+666,train,test,Selective logging,Other,2.64425,12.33275,2016
+667,train,val,Selective logging,Other,2.659830882,10.80684559,2017
+668,train,fit,Selective logging,Other,4.04225,14.42410227,2015
+669,train,fit,Selective logging,Other,4.850232143,9.879803571,2018
+670,train,test,Selective logging,Other,2.658125,11.779625,2018
+671,train,val,Selective logging,Other,4.548125,13.257625,2016
+672,train,fit,Selective logging,Other,2.734875,11.442875,2017
+673,train,val,Selective logging,Other,4.452375,10.665875,2018
+674,train,fit,Selective logging,Other,3.829,13.53825,2018
+675,train,fit,Selective logging,Other,4.286708333,14.42045833,2017
+676,train,fit,Selective logging,Other,2.609,15.740375,2015
+677,train,val,Selective logging,Other,2.99303125,13.6881875,2017
+678,train,fit,Selective logging,Other,4.11825,12.361625,2015
+679,train,fit,Selective logging,Other,3.408291667,14.54854167,2017
+680,train,test,Selective logging,Other,3.051916667,14.21366667,2017
+681,train,val,Selective logging,Other,3.502625,13.668375,2018
+682,train,test,Selective logging,Other,3.065,14.69725,2016
+683,train,fit,Selective logging,Other,3.4785,13.680875,2015
+684,train,fit,Selective logging,Other,5.96475,9.3485,2015
+685,train,val,Selective logging,Other,2.6571875,10.8083125,2015
+686,train,test,Selective logging,Other,5.341625,12.171375,2017
+687,train,fit,Selective logging,Other,3.597125,10.755875,2018
+688,train,fit,Selective logging,Other,3.746225,12.592275,2016
+689,train,val,Selective logging,Other,3.762875,10.938,2015
+690,train,fit,Selective logging,Other,5.97325,9.34325,2017
+691,train,fit,Selective logging,Other,3.728303571,13.38905357,2016
+692,train,val,Selective logging,Other,3.02259375,15.18734375,2018
+693,train,fit,Selective logging,Other,4.351708333,14.29120833,2016
+694,train,test,Selective logging,Other,2.649125,13.297575,2017
+695,train,fit,Selective logging,Other,2.607375,9.993416667,2017
+696,train,holdout,Selective logging,Other,2.544899725,11.77930082,2018
+697,train,val,Selective logging,Other,2.638,12.77325,2018
+698,train,test,Selective logging,Other,5.386125,12.515875,2016
+699,train,test,Selective logging,Other,2.664625,13.513625,2017
+700,train,fit,Selective logging,Other,2.774375,13.529125,2015
+701,train,fit,Selective logging,Other,4.556375,9.405125,2015
+702,train,fit,Selective logging,Other,2.971875,11.64008333,2016
+703,train,test,Selective logging,Other,3.128897727,13.76589773,2015
+704,train,fit,Selective logging,Other,2.914625,12.295875,2015
+705,train,test,Selective logging,Other,3.715875,15.23026786,2017
+706,train,test,Selective logging,Other,3.425721154,15.14718269,2017
+707,train,fit,Selective logging,Other,3.6195,10.769125,2015
+708,train,holdout,Selective logging,Other,3.796625,14.953875,2015
+709,train,val,Selective logging,Other,2.854375,13.608625,2016
+710,train,holdout,Selective logging,Other,4.8255,10.696875,2015
+711,train,fit,Selective logging,Other,2.912,12.608375,2018
+712,train,fit,Selective logging,Other,5.552053571,9.370839286,2015
+713,train,fit,Selective logging,Other,2.598625,15.654375,2018
+714,train,test,Selective logging,Other,3.720875,15.24,2015
+715,train,test,Selective logging,Other,3.80290625,13.050625,2016
+716,train,holdout,Selective logging,Other,3.241553571,15.12366071,2015
+717,train,holdout,Selective logging,Other,2.850553571,10.98391071,2016
+718,train,fit,Selective logging,Other,5.025791667,12.18604167,2017
+719,train,val,Selective logging,Other,4.547,13.2575,2018
+720,train,fit,Selective logging,Other,4.045375,14.42666667,2017
+721,train,fit,Selective logging,Other,2.428375,14.007875,2016
+722,train,val,Selective logging,Other,3.544375,13.769,2015
+723,train,test,Selective logging,Other,4.124190789,10.42213816,2017
+724,train,fit,Selective logging,Other,3.936275,12.927575,2016
+725,train,test,Selective logging,Other,3.147875,15.695625,2017
+726,train,fit,Selective logging,Other,3.145375,15.132375,2016
+727,train,test,Selective logging,Other,5.1125,11.9465,2018
+728,train,val,Selective logging,Other,5.0125,11.862125,2015
+729,train,fit,Selective logging,Other,4.084875,14.877125,2017
+730,train,fit,Selective logging,Other,4.8655,13.641875,2016
+731,train,val,Selective logging,Other,5.024625,12.270125,2016
+732,train,fit,Selective logging,Other,4.556375,9.398125,2017
+733,train,test,Selective logging,Other,5.707625,9.80375,2015
+734,train,fit,Selective logging,Other,2.108875,15.423875,2018
+735,train,fit,Selective logging,Other,3.867625,13.571,2015
+736,train,fit,Selective logging,Other,2.928208333,14.23745833,2015
+737,train,test,Selective logging,Other,4.916,13.009125,2017
+738,train,test,Selective logging,Other,3.719875,14.574875,2016
+739,train,fit,Selective logging,Other,2.868875,12.971375,2017
+740,train,val,Selective logging,Other,2.610125,12.618875,2018
+741,train,fit,Selective logging,Other,2.619525,15.475425,2016
+742,train,test,Selective logging,Other,2.5155,10.9705,2017
+743,train,fit,Selective logging,Other,4.189375,13.651625,2015
+744,train,test,Selective logging,Other,5.043291667,13.49391667,2016
+745,train,fit,Selective logging,Other,3.078475,11.332675,2016
+746,train,fit,Selective logging,Other,4.7931875,10.404125,2016
+747,train,test,Selective logging,Other,3.258275,14.864075,2017
+748,train,test,Selective logging,Other,5.613875,9.205625,2016
+749,train,fit,Selective logging,Other,3.487,12.157125,2016
+750,train,fit,Selective logging,Other,5.001875,12.184,2015
+751,train,fit,Selective logging,Other,5.097,11.90575,2017
+752,train,fit,Selective logging,Other,3.40346875,14.0265625,2016
+753,train,fit,Selective logging,Other,2.828375,12.895125,2017
+754,train,holdout,Selective logging,Other,3.350375,14.435625,2016
+755,train,fit,Selective logging,Other,4.293625,10.738125,2018
+756,train,fit,Selective logging,Other,5.5735,9.37075,2018
+757,train,test,Selective logging,Other,3.493375,10.676875,2018
+758,train,test,Selective logging,Other,3.729375,14.133375,2018
+759,train,fit,Selective logging,Other,5.276625,13.691875,2016
+760,train,test,Selective logging,Other,2.396375,10.45175,2015
+761,train,holdout,Selective logging,Other,2.8055,12.3315,2018
+762,train,fit,Selective logging,Other,5.159875,11.929375,2016
+763,train,fit,Selective logging,Other,4.185708333,14.02179167,2016
+764,train,test,Selective logging,Other,5.61239881,9.471446429,2017
+765,train,test,Selective logging,Other,3.054234375,14.21398438,2018
+766,train,val,Selective logging,Other,2.78875,12.856125,2015
+767,train,fit,Selective logging,Other,4.189525,13.661525,2017
+768,train,fit,Selective logging,Other,2.96925,11.661375,2017
+769,train,fit,Selective logging,Other,4.195625,13.649875,2016
+770,train,holdout,Selective logging,Other,4.037625,14.530125,2016
+771,train,fit,Selective logging,Other,3.992,14.092125,2016
+772,train,test,Selective logging,Other,3.05275,14.213625,2015
+773,train,fit,Selective logging,Other,4.084375,14.89275,2015
+774,train,val,Selective logging,Other,3.4905,13.645625,2016
+775,train,fit,Selective logging,Other,5.272875,13.679625,2018
+776,train,fit,Selective logging,Other,4.194375,13.649,2017
+777,train,fit,Selective logging,Other,3.0125,15.354875,2016
+778,train,test,Selective logging,Other,2.601625,13.991125,2018
+779,train,test,Selective logging,Other,2.559625,12.859875,2016
+780,train,val,Selective logging,Other,4.208475,14.194825,2017
+781,train,fit,Selective logging,Other,5.954291667,9.418541667,2018
+782,train,fit,Selective logging,Other,2.4804375,15.245,2016
+783,train,test,Selective logging,Other,2.40375,10.455375,2016
+784,train,holdout,Selective logging,Other,3.745375,14.096625,2017
+785,train,fit,Selective logging,Other,3.677625,13.907875,2018
+786,train,holdout,Selective logging,Other,2.52175,15.543875,2017
+787,train,val,Selective logging,Other,3.401166667,14.507625,2017
+788,train,fit,Selective logging,Other,3.664041667,13.49054167,2015
+789,train,test,Selective logging,Other,2.850925,13.116525,2018
+790,train,test,Selective logging,Other,3.407625,15.476375,2016
+791,train,fit,Selective logging,Other,3.751125,11.793375,2017
+792,train,fit,Selective logging,Other,5.197375,9.092875,2016
+793,train,fit,Selective logging,Other,2.505375,13.135125,2017
+794,train,test,Selective logging,Other,3.530675,13.255525,2015
+795,train,fit,Selective logging,Other,3.40925,14.852625,2015
+796,train,fit,Selective logging,Other,2.929791667,13.78354167,2017
+797,train,fit,Selective logging,Other,3.6765,13.909125,2017
+798,train,val,Selective logging,Other,2.933375,15.687375,2017
+799,train,fit,Selective logging,Other,4.293375,10.736375,2015
+800,train,val,Selective logging,Other,3.222125,15.574625,2018
+801,train,fit,Selective logging,Other,3.721625,12.5855,2015
+802,train,fit,Selective logging,Other,2.225375,14.278875,2017
+803,train,test,Selective logging,Other,5.886775,9.120725,2015
+804,train,test,Selective logging,Other,3.495080882,10.67521324,2015
+805,train,val,Selective logging,Other,2.936375,14.141125,2016
+806,train,test,Selective logging,Other,4.386744565,10.75586413,2015
+807,train,fit,Selective logging,Other,4.184028846,14.01989423,2018
+808,train,test,Selective logging,Other,4.916625,13.007,2015
+809,train,val,Selective logging,Other,4.923625,12.309625,2018
+810,train,fit,Selective logging,Other,3.835375,13.752125,2017
+811,train,fit,Selective logging,Other,2.5965,11.40975,2016
+812,train,fit,Selective logging,Other,3.407875,14.555,2016
+813,train,holdout,Selective logging,Other,2.805125,12.326125,2016
+814,train,test,Selective logging,Other,2.858625,13.124,2015
+815,train,test,Selective logging,Other,3.454625,15.221375,2016
+816,train,fit,Selective logging,Other,4.014261364,14.09107955,2015
+817,train,test,Selective logging,Other,4.915513889,13.00565278,2018
+818,train,test,Selective logging,Other,3.494125,12.519625,2015
+819,train,test,Selective logging,Other,3.02735,15.42805,2018
+820,train,test,Selective logging,Other,2.406458333,10.46595833,2018
+821,train,val,Selective logging,Other,3.618125,10.344125,2017
+822,train,fit,Selective logging,Other,2.60525,12.528125,2017
+823,train,test,Selective logging,Other,3.502375,12.531125,2016
+824,train,fit,Selective logging,Other,5.709458333,11.40545076,2016
+825,train,fit,Selective logging,Other,3.079875,11.328875,2017
+826,train,test,Selective logging,Other,5.454708333,11.99416667,2017
+827,train,holdout,Selective logging,Other,5.275053571,13.34748214,2015
+828,train,fit,Selective logging,Other,5.058125,12.59675,2017
+829,train,test,Selective logging,Other,2.519375,10.98375,2016
+830,train,fit,Selective logging,Other,4.358528846,13.60029808,2016
+831,train,test,Selective logging,Other,5.808875,8.955375,2016
+832,train,val,Selective logging,Other,3.702625,14.713,2015
+833,train,holdout,Selective logging,Other,5.929875,9.0593125,2016
+834,train,holdout,Selective logging,Other,4.062375,14.637375,2016
+835,train,fit,Selective logging,Other,3.516725,13.380675,2017
+836,train,test,Selective logging,Other,3.359875,14.48969643,2018
+837,train,test,Selective logging,Other,5.374125,11.178375,2016
+838,train,holdout,Selective logging,Other,4.977325,12.383075,2017
+839,train,fit,Selective logging,Other,2.794625,12.420375,2017
+840,train,fit,Selective logging,Other,4.226125,13.861375,2015
+841,train,test,Selective logging,Other,3.923,14.27875,2018
+842,train,test,Selective logging,Other,2.656416667,11.78479167,2016
+843,train,fit,Selective logging,Other,3.629553571,13.14435714,2015
+844,train,fit,Selective logging,Other,4.188355,13.095305,2018
+845,train,test,Selective logging,Other,2.4970625,12.2490625,2015
+846,train,test,Selective logging,Other,2.808875,13.9655,2018
+847,train,test,Selective logging,Other,5.008833333,13.386875,2018
+848,train,holdout,Selective logging,Other,4.057458333,14.66254167,2018
+849,train,test,Selective logging,Other,2.658336538,11.78525962,2017
+850,train,holdout,Selective logging,Other,3.094875,15.446375,2017
+851,train,val,Selective logging,Other,4.452525,10.668425,2017
+852,train,test,Selective logging,Other,3.726875,14.156,2015
+853,train,test,Selective logging,Other,3.447541667,15.20095833,2018
+854,train,fit,Selective logging,Other,3.636053571,10.64058929,2016
+855,train,test,Selective logging,Other,2.578375,15.883375,2016
+856,train,fit,Selective logging,Other,4.184,14.018375,2015
+857,train,fit,Selective logging,Other,3.026232143,13.76641071,2015
+858,train,fit,Selective logging,Other,3.4098125,14.7923125,2017
+859,train,fit,Selective logging,Other,3.193125,14.9695,2016
+860,train,fit,Selective logging,Other,2.913232143,12.28391071,2017
+861,train,test,Selective logging,Other,5.355625,12.15525,2015
+862,train,test,Selective logging,Other,3.937291667,14.08754167,2015
+863,train,fit,Selective logging,Other,3.7265625,12.629625,2018
+864,train,fit,Selective logging,Other,2.639875,12.957125,2016
+865,train,test,Selective logging,Other,2.589,15.891125,2017
+866,train,test,Selective logging,Other,5.341625,12.181875,2018
+867,train,fit,Selective logging,Other,4.11790625,12.37059375,2018
+868,train,holdout,Selective logging,Other,4.69425,10.292625,2015
+869,train,fit,Selective logging,Other,4.3046875,10.7473125,2017
+870,train,test,Selective logging,Other,3.763291667,12.93004167,2017
+871,train,test,Selective logging,Other,2.740875,11.979125,2018
+872,train,val,Selective logging,Other,3.766846154,10.93322115,2017
+873,train,test,Selective logging,Other,3.755375,14.7369375,2018
+874,train,fit,Selective logging,Other,2.479875,15.24225,2017
+875,train,fit,Selective logging,Other,2.487875,13.127875,2016
+876,train,fit,Selective logging,Other,2.591075,11.389025,2015
+877,train,val,Selective logging,Other,4.233541667,13.82654167,2016
+878,train,test,Selective logging,Other,2.756875,12.748375,2018
+879,train,test,Selective logging,Other,3.506416667,12.5126875,2017
+880,train,fit,Selective logging,Other,4.2815,10.738125,2016
+881,train,fit,Selective logging,Other,2.891125,13.84625,2016
+882,train,test,Selective logging,Other,2.449041667,12.71979167,2015
+883,train,fit,Selective logging,Other,4.772125,10.345,2015
+884,train,val,Selective logging,Other,2.934553571,14.14351786,2018
+885,train,val,Selective logging,Other,4.547458333,13.24495833,2017
+886,train,fit,Selective logging,Other,4.005375,14.079125,2018
+887,train,fit,Selective logging,Other,4.087291667,14.88029167,2016
+888,train,fit,Selective logging,Other,4.77775,10.35075,2018
+889,train,fit,Small-scale maize plantation,Smallholder agriculture,7.690852862,14.00583093,2020
+890,train,fit,Small-scale maize plantation,Smallholder agriculture,7.428607729,12.83472636,2020
+891,train,fit,Small-scale maize plantation,Smallholder agriculture,7.710965584,13.50724908,2020
+892,train,fit,Small-scale maize plantation,Smallholder agriculture,7.713149196,13.51026755,2020
+893,train,fit,Small-scale maize plantation,Smallholder agriculture,7.714899195,13.51247588,2020
+894,train,fit,Small-scale maize plantation,Smallholder agriculture,7.672564146,14.62547716,2020
+895,train,fit,Small-scale maize plantation,Smallholder agriculture,7.414762399,13.00813414,2020
+896,train,fit,Small-scale maize plantation,Smallholder agriculture,7.768628934,12.53488732,2020
+897,train,test,Small-scale maize plantation,Smallholder agriculture,7.420946429,13.77073214,2020
+898,train,fit,Small-scale maize plantation,Smallholder agriculture,7.710458333,14.42879167,2020
+899,train,holdout,Small-scale maize plantation,Smallholder agriculture,7.571134962,14.06164372,2020
+900,train,fit,Small-scale maize plantation,Smallholder agriculture,7.718093021,14.02214831,2020
+901,train,fit,Small-scale maize plantation,Smallholder agriculture,7.69823254,14.45922522,2020
+902,train,fit,Small-scale maize plantation,Smallholder agriculture,7.66621693,14.60027388,2020
+903,train,val,Small-scale maize plantation,Smallholder agriculture,7.726336463,14.74803485,2020
+904,train,test,Small-scale maize plantation,Smallholder agriculture,7.448170693,13.76918807,2020
+905,train,fit,Small-scale maize plantation,Smallholder agriculture,7.712859494,14.4998671,2020
+906,train,fit,Small-scale maize plantation,Smallholder agriculture,7.691149212,14.696125,2020
+907,train,test,Small-scale maize plantation,Smallholder agriculture,7.829274115,14.75151668,2020
+908,train,holdout,Small-scale maize plantation,Smallholder agriculture,7.729344774,13.9459803,2020
+909,train,fit,Small-scale maize plantation,Smallholder agriculture,7.7033872,13.48443179,2020
+910,train,test,Small-scale maize plantation,Smallholder agriculture,7.706629297,14.33970338,2020
+911,train,fit,Small-scale maize plantation,Smallholder agriculture,7.708410531,14.52255904,2020
+912,train,fit,Small-scale maize plantation,Smallholder agriculture,7.673126136,14.6273321,2020
+913,train,fit,Small-scale maize plantation,Smallholder agriculture,7.69834008,13.47518424,2020
+914,train,test,Small-scale maize plantation,Smallholder agriculture,7.698524916,14.32891624,2020
+915,train,val,Small-scale maize plantation,Smallholder agriculture,7.392061318,13.72008947,2020
+916,train,fit,Small-scale maize plantation,Smallholder agriculture,7.733274182,13.55589252,2020
+917,train,fit,Small-scale maize plantation,Smallholder agriculture,7.374581738,12.99875807,2020
+918,train,fit,Small-scale maize plantation,Smallholder agriculture,7.732605057,13.57045126,2020
+919,train,fit,Small-scale maize plantation,Smallholder agriculture,7.800375,13.51222588,2020
+920,train,fit,Small-scale maize plantation,Smallholder agriculture,7.623330731,14.56080251,2020
+921,train,holdout,Small-scale maize plantation,Smallholder agriculture,7.72920482,13.94545342,2020
+922,train,fit,Small-scale maize plantation,Smallholder agriculture,7.684582468,13.46507314,2020
+923,train,fit,Small-scale maize plantation,Smallholder agriculture,7.545024314,12.84924436,2020
+924,train,fit,Small-scale maize plantation,Smallholder agriculture,7.802643989,13.53085602,2020
+925,train,fit,Small-scale maize plantation,Smallholder agriculture,7.71248253,13.51272588,2020
+926,train,val,Small-scale maize plantation,Smallholder agriculture,7.715125,14.723375,2020
+927,train,test,Small-scale maize plantation,Smallholder agriculture,7.667991003,14.3036471,2020
+928,train,fit,Small-scale maize plantation,Smallholder agriculture,7.709875,13.509375,2020
+929,train,val,Small-scale maize plantation,Smallholder agriculture,7.367357771,13.45035093,2020
+930,train,test,Small-scale maize plantation,Smallholder agriculture,7.798369561,14.61909258,2020
+931,train,test,Small-scale maize plantation,Smallholder agriculture,7.448868335,13.76636484,2020
+932,train,val,Small-scale maize plantation,Smallholder agriculture,7.719190859,14.71960004,2020
+933,train,holdout,Small-scale maize plantation,Smallholder agriculture,4.610675,13.7627,2017
+934,train,test,Small-scale maize plantation,Smallholder agriculture,7.80858232,14.63305203,2020
+935,train,fit,Small-scale maize plantation,Smallholder agriculture,7.378818594,12.96679388,2020
+936,train,val,Small-scale maize plantation,Smallholder agriculture,7.797274407,14.69180839,2020
+937,train,fit,Small-scale maize plantation,Smallholder agriculture,7.691625,14.282625,2020
+938,train,fit,Small-scale maize plantation,Smallholder agriculture,7.628482589,14.55222516,2020
+939,train,test,Small-scale maize plantation,Smallholder agriculture,7.525233179,12.90387523,2020
+940,train,fit,Small-scale maize plantation,Smallholder agriculture,7.551046887,14.41790351,2020
+941,train,fit,Small-scale maize plantation,Smallholder agriculture,7.80592926,13.51338467,2020
+942,train,fit,Small-scale maize plantation,Smallholder agriculture,7.467149086,13.49781824,2020
+943,train,fit,Small-scale maize plantation,Smallholder agriculture,7.753774168,13.55186838,2020
+944,train,val,Small-scale maize plantation,Smallholder agriculture,7.62678725,14.41075616,2020
+945,train,fit,Small-scale maize plantation,Smallholder agriculture,7.651939351,13.73945343,2020
+946,train,test,Small-scale maize plantation,Smallholder agriculture,7.835881554,12.52869126,2020
+947,train,test,Small-scale maize plantation,Smallholder agriculture,7.638107582,14.0052672,2020
+948,train,fit,Small-scale maize plantation,Smallholder agriculture,7.691193684,14.14110886,2020
+949,train,fit,Small-scale maize plantation,Smallholder agriculture,7.679482553,13.48851757,2020
+950,train,fit,Small-scale maize plantation,Smallholder agriculture,7.377166727,12.94682569,2020
+951,train,fit,Small-scale maize plantation,Smallholder agriculture,7.693391332,13.47545566,2020
+952,train,holdout,Small-scale maize plantation,Smallholder agriculture,7.494609264,13.2456113,2020
+953,train,fit,Small-scale maize plantation,Smallholder agriculture,7.73438789,13.86309844,2020
+954,train,fit,Small-scale maize plantation,Smallholder agriculture,7.752423338,13.55901752,2020
+955,train,fit,Small-scale maize plantation,Smallholder agriculture,7.691065878,13.50524344,2020
+956,train,fit,Small-scale maize plantation,Smallholder agriculture,7.693147475,14.5943718,2020
+957,train,fit,Small-scale maize plantation,Smallholder agriculture,7.45437535,13.88418471,2020
+958,train,fit,Small-scale maize plantation,Smallholder agriculture,7.520871356,13.82610077,2020
+959,train,fit,Small-scale maize plantation,Smallholder agriculture,7.694936772,13.47223145,2020
+960,train,test,Small-scale maize plantation,Smallholder agriculture,7.808875,14.632375,2020
+961,train,test,Small-scale maize plantation,Smallholder agriculture,7.437874034,13.31370678,2020
+962,train,fit,Small-scale maize plantation,Smallholder agriculture,7.675875,14.628375,2020
+963,train,fit,Small-scale maize plantation,Smallholder agriculture,7.759113242,13.57355726,2020
+964,train,test,Small-scale maize plantation,Smallholder agriculture,7.699822343,14.3221023,2020
+965,train,val,Small-scale maize plantation,Smallholder agriculture,7.726159496,14.74214166,2020
+966,train,fit,Small-scale maize plantation,Smallholder agriculture,7.768829349,13.58520298,2020
+967,train,fit,Small-scale maize plantation,Smallholder agriculture,7.708958041,13.51029196,2020
+968,train,fit,Small-scale maize plantation,Smallholder agriculture,7.626197417,14.55641663,2020
+969,train,fit,Small-scale maize plantation,Smallholder agriculture,7.70133913,13.82578571,2020
+970,train,fit,Small-scale maize plantation,Smallholder agriculture,7.634048503,13.83257632,2020
+971,train,val,Small-scale maize plantation,Smallholder agriculture,7.81681579,13.75718404,2020
+972,train,fit,Small-scale maize plantation,Smallholder agriculture,7.375375,13.002375,2020
+973,train,fit,Small-scale maize plantation,Smallholder agriculture,7.61734999,14.5581597,2020
+974,train,val,Small-scale maize plantation,Smallholder agriculture,7.481163054,13.07590088,2020
+975,train,val,Small-scale maize plantation,Smallholder agriculture,7.732125,14.729875,2020
+976,train,fit,Small-scale maize plantation,Smallholder agriculture,7.566650355,13.74231685,2020
+977,train,val,Small-scale maize plantation,Smallholder agriculture,7.778418277,14.71651951,2020
+978,train,fit,Small-scale maize plantation,Smallholder agriculture,7.617045565,14.13287335,2020
+979,train,test,Small-scale maize plantation,Smallholder agriculture,7.717329572,14.33899096,2020
+980,train,fit,Small-scale maize plantation,Smallholder agriculture,7.701049952,14.43369986,2020
+981,train,fit,Small-scale maize plantation,Smallholder agriculture,7.732585641,13.86055545,2020
+982,train,fit,Small-scale maize plantation,Smallholder agriculture,7.382382188,13.05778573,2020
+983,train,fit,Small-scale maize plantation,Smallholder agriculture,7.702232537,14.4922252,2020
+984,train,test,Small-scale maize plantation,Smallholder agriculture,7.691857544,14.32580865,2020
+985,train,test,Small-scale maize plantation,Smallholder agriculture,7.841979469,13.67472649,2020
+986,train,fit,Small-scale maize plantation,Smallholder agriculture,7.702024204,14.48940873,2020
+987,train,val,Small-scale maize plantation,Smallholder agriculture,7.439420455,13.37673864,2020
+988,train,fit,Small-scale maize plantation,Smallholder agriculture,7.55931597,13.707375,2020
+989,train,test,Small-scale maize plantation,Smallholder agriculture,7.436615418,13.76910808,2020
+990,train,fit,Small-scale maize plantation,Smallholder agriculture,7.860372939,14.67162708,2020
+991,train,fit,Small-scale maize plantation,Smallholder agriculture,7.696548416,13.45816017,2020
+992,train,fit,Small-scale maize plantation,Smallholder agriculture,7.701079606,14.45994495,2020
+993,train,test,Small-scale maize plantation,Smallholder agriculture,7.680006772,14.30915898,2020
+994,train,fit,Small-scale maize plantation,Smallholder agriculture,7.717774193,14.02660052,2020
+995,train,fit,Small-scale maize plantation,Smallholder agriculture,7.511891759,13.90256302,2020
+996,train,fit,Small-scale maize plantation,Smallholder agriculture,7.490609505,13.78411891,2020
+997,train,val,Small-scale maize plantation,Smallholder agriculture,7.614041667,14.46379167,2020
+998,train,fit,Small-scale maize plantation,Smallholder agriculture,7.697996776,14.68308041,2020
+999,train,fit,Small-scale maize plantation,Smallholder agriculture,7.857875,12.380625,2020
+1000,train,fit,Small-scale maize plantation,Smallholder agriculture,7.700877706,14.4746279,2020
+1001,train,val,Small-scale maize plantation,Smallholder agriculture,7.627131887,14.41011331,2020
+1002,train,holdout,Small-scale maize plantation,Smallholder agriculture,7.752815235,13.9580589,2020
+1003,train,test,Small-scale maize plantation,Smallholder agriculture,7.829863903,14.75062242,2020
+1004,train,holdout,Small-scale maize plantation,Smallholder agriculture,7.73446801,13.94492402,2020
+1005,train,fit,Small-scale maize plantation,Smallholder agriculture,7.857371763,12.37963933,2020
+1006,train,fit,Small-scale maize plantation,Smallholder agriculture,7.455587572,13.88333279,2020
+1007,train,fit,Small-scale maize plantation,Smallholder agriculture,7.400353536,13.03060754,2020
+1008,train,fit,Small-scale maize plantation,Smallholder agriculture,7.685232549,14.41601692,2020
+1009,train,fit,Small-scale maize plantation,Smallholder agriculture,7.715097003,13.52043624,2020
+1010,train,holdout,Small-scale maize plantation,Smallholder agriculture,7.752390605,12.22780726,2020
+1011,train,val,Small-scale maize plantation,Smallholder agriculture,7.676132758,14.24927382,2020
+1012,train,val,Small-scale maize plantation,Smallholder agriculture,7.638725,14.369675,2020
+1013,train,fit,Small-scale maize plantation,Smallholder agriculture,7.832673226,13.54101753,2020
+1014,train,val,Small-scale maize plantation,Smallholder agriculture,7.416863455,12.44822739,2020
+1015,train,val,Small-scale maize plantation,Smallholder agriculture,7.675113786,14.24163404,2020
+1016,train,fit,Small-scale maize plantation,Smallholder agriculture,7.694450374,12.21512024,2020
+1017,train,val,Small-scale maize plantation,Smallholder agriculture,7.800676582,14.7444803,2020
+1018,train,test,Small-scale maize plantation,Smallholder agriculture,7.75994083,14.52618351,2020
+1019,train,val,Small-scale maize plantation,Smallholder agriculture,7.750897483,14.75278109,2020
+1020,train,val,Small-scale maize plantation,Smallholder agriculture,7.796539218,13.57869458,2020
+1021,train,val,Small-scale maize plantation,Smallholder agriculture,7.42444579,13.72471034,2020
+1022,train,fit,Small-scale maize plantation,Smallholder agriculture,7.682875,13.46176758,2020
+1023,train,fit,Small-scale maize plantation,Smallholder agriculture,7.683190884,13.462125,2020
+1024,train,fit,Small-scale maize plantation,Smallholder agriculture,7.598283338,13.93360982,2020
+1025,train,holdout,Small-scale maize plantation,Smallholder agriculture,7.733625,13.945375,2020
+1026,train,fit,Small-scale maize plantation,Smallholder agriculture,7.442528148,13.87729095,2020
+1027,train,test,Small-scale maize plantation,Smallholder agriculture,7.833982445,14.76205834,2020
+1028,train,fit,Small-scale maize plantation,Smallholder agriculture,7.865081911,12.50845807,2020
+1029,train,fit,Small-scale maize plantation,Smallholder agriculture,7.716982527,13.52172588,2020
+1030,train,val,Small-scale maize plantation,Smallholder agriculture,7.639912516,14.37088189,2020
+1031,train,test,Small-scale maize plantation,Smallholder agriculture,7.682919641,14.36884589,2020
+1032,train,fit,Small-scale maize plantation,Smallholder agriculture,7.375232766,13.0035179,2020
+1033,train,fit,Small-scale maize plantation,Smallholder agriculture,7.691628048,14.69373211,2020
+1034,train,fit,Small-scale maize plantation,Smallholder agriculture,7.686554311,13.46238057,2020
+1035,train,fit,Small-scale maize plantation,Smallholder agriculture,7.823555451,13.5334032,2020
+1036,train,val,Small-scale maize plantation,Smallholder agriculture,7.416105334,12.42415889,2020
+1037,train,test,Small-scale maize plantation,Smallholder agriculture,7.667935759,14.30492853,2020
+1038,train,test,Small-scale maize plantation,Smallholder agriculture,7.770690092,14.45698807,2020
+1039,train,val,Small-scale maize plantation,Smallholder agriculture,7.734121911,14.70812213,2020
+1040,train,test,Small-scale maize plantation,Smallholder agriculture,7.638922315,14.00480981,2020
+1041,train,fit,Small-scale maize plantation,Smallholder agriculture,7.500090357,13.9140762,2020
+1042,train,fit,Small-scale maize plantation,Smallholder agriculture,7.425346087,13.65815406,2020
+1043,train,fit,Small-scale maize plantation,Smallholder agriculture,7.697861963,13.46572614,2020
+1044,train,fit,Small-scale maize plantation,Smallholder agriculture,7.674375,14.626625,2020
+1045,train,val,Small-scale maize plantation,Smallholder agriculture,7.481681974,13.07569384,2020
+1046,train,fit,Small-scale maize plantation,Smallholder agriculture,7.710826614,13.50883853,2020
+1047,train,holdout,Small-scale maize plantation,Smallholder agriculture,7.429731688,12.73691551,2020
+1048,train,fit,Small-scale maize plantation,Smallholder agriculture,7.694639611,14.42075344,2020
+1049,train,fit,Small-scale maize plantation,Smallholder agriculture,2.977625,11.68158333,2017
+1050,train,fit,Small-scale maize plantation,Smallholder agriculture,7.454372933,13.87580472,2020
+1051,train,test,Small-scale maize plantation,Smallholder agriculture,7.366941105,13.28376771,2020
+1052,train,test,Small-scale maize plantation,Smallholder agriculture,7.682506769,14.36693362,2020
+1053,train,test,Small-scale maize plantation,Smallholder agriculture,7.44840215,13.76374778,2020
+1054,train,test,Small-scale maize plantation,Smallholder agriculture,7.613121781,13.99408051,2020
+1055,train,fit,Small-scale maize plantation,Smallholder agriculture,7.69521901,13.47604645,2020
+1056,train,fit,Small-scale maize plantation,Smallholder agriculture,7.382779144,13.05289058,2020
+1057,train,test,Small-scale maize plantation,Smallholder agriculture,7.378316097,12.79418472,2020
+1058,train,test,Small-scale maize plantation,Smallholder agriculture,7.676695364,14.31031935,2020
+1059,train,holdout,Small-scale maize plantation,Smallholder agriculture,7.398383654,13.60142552,2020
+1060,train,fit,Small-scale maize plantation,Smallholder agriculture,7.702232537,13.50999343,2020
+1061,train,val,Small-scale maize plantation,Smallholder agriculture,7.570215259,13.85640962,2020
+1062,train,fit,Small-scale maize plantation,Smallholder agriculture,7.715965055,13.52051754,2020
+1063,train,test,Small-scale maize plantation,Smallholder agriculture,7.409751942,12.55108332,2020
+1064,train,fit,Small-scale maize plantation,Smallholder agriculture,7.693607543,13.47605924,2020
+1065,train,fit,Small-scale maize plantation,Smallholder agriculture,7.690641583,14.41983382,2020
+1066,train,test,Small-scale maize plantation,Smallholder agriculture,4.605875,13.60775,2017
+1067,train,val,Small-scale maize plantation,Smallholder agriculture,7.759145551,14.75688058,2020
+1068,train,fit,Small-scale maize plantation,Smallholder agriculture,7.758111772,13.57322677,2020
+1069,train,fit,Small-scale maize plantation,Smallholder agriculture,7.72134813,13.78014539,2020
+1070,train,fit,Small-scale maize plantation,Smallholder agriculture,7.694939034,13.45540055,2020
+1071,train,fit,Small-scale maize plantation,Smallholder agriculture,7.379113298,12.9495082,2020
+1072,train,fit,Small-scale maize plantation,Smallholder agriculture,7.756880534,13.55288484,2020
+1073,train,test,Small-scale maize plantation,Smallholder agriculture,7.716298388,14.34076697,2020
+1074,train,fit,Small-scale maize plantation,Smallholder agriculture,7.503356513,13.7664116,2020
+1075,train,test,Small-scale maize plantation,Smallholder agriculture,7.646163485,13.9455095,2020
+1076,train,fit,Small-scale maize plantation,Smallholder agriculture,7.853170108,13.77567379,2020
+1077,train,holdout,Small-scale maize plantation,Smallholder agriculture,7.738846251,12.21644526,2020
+1078,train,val,Small-scale maize plantation,Smallholder agriculture,7.649340148,14.16747542,2020
+1079,train,fit,Small-scale maize plantation,Smallholder agriculture,7.670372833,14.53575767,2020
+1080,train,fit,Small-scale maize plantation,Smallholder agriculture,7.735590028,13.86329356,2020
+1081,train,holdout,Small-scale maize plantation,Smallholder agriculture,7.729241704,13.94736411,2020
+1082,train,fit,Small-scale maize plantation,Smallholder agriculture,7.647395392,14.53371256,2020
+1083,train,val,Small-scale maize plantation,Smallholder agriculture,7.778079115,14.75936238,2020
+1084,train,fit,Small-scale maize plantation,Smallholder agriculture,7.698463551,14.46015719,2020
+1085,train,fit,Small-scale maize plantation,Smallholder agriculture,7.760482497,13.57243417,2020
+1086,train,holdout,Small-scale maize plantation,Smallholder agriculture,7.6186811,13.9101709,2020
+1087,train,fit,Small-scale maize plantation,Smallholder agriculture,7.643982578,14.54801682,2020
+1088,train,test,Small-scale maize plantation,Smallholder agriculture,7.835638267,14.76137976,2020
+1089,train,fit,Small-scale oil palm plantation,Smallholder agriculture,3.119498184,11.67539246,2019
+1090,train,fit,Small-scale oil palm plantation,Smallholder agriculture,3.645125,11.540125,2019
+1091,train,val,Small-scale oil palm plantation,Smallholder agriculture,3.595881424,10.88587147,2019
+1092,train,fit,Small-scale oil palm plantation,Smallholder agriculture,4.296594585,9.661246423,2019
+1093,train,holdout,Small-scale oil palm plantation,Smallholder agriculture,3.683140302,10.11034236,2019
+1094,train,fit,Small-scale oil palm plantation,Smallholder agriculture,3.973464621,9.990727765,2019
+1095,train,fit,Small-scale oil palm plantation,Smallholder agriculture,3.735957092,10.67402393,2019
+1096,train,val,Small-scale oil palm plantation,Smallholder agriculture,4.27290818,9.564546087,2019
+1097,train,fit,Small-scale oil palm plantation,Smallholder agriculture,4.138215305,10.02903163,2019
+1098,train,holdout,Small-scale oil palm plantation,Smallholder agriculture,3.656363395,11.19387009,2019
+1099,train,fit,Small-scale oil palm plantation,Smallholder agriculture,3.870330937,10.86758054,2019
+1100,train,fit,Small-scale oil palm plantation,Smallholder agriculture,4.297644399,9.659643397,2019
+1101,train,fit,Small-scale oil palm plantation,Smallholder agriculture,3.844609496,9.873109397,2019
+1102,train,fit,Small-scale oil palm plantation,Smallholder agriculture,3.867549479,9.882161844,2019
+1103,train,fit,Small-scale oil palm plantation,Smallholder agriculture,3.847293847,9.877839093,2019
+1104,train,fit,Small-scale oil palm plantation,Smallholder agriculture,3.63795389,10.725375,2019
+1105,train,fit,Small-scale oil palm plantation,Smallholder agriculture,3.523954249,10.11328724,2019
+1106,train,fit,Small-scale oil palm plantation,Smallholder agriculture,4.272260115,9.624024463,2019
+1107,train,fit,Small-scale oil palm plantation,Smallholder agriculture,3.488092073,11.77909252,2019
+1108,train,holdout,Small-scale oil palm plantation,Smallholder agriculture,3.969013744,10.2374501,2019
+1109,train,fit,Small-scale oil palm plantation,Smallholder agriculture,4.097540377,9.865705201,2019
+1110,train,fit,Small-scale oil palm plantation,Smallholder agriculture,3.776355126,10.70735723,2019
+1111,train,fit,Small-scale oil palm plantation,Smallholder agriculture,3.832879559,10.99661543,2019
+1112,train,fit,Small-scale oil palm plantation,Smallholder agriculture,3.690569499,10.60697216,2019
+1113,train,fit,Small-scale oil palm plantation,Smallholder agriculture,3.86625,9.88175,2019
+1114,train,fit,Small-scale oil palm plantation,Smallholder agriculture,3.73396787,10.65721433,2019
+1115,train,val,Small-scale oil palm plantation,Smallholder agriculture,3.609748985,10.11813883,2019
+1116,train,fit,Small-scale oil palm plantation,Smallholder agriculture,3.694241133,10.61402047,2019
+1117,train,holdout,Small-scale oil palm plantation,Smallholder agriculture,3.768363886,11.07678303,2019
+1118,train,fit,Small-scale oil palm plantation,Smallholder agriculture,3.859724674,9.892294482,2019
+1119,train,val,Small-scale oil palm plantation,Smallholder agriculture,3.111125,12.025875,2019
+1120,train,fit,Small-scale oil palm plantation,Smallholder agriculture,3.684155785,10.68330045,2019
+1121,train,fit,Small-scale oil palm plantation,Smallholder agriculture,3.126717818,12.12408991,2019
+1122,train,fit,Small-scale oil palm plantation,Smallholder agriculture,3.894277178,9.840002152,2019
+1123,train,fit,Small-scale oil palm plantation,Smallholder agriculture,4.349416406,9.551756568,2019
+1124,train,fit,Small-scale oil palm plantation,Smallholder agriculture,3.65457304,10.70057236,2019
+1125,train,fit,Small-scale oil palm plantation,Smallholder agriculture,3.232949453,11.73881696,2019
+1126,train,holdout,Small-scale oil palm plantation,Smallholder agriculture,4.125904457,9.472252152,2019
+1127,train,fit,Small-scale oil palm plantation,Smallholder agriculture,3.624161848,10.62755269,2019
+1128,train,fit,Small-scale oil palm plantation,Smallholder agriculture,3.66654466,10.71411371,2019
+1129,train,fit,Small-scale oil palm plantation,Smallholder agriculture,3.594952627,11.27429917,2019
+1130,train,test,Small-scale oil palm plantation,Smallholder agriculture,3.718799488,10.58345501,2019
+1131,train,fit,Small-scale oil palm plantation,Smallholder agriculture,3.953125,9.98875,2019
+1132,train,fit,Small-scale oil palm plantation,Smallholder agriculture,4.080779997,11.01357735,2019
+1133,train,fit,Small-scale oil palm plantation,Smallholder agriculture,2.948625,11.69633854,2019
+1134,train,test,Small-scale oil palm plantation,Smallholder agriculture,3.811625,11.63447018,2019
+1135,train,fit,Small-scale oil palm plantation,Smallholder agriculture,3.677792379,10.67841314,2019
+1136,train,fit,Small-scale oil palm plantation,Smallholder agriculture,3.699297865,10.74236623,2019
+1137,train,fit,Small-scale oil palm plantation,Smallholder agriculture,3.177411726,12.10236729,2019
+1138,train,fit,Small-scale oil palm plantation,Smallholder agriculture,3.736849319,10.73934755,2019
+1139,train,val,Small-scale oil palm plantation,Smallholder agriculture,4.060116848,10.79053061,2019
+1140,train,fit,Small-scale oil palm plantation,Smallholder agriculture,3.861024882,9.891990781,2019
+1141,train,fit,Small-scale oil palm plantation,Smallholder agriculture,3.170460346,12.10473112,2019
+1142,train,fit,Small-scale oil palm plantation,Smallholder agriculture,3.737157834,10.68951399,2019
+1143,train,holdout,Small-scale oil palm plantation,Smallholder agriculture,4.194675587,9.868764287,2019
+1144,train,holdout,Small-scale oil palm plantation,Smallholder agriculture,3.975454901,9.90954842,2019
+1145,train,fit,Small-scale oil palm plantation,Smallholder agriculture,3.725022273,10.73852316,2019
+1146,train,val,Small-scale oil palm plantation,Smallholder agriculture,3.718967994,10.787875,2019
+1147,train,fit,Small-scale oil palm plantation,Smallholder agriculture,3.885300595,9.880535362,2019
+1148,train,holdout,Small-scale oil palm plantation,Smallholder agriculture,3.913156164,10.71703839,2019
+1149,train,holdout,Small-scale oil palm plantation,Smallholder agriculture,3.968125561,10.23762065,2019
+1150,train,holdout,Small-scale oil palm plantation,Smallholder agriculture,3.974109116,9.908245462,2019
+1151,train,fit,Small-scale oil palm plantation,Smallholder agriculture,3.877470246,10.72913365,2019
+1152,train,fit,Small-scale oil palm plantation,Smallholder agriculture,3.89988224,10.55351526,2019
+1153,train,fit,Small-scale oil palm plantation,Smallholder agriculture,3.958078925,10.71474559,2019
+1154,train,fit,Small-scale oil palm plantation,Smallholder agriculture,3.590203371,11.17768279,2019
+1155,train,test,Small-scale oil palm plantation,Smallholder agriculture,3.135670751,12.27543396,2019
+1156,train,fit,Small-scale oil palm plantation,Smallholder agriculture,4.239979972,9.67558206,2019
+1157,train,fit,Small-scale oil palm plantation,Smallholder agriculture,4.297876714,9.636590354,2019
+1158,train,fit,Small-scale oil palm plantation,Smallholder agriculture,3.602361783,10.71182005,2019
+1159,train,fit,Small-scale oil palm plantation,Smallholder agriculture,2.871220623,12.03235902,2019
+1160,train,fit,Small-scale oil palm plantation,Smallholder agriculture,3.672162594,10.69744324,2019
+1161,train,val,Small-scale oil palm plantation,Smallholder agriculture,4.271755186,9.585746286,2019
+1162,train,fit,Small-scale oil palm plantation,Smallholder agriculture,3.733167828,10.68087115,2019
+1163,train,fit,Small-scale oil palm plantation,Smallholder agriculture,3.615402901,10.6998064,2019
+1164,train,fit,Small-scale oil palm plantation,Smallholder agriculture,3.734208103,10.68123902,2019
+1165,train,holdout,Small-scale oil palm plantation,Smallholder agriculture,3.639252628,11.17510057,2019
+1166,train,val,Small-scale oil palm plantation,Smallholder agriculture,3.613403868,10.12041047,2019
+1167,train,val,Small-scale oil palm plantation,Smallholder agriculture,2.908125,11.725,2019
+1168,train,fit,Small-scale oil palm plantation,Smallholder agriculture,3.710970483,10.6972242,2019
+1169,train,holdout,Small-scale oil palm plantation,Smallholder agriculture,3.966435298,9.941986805,2019
+1170,train,fit,Small-scale oil palm plantation,Smallholder agriculture,4.165055315,9.589125,2019
+1171,train,holdout,Small-scale oil palm plantation,Smallholder agriculture,3.990052546,9.946538085,2019
+1172,train,test,Small-scale oil palm plantation,Smallholder agriculture,3.128035095,12.27519787,2019
+1173,train,test,Small-scale oil palm plantation,Smallholder agriculture,3.421661002,11.84977648,2019
+1174,train,fit,Small-scale oil palm plantation,Smallholder agriculture,3.770609007,11.1256354,2019
+1175,train,test,Small-scale oil palm plantation,Smallholder agriculture,4.106144517,10.61405964,2019
+1176,train,fit,Small-scale oil palm plantation,Smallholder agriculture,3.964816877,10.73173648,2019
+1177,train,fit,Small-scale oil palm plantation,Smallholder agriculture,3.697944474,10.71435925,2019
+1178,train,holdout,Small-scale oil palm plantation,Smallholder agriculture,3.662072512,11.17199335,2019
+1179,train,holdout,Small-scale oil palm plantation,Smallholder agriculture,3.973802146,9.909501793,2019
+1180,train,holdout,Small-scale oil palm plantation,Smallholder agriculture,3.958383588,9.911012838,2019
+1181,train,holdout,Small-scale oil palm plantation,Smallholder agriculture,2.982586203,12.07105759,2019
+1182,train,fit,Small-scale oil palm plantation,Smallholder agriculture,3.613847219,10.69955477,2019
+1183,train,fit,Small-scale oil palm plantation,Smallholder agriculture,4.155375,9.564306312,2019
+1184,train,fit,Small-scale oil palm plantation,Smallholder agriculture,3.752516525,10.654375,2019
+1185,train,fit,Small-scale oil palm plantation,Smallholder agriculture,4.293974403,9.686991458,2019
+1186,train,holdout,Small-scale oil palm plantation,Smallholder agriculture,4.639256541,9.929685318,2019
+1187,train,val,Small-scale oil palm plantation,Smallholder agriculture,5.036580406,9.906094972,2019
+1188,train,fit,Small-scale oil palm plantation,Smallholder agriculture,3.974799466,10.01780929,2019
+1189,train,fit,Small-scale oil palm plantation,Smallholder agriculture,4.288479792,9.654230937,2019
+1190,train,fit,Small-scale oil palm plantation,Smallholder agriculture,3.865625,9.881625,2019
+1191,train,fit,Small-scale oil palm plantation,Smallholder agriculture,3.791027583,10.21252005,2019
+1192,train,val,Small-scale oil palm plantation,Smallholder agriculture,3.000659206,12.02946663,2019
+1193,train,fit,Small-scale oil palm plantation,Smallholder agriculture,3.969015613,10.01431105,2019
+1194,train,fit,Small-scale oil palm plantation,Smallholder agriculture,4.175695218,11.54200177,2019
+1195,train,test,Small-scale oil palm plantation,Smallholder agriculture,3.873581289,10.94697912,2019
+1196,train,val,Small-scale oil palm plantation,Smallholder agriculture,5.037623814,9.915956143,2019
+1197,train,fit,Small-scale oil palm plantation,Smallholder agriculture,3.620929577,10.69354935,2019
+1198,train,holdout,Small-scale oil palm plantation,Smallholder agriculture,3.683086745,11.1760177,2019
+1199,train,test,Small-scale oil palm plantation,Smallholder agriculture,4.033253582,10.90855005,2019
+1200,train,val,Small-scale oil palm plantation,Smallholder agriculture,3.584163895,11.96434089,2019
+1201,train,holdout,Small-scale oil palm plantation,Smallholder agriculture,4.206375,9.863925,2019
+1202,train,fit,Small-scale oil palm plantation,Smallholder agriculture,3.619390636,10.69481386,2019
+1203,train,fit,Small-scale oil palm plantation,Smallholder agriculture,3.920540284,10.91541871,2019
+1204,train,fit,Small-scale oil palm plantation,Smallholder agriculture,4.285717144,9.612506212,2019
+1205,train,test,Small-scale oil palm plantation,Smallholder agriculture,4.957638146,8.862858711,2019
+1206,train,fit,Small-scale oil palm plantation,Smallholder agriculture,3.650322195,10.67026249,2019
+1207,train,holdout,Small-scale oil palm plantation,Smallholder agriculture,4.208939319,9.613932771,2019
+1208,train,fit,Small-scale oil palm plantation,Smallholder agriculture,4.635041667,9.115208333,2019
+1209,train,fit,Small-scale oil palm plantation,Smallholder agriculture,3.865690591,10.09227704,2019
+1210,train,fit,Small-scale oil palm plantation,Smallholder agriculture,4.226967173,11.53629707,2019
+1211,train,holdout,Small-scale oil palm plantation,Smallholder agriculture,3.934298149,9.914416482,2019
+1212,train,fit,Small-scale oil palm plantation,Smallholder agriculture,3.649023457,11.53171144,2019
+1213,train,fit,Small-scale oil palm plantation,Smallholder agriculture,3.666677017,10.65806186,2019
+1214,train,holdout,Small-scale oil palm plantation,Smallholder agriculture,5.814189905,9.780002038,2019
+1215,train,fit,Small-scale oil palm plantation,Smallholder agriculture,4.634277769,9.114838883,2019
+1216,train,fit,Small-scale oil palm plantation,Smallholder agriculture,3.124982922,12.12401303,2019
+1217,train,fit,Small-scale oil palm plantation,Smallholder agriculture,4.036970133,9.884206767,2019
+1218,train,fit,Small-scale oil palm plantation,Smallholder agriculture,4.172238415,9.393761097,2019
+1219,train,test,Small-scale oil palm plantation,Smallholder agriculture,3.643302884,10.13272204,2019
+1220,train,holdout,Small-scale oil palm plantation,Smallholder agriculture,3.648511067,11.16759449,2019
+1221,train,holdout,Small-scale oil palm plantation,Smallholder agriculture,3.976041667,9.909041667,2019
+1222,train,fit,Small-scale oil palm plantation,Smallholder agriculture,4.158783869,9.571391371,2019
+1223,train,test,Small-scale oil palm plantation,Smallholder agriculture,4.150753525,9.950570513,2019
+1224,train,test,Small-scale oil palm plantation,Smallholder agriculture,3.630465313,10.29104287,2019
+1225,train,fit,Small-scale oil palm plantation,Smallholder agriculture,3.658875,10.63373194,2019
+1226,train,fit,Small-scale oil palm plantation,Smallholder agriculture,3.753645753,11.39423655,2019
+1227,train,fit,Small-scale oil palm plantation,Smallholder agriculture,4.339756491,9.387661903,2019
+1228,train,val,Small-scale oil palm plantation,Smallholder agriculture,5.03605787,9.918490813,2019
+1229,train,fit,Small-scale oil palm plantation,Smallholder agriculture,4.066133108,11.00810643,2019
+1230,train,fit,Small-scale oil palm plantation,Smallholder agriculture,3.651271353,10.73091044,2019
+1231,train,test,Small-scale oil palm plantation,Smallholder agriculture,3.702533561,10.38628503,2019
+1232,train,fit,Small-scale oil palm plantation,Smallholder agriculture,3.657800211,10.56374287,2019
+1233,train,fit,Small-scale oil palm plantation,Smallholder agriculture,3.737775325,10.71249771,2019
+1234,train,fit,Small-scale oil palm plantation,Smallholder agriculture,3.886111931,10.8769756,2019
+1235,train,fit,Small-scale oil palm plantation,Smallholder agriculture,3.756322907,10.654,2019
+1236,train,test,Small-scale oil palm plantation,Smallholder agriculture,2.753651886,11.97487831,2019
+1237,train,test,Small-scale oil palm plantation,Smallholder agriculture,3.224761759,11.86492877,2019
+1238,train,holdout,Small-scale oil palm plantation,Smallholder agriculture,4.190131755,9.572875,2019
+1239,train,fit,Small-scale oil palm plantation,Smallholder agriculture,4.234749853,9.529822328,2019
+1240,train,holdout,Small-scale other plantation,Smallholder agriculture,5.337599645,10.77471699,2020
+1241,train,holdout,Small-scale other plantation,Smallholder agriculture,5.287789284,10.59706585,2020
+1242,train,fit,Small-scale other plantation,Smallholder agriculture,5.901224305,10.18536638,2020
+1243,train,holdout,Small-scale other plantation,Smallholder agriculture,5.730636872,10.63663681,2020
+1244,train,fit,Small-scale other plantation,Smallholder agriculture,5.681596157,10.70427648,2020
+1245,train,val,Small-scale other plantation,Smallholder agriculture,5.187298366,10.40059172,2020
+1246,train,val,Small-scale other plantation,Smallholder agriculture,5.685429492,10.83319318,2020
+1247,train,fit,Small-scale other plantation,Smallholder agriculture,5.409953857,10.68455222,2020
+1248,train,fit,Small-scale other plantation,Smallholder agriculture,5.875027271,10.18778401,2020
+1249,train,fit,Small-scale other plantation,Smallholder agriculture,5.260735522,10.8965341,2020
+1250,train,fit,Small-scale other plantation,Smallholder agriculture,6.059718261,10.36671361,2020
+1251,train,holdout,Small-scale other plantation,Smallholder agriculture,2.848971154,10.97043269,2020
+1252,train,fit,Small-scale other plantation,Smallholder agriculture,5.392199045,10.79484033,2020
+1253,train,fit,Small-scale other plantation,Smallholder agriculture,5.642796096,10.35061233,2020
+1254,train,fit,Small-scale other plantation,Smallholder agriculture,5.862404357,10.1871559,2020
+1255,train,holdout,Small-scale other plantation,Smallholder agriculture,5.288270344,10.59811696,2020
+1256,train,fit,Small-scale other plantation,Smallholder agriculture,5.859846205,10.22035969,2020
+1257,train,fit,Small-scale other plantation,Smallholder agriculture,5.627605597,10.05435264,2020
+1258,train,val,Small-scale other plantation,Smallholder agriculture,5.60263985,10.0326325,2020
+1259,train,holdout,Small-scale other plantation,Smallholder agriculture,5.358137895,10.77539798,2020
+1260,train,fit,Small-scale other plantation,Smallholder agriculture,4.420446429,9.991553571,2020
+1261,train,test,Small-scale other plantation,Smallholder agriculture,5.321556242,10.66062392,2020
+1262,train,test,Small-scale other plantation,Smallholder agriculture,2.689625,12.908875,2020
+1263,train,holdout,Small-scale other plantation,Smallholder agriculture,5.301818278,10.61966535,2020
+1264,train,fit,Small-scale other plantation,Smallholder agriculture,6.081375364,10.51315485,2020
+1265,train,fit,Small-scale other plantation,Smallholder agriculture,5.264953854,10.4015522,2020
+1266,train,fit,Small-scale other plantation,Smallholder agriculture,6.080840075,10.34394926,2020
+1267,train,fit,Small-scale other plantation,Smallholder agriculture,5.626703894,10.05455212,2020
+1268,train,fit,Small-scale other plantation,Smallholder agriculture,5.900323058,10.1933143,2020
+1269,train,fit,Small-scale other plantation,Smallholder agriculture,5.900669473,10.18706524,2020
+1270,train,fit,Small-scale other plantation,Smallholder agriculture,5.629096143,10.09778399,2020
+1271,train,fit,Small-scale other plantation,Smallholder agriculture,5.902546055,10.18345315,2020
+1272,train,fit,Small-scale other plantation,Smallholder agriculture,5.576766523,10.7594616,2020
+1273,train,test,Small-scale other plantation,Smallholder agriculture,5.753777255,10.13745066,2020
+1274,train,fit,Small-scale other plantation,Smallholder agriculture,5.623453876,10.65130219,2020
+1275,train,holdout,Small-scale other plantation,Smallholder agriculture,5.321179394,10.78245075,2020
+1276,train,fit,Small-scale other plantation,Smallholder agriculture,6.047752833,10.3548361,2020
+1277,train,holdout,Small-scale other plantation,Smallholder agriculture,6.03195005,10.40902503,2020
+1278,train,fit,Small-scale other plantation,Smallholder agriculture,5.876625,10.18790901,2020
+1279,train,fit,Small-scale other plantation,Smallholder agriculture,5.872277271,10.19574234,2020
+1280,train,fit,Small-scale other plantation,Smallholder agriculture,5.89189211,10.18622925,2020
+1281,train,fit,Small-scale other plantation,Smallholder agriculture,5.551335694,10.63356006,2020
+1282,train,fit,Small-scale other plantation,Smallholder agriculture,5.860818936,10.17249234,2020
+1283,train,fit,Small-scale other plantation,Smallholder agriculture,5.258985522,10.89407577,2020
+1284,train,fit,Small-scale other plantation,Smallholder agriculture,5.840453907,10.18330212,2020
+1285,train,fit,Small-scale other plantation,Smallholder agriculture,2.87305,11.0858,2020
+1286,train,fit,Small-scale other plantation,Smallholder agriculture,5.549786467,10.40821211,2020
+1287,train,fit,Small-scale other plantation,Smallholder agriculture,5.873985605,10.18757567,2020
+1288,train,fit,Small-scale other plantation,Smallholder agriculture,5.672813115,10.59413512,2020
+1289,train,fit,Small-scale other plantation,Smallholder agriculture,5.874852733,10.18738539,2020
+1290,train,val,Small-scale other plantation,Smallholder agriculture,5.477235551,10.76449242,2020
+1291,train,fit,Small-scale other plantation,Smallholder agriculture,5.262473542,10.87530059,2020
+1292,train,test,Small-scale other plantation,Smallholder agriculture,5.779065714,10.38281474,2020
+1293,train,holdout,Small-scale other plantation,Smallholder agriculture,5.303399969,10.60364885,2020
+1294,train,fit,Small-scale other plantation,Smallholder agriculture,5.25841902,10.38258062,2020
+1295,train,fit,Small-scale other plantation,Smallholder agriculture,5.217068255,10.90368394,2020
+1296,train,fit,Small-scale other plantation,Smallholder agriculture,5.622866694,10.11537871,2020
+1297,train,fit,Small-scale other plantation,Smallholder agriculture,5.677055328,10.59380875,2020
+1298,train,val,Small-scale other plantation,Smallholder agriculture,5.727428441,10.44022152,2020
+1299,train,fit,Small-scale other plantation,Smallholder agriculture,5.259429377,10.88524243,2020
+1300,train,holdout,Small-scale other plantation,Smallholder agriculture,5.306374097,10.59798652,2020
+1301,train,fit,Small-scale other plantation,Smallholder agriculture,5.707917619,10.0791776,2020
+1302,train,fit,Small-scale other plantation,Smallholder agriculture,5.28457996,10.68103285,2020
+1303,train,test,Small-scale other plantation,Smallholder agriculture,5.59741867,10.58987852,2020
+1304,train,fit,Small-scale other plantation,Smallholder agriculture,5.874189335,10.1847204,2020
+1305,train,fit,Small-scale other plantation,Smallholder agriculture,5.244862322,10.89087284,2020
+1306,train,fit,Small-scale other plantation,Smallholder agriculture,5.874455609,10.18534089,2020
+1307,train,fit,Small-scale other plantation,Smallholder agriculture,5.216908533,10.91005779,2020
+1308,train,fit,Small-scale other plantation,Smallholder agriculture,6.266320247,10.59409913,2020
+1309,train,fit,Small-scale other plantation,Smallholder agriculture,5.903693942,10.192125,2020
+1310,train,fit,Small-scale other plantation,Smallholder agriculture,5.903091778,10.18492883,2020
+1311,train,fit,Small-scale other plantation,Smallholder agriculture,5.27824,10.7190266,2020
+1312,train,test,Small-scale other plantation,Smallholder agriculture,5.247777187,10.43665904,2020
+1313,train,fit,Small-scale other plantation,Smallholder agriculture,5.875177022,10.19540982,2020
+1314,train,fit,Small-scale other plantation,Smallholder agriculture,5.876852664,10.20037032,2020
+1315,train,fit,Small-scale other plantation,Smallholder agriculture,5.958718226,10.2064636,2020
+1316,train,fit,Small-scale other plantation,Smallholder agriculture,5.874655375,10.18660595,2020
+1317,train,fit,Small-scale other plantation,Smallholder agriculture,5.466943883,10.83699243,2020
+1318,train,test,Small-scale other plantation,Smallholder agriculture,6.23852732,10.72656815,2020
+1319,train,fit,Small-scale other plantation,Smallholder agriculture,5.902635848,10.18516448,2020
+1320,train,test,Small-scale other plantation,Smallholder agriculture,3.260339286,13.60083929,2020
+1321,train,fit,Small-scale other plantation,Smallholder agriculture,5.28855529,10.67330874,2020
+1322,train,fit,Small-scale other plantation,Smallholder agriculture,5.648485574,10.08519298,2020
+1323,train,val,Small-scale other plantation,Smallholder agriculture,5.926346223,10.22769302,2020
+1324,train,fit,Small-scale other plantation,Smallholder agriculture,5.89094394,10.17849234,2020
+1325,train,fit,Timber plantation,Plantation,1.903041667,15.86945833,2017
+1326,train,fit,Timber plantation,Plantation,1.914663462,15.88724038,2017
+1327,train,fit,Timber plantation,Plantation,1.93275,15.888625,2017
+1328,train,fit,Timber plantation,Plantation,1.942875,15.959625,2018
+1329,train,fit,Timber plantation,Plantation,1.951875,15.84475,2017
+1330,train,fit,Timber plantation,Plantation,1.926875,15.884875,2017
+1331,train,fit,Timber plantation,Plantation,1.901041667,15.86904167,2017
+1332,train,fit,Timber plantation,Plantation,1.962375,15.8565,2017
+1333,train,fit,Timber plantation,Plantation,1.920125,15.87675,2017
+1334,train,fit,Timber plantation,Plantation,1.938680556,15.87901389,2017
+1335,train,fit,Timber plantation,Plantation,1.959041667,15.85645833,2017
+1336,train,fit,Timber plantation,Plantation,1.769720588,15.99442647,2020
+1337,train,fit,Timber plantation,Plantation,1.960725,15.883175,2017
+1338,train,fit,Timber plantation,Plantation,1.77175,15.985625,2020
+1339,train,fit,Timber plantation,Plantation,1.851958333,15.85504167,2016
+1340,train,fit,Timber plantation,Plantation,1.855075,15.854275,2016
+1341,train,fit,Timber plantation,Plantation,1.964125,15.860125,2017
+1342,train,fit,Timber plantation,Plantation,1.786810484,15.92014113,2017
+1343,train,fit,Timber plantation,Plantation,1.840375,16.028,2016
+1344,train,fit,Timber plantation,Plantation,1.79025,15.913375,2018
+1345,train,fit,Timber plantation,Plantation,1.830125,15.8691875,2020
+1346,train,fit,Timber plantation,Plantation,1.796625,15.916125,2018
+1347,train,fit,Timber plantation,Plantation,1.909946429,15.868875,2017
+1348,train,fit,Timber plantation,Plantation,1.804416667,15.89116667,2015
+1349,train,fit,Timber plantation,Plantation,1.921458333,15.89220833,2017
+1350,train,fit,Timber plantation,Plantation,1.90175,15.873875,2017
+1351,train,fit,Timber plantation,Plantation,1.844125,15.846625,2016
+1352,train,fit,Timber plantation,Plantation,1.996117007,16.04913703,2016
+1353,train,fit,Timber plantation,Plantation,1.7931875,15.8816875,2018
+1354,train,fit,Timber plantation,Plantation,1.794125,15.91275,2016
+1355,train,fit,Timber plantation,Plantation,1.929,15.862125,2017
+1356,train,fit,Timber plantation,Plantation,1.929975,15.860375,2017
+1357,train,fit,Timber plantation,Plantation,1.837125,15.865625,2020
+1358,train,fit,Timber plantation,Plantation,1.912125,15.861,2017
+1359,train,fit,Timber plantation,Plantation,1.92725,15.85875,2017
+1360,train,fit,Timber plantation,Plantation,1.959791667,15.85779167,2017
+1361,train,fit,Timber plantation,Plantation,1.911625,15.913625,2017
+1362,train,fit,Timber plantation,Plantation,1.912375,15.909875,2017
+1363,train,fit,Timber plantation,Plantation,1.851625,15.838,2016
+1364,train,fit,Timber plantation,Plantation,1.840958333,16.01704167,2016
+1365,train,fit,Timber plantation,Plantation,1.781875,15.942125,2017
+1366,train,fit,Timber plantation,Plantation,1.793875,15.914875,2019
+1367,train,fit,Timber plantation,Plantation,1.895375,15.949375,2017
+1368,train,fit,Timber plantation,Plantation,1.770625,15.993125,2016
+1369,train,fit,Timber plantation,Plantation,1.957875,15.858125,2017
+1370,train,fit,Timber plantation,Plantation,1.791625,15.883125,2019
+1371,train,fit,Timber plantation,Plantation,2.030291667,15.83445833,2018
+1372,train,fit,Timber plantation,Plantation,1.85375,15.84575,2020
+1373,train,fit,Timber plantation,Plantation,1.791375,15.882625,2016
+1374,train,fit,Timber plantation,Plantation,1.854,15.848875,2016
+1375,train,fit,Timber plantation,Plantation,1.854875,15.856125,2016
+1376,train,fit,Timber plantation,Plantation,1.857675,15.85563333,2016
+1377,train,fit,Timber plantation,Plantation,1.834875,15.890875,2018
+1378,train,fit,Timber plantation,Plantation,1.94925,15.832875,2017
+1379,train,fit,Timber plantation,Plantation,1.79340625,15.88446875,2017
+1380,train,fit,Timber plantation,Plantation,1.772490385,15.99560577,2018
+1381,train,fit,Timber plantation,Plantation,1.95540625,15.84865625,2017
+1382,train,fit,Timber plantation,Plantation,1.954125,15.8480625,2017
+1383,train,fit,Timber plantation,Plantation,1.942625,15.83175,2016
+1384,train,fit,Timber plantation,Plantation,1.91875,15.861125,2017
+1385,train,fit,Timber plantation,Plantation,1.771,15.98870833,2020
+1386,train,fit,Timber plantation,Plantation,1.924375,15.879625,2017
+1387,train,fit,Timber plantation,Plantation,2.083625,16.0595,2018
+1388,train,fit,Timber plantation,Plantation,1.898875,15.869,2017
+1389,train,fit,Timber plantation,Plantation,1.954875,15.8445,2017
+1390,train,fit,Timber plantation,Plantation,1.91809375,15.8724375,2017
+1391,train,fit,Timber plantation,Plantation,1.9244375,15.8746875,2017
+1392,train,fit,Timber plantation,Plantation,1.938041667,15.88629167,2017
+1393,train,fit,Timber plantation,Plantation,1.940375,15.96075,2016
+1394,train,fit,Timber plantation,Plantation,1.91275,15.8785,2017
+1395,train,fit,Timber plantation,Plantation,1.854375,15.846125,2017
+1396,train,fit,Timber plantation,Plantation,1.934625,15.88,2017
+1397,train,fit,Timber plantation,Plantation,2.084375,16.06,2018
+1398,train,fit,Timber plantation,Plantation,1.924803571,15.88291071,2017
+1399,train,fit,Timber plantation,Plantation,1.95775,15.896875,2018
+1400,train,fit,Timber plantation,Plantation,1.767375,15.994875,2016
+1401,train,fit,Timber plantation,Plantation,1.852377436,15.83212894,2016
+1402,train,fit,Timber plantation,Plantation,1.771,15.985625,2016
+1403,train,fit,Timber plantation,Plantation,2.034375,15.857,2018
+1404,train,fit,Timber plantation,Plantation,1.962375,15.85184722,2017
+1405,train,fit,Timber plantation,Plantation,1.784647727,15.92796591,2017
+1406,train,fit,Timber plantation,Plantation,1.823875,15.870625,2017
+1407,train,fit,Timber plantation,Plantation,1.960625,15.811875,2016
+1408,train,fit,Timber plantation,Plantation,1.933875,15.879375,2017
+1409,train,fit,Timber plantation,Plantation,1.9623125,15.8571875,2017
+1410,train,fit,Timber plantation,Plantation,2.1079375,16.010625,2018
+1411,train,fit,Timber plantation,Plantation,2.022625,15.837375,2015
+1412,train,fit,Timber plantation,Plantation,1.951125,15.836375,2017
+1413,train,fit,Timber plantation,Plantation,1.913,15.872625,2017
+1414,train,fit,Timber plantation,Plantation,1.8415,15.837875,2015
+1415,train,fit,Timber plantation,Plantation,1.914875,15.945125,2015
+1416,train,fit,Timber plantation,Plantation,1.945375,15.83275,2017
+1417,train,fit,Timber plantation,Plantation,1.91,15.8665,2017
+1418,train,fit,Timber plantation,Plantation,1.955125,15.8455,2017
+1419,train,fit,Timber plantation,Plantation,1.855958333,15.84679167,2019
+1420,train,fit,Timber plantation,Plantation,1.914125,15.8865,2017
+1421,train,fit,Timber plantation,Plantation,2.031166667,15.835875,2018
+1422,train,fit,Timber plantation,Plantation,1.844125,15.846125,2017
+1423,train,fit,Timber plantation,Plantation,1.91625,15.877,2017
+1424,train,fit,Timber plantation,Plantation,1.914375,15.897875,2017
+1425,train,fit,Timber plantation,Plantation,2.0805,16.059375,2018
+1426,train,fit,Timber plantation,Plantation,1.974875,15.85425,2016
+1427,train,fit,Timber plantation,Plantation,1.931,15.8645,2017
+1428,train,fit,Timber plantation,Plantation,1.927375,15.862125,2017
+1429,train,fit,Timber plantation,Plantation,1.959375,15.858375,2017
+1430,train,fit,Timber plantation,Plantation,1.93525,15.87675,2017
+1431,train,test,Timber plantation,Plantation,1.810625,16.019125,2016
+1432,train,fit,Timber plantation,Plantation,1.917,15.87725,2017
+1433,train,fit,Timber plantation,Plantation,2.079125,16.057625,2018
+1434,train,fit,Timber plantation,Plantation,1.94875,15.835375,2017
+1435,train,fit,Timber plantation,Plantation,1.851625,15.834625,2017
+1436,train,fit,Timber plantation,Plantation,1.768525,16.000225,2016
+1437,train,fit,Timber plantation,Plantation,2.081625,16.060125,2018
+1438,train,fit,Timber plantation,Plantation,1.909125,15.8735,2017
+1439,train,fit,Timber plantation,Plantation,1.965458333,15.88695833,2017
+1440,train,fit,Timber plantation,Plantation,2.083875,16.060375,2018
+1441,train,fit,Timber plantation,Plantation,2.111625,16.008,2018
+1442,train,fit,Timber plantation,Plantation,1.908,15.865125,2017
+1443,train,fit,Timber plantation,Plantation,1.89375,15.951125,2017
+1444,train,fit,Timber plantation,Plantation,1.919875,15.890125,2017
+1445,train,fit,Timber plantation,Plantation,1.933875,15.87725,2017
+1446,train,fit,Timber plantation,Plantation,1.906625,15.921375,2017
+1447,train,fit,Timber plantation,Plantation,1.954675,15.853225,2017
+1448,train,fit,Timber plantation,Plantation,1.794875,15.91644643,2018
+1449,train,fit,Timber plantation,Plantation,1.839125,15.83925,2020
+1450,train,fit,Timber plantation,Plantation,1.924375,15.891875,2017
+1451,train,fit,Timber plantation,Plantation,1.905625,15.86675,2017
+1452,train,fit,Timber plantation,Plantation,1.970875,15.836875,2017
+1453,train,fit,Timber plantation,Plantation,1.791875,15.882125,2016
+1454,train,fit,Timber plantation,Plantation,1.854375,15.853125,2016
+1455,train,fit,Timber plantation,Plantation,1.999125,15.818,2016
+1456,train,fit,Timber plantation,Plantation,1.898904412,15.87043382,2017
+1457,train,fit,Timber plantation,Plantation,1.971779942,16.04676651,2020
+1458,train,fit,Timber plantation,Plantation,1.949875,15.836375,2017
+1459,train,fit,Timber plantation,Plantation,1.768375,16.00525,2016
+1460,train,fit,Timber plantation,Plantation,1.959875,15.825625,2017
+1461,train,fit,Timber plantation,Plantation,1.930291667,15.88920833,2017
+1462,train,fit,Timber plantation,Plantation,1.93225,15.885875,2017
+1463,train,fit,Timber plantation,Plantation,1.939375,15.883125,2017
+1464,train,fit,Timber plantation,Plantation,1.9255,15.878,2017
+1465,train,fit,Timber plantation,Plantation,1.79725,15.890875,2020
+1466,train,fit,Timber plantation,Plantation,1.953291667,15.84995833,2017
+1467,train,fit,Timber plantation,Plantation,1.913291667,15.86320833,2017
+1468,train,fit,Timber plantation,Plantation,2.082125,16.061375,2018
+1469,train,fit,Timber plantation,Plantation,1.914625,15.890375,2017
+1470,train,fit,Timber plantation,Plantation,1.904625,15.936125,2017
+1471,train,fit,Timber plantation,Plantation,1.95325,15.851625,2017
+1472,train,fit,Timber plantation,Plantation,1.939875,15.874625,2017
+1473,train,fit,Timber plantation,Plantation,2.080708333,16.06004167,2018
+1474,train,fit,Timber plantation,Plantation,1.911375,15.874125,2017
+1475,train,fit,Timber plantation,Plantation,1.768875,15.995125,2020
+1476,train,fit,Timber plantation,Plantation,1.953975,15.846325,2017
+1477,train,fit,Timber plantation,Plantation,1.956041667,15.85370833,2017
+1478,train,fit,Timber plantation,Plantation,1.950541667,15.84004167,2017
+1479,train,fit,Timber plantation,Plantation,1.770125,16.006625,2016
+1480,train,fit,Timber plantation,Plantation,1.842075,15.838525,2020
+1481,train,fit,Timber plantation,Plantation,1.950875,15.834625,2017
+1482,train,fit,Timber plantation,Plantation,1.8515,15.837,2016
+1483,train,fit,Timber plantation,Plantation,2.108458333,16.01472601,2018
+1484,train,fit,Timber plantation,Plantation,1.768375,16.006375,2020
+1485,train,fit,Timber plantation,Plantation,1.899775,15.868925,2017
+1486,train,fit,Timber plantation,Plantation,1.939625,15.87269643,2017
+1487,train,fit,Timber plantation,Plantation,1.963875,15.857125,2017
+1488,train,fit,Timber plantation,Plantation,1.768625,16.00394643,2016
+1489,train,fit,Timber plantation,Plantation,1.958125,15.896375,2018
+1490,train,fit,Timber plantation,Plantation,1.89625,15.948125,2017
+1491,train,fit,Timber plantation,Plantation,1.921458333,15.89089167,2017
+1492,train,fit,Timber plantation,Plantation,1.929,15.859875,2017
+1493,train,fit,Timber plantation,Plantation,1.937375,15.875125,2017
+1494,train,fit,Timber plantation,Plantation,1.854375,15.852125,2017
+1495,train,fit,Timber plantation,Plantation,1.844875,15.841125,2016
+1496,train,fit,Timber plantation,Plantation,1.933958333,15.88804167,2017
+1497,train,fit,Timber plantation,Plantation,1.914625,15.89125,2017
+1498,train,val,Timber plantation,Plantation,1.877125,15.974125,2017
+1499,train,fit,Timber plantation,Plantation,1.7721,15.987475,2020
+1500,train,fit,Timber plantation,Plantation,1.934070652,15.88382609,2017
+1501,train,fit,Timber plantation,Plantation,1.953347222,15.84443056,2017
+1502,train,fit,Timber plantation,Plantation,1.93325,15.886125,2017
+1503,train,fit,Timber plantation,Plantation,1.915375,15.87798214,2017
+1504,train,fit,Timber plantation,Plantation,1.769125,16.007125,2020
+1505,train,fit,Timber plantation,Plantation,1.767196366,16.00826353,2016
+1506,train,fit,Timber plantation,Plantation,1.902776042,15.87088542,2017
+1507,train,fit,Timber plantation,Plantation,1.920110294,15.87268382,2017
+1508,train,fit,Timber plantation,Plantation,1.911125,15.915125,2017
+1509,train,fit,Timber plantation,Plantation,1.930125,15.863,2017
+1510,train,fit,Timber plantation,Plantation,1.86021371,15.85564919,2016
+1511,train,fit,Timber plantation,Plantation,1.952875,15.8185,2016
+1512,train,fit,Timber plantation,Plantation,1.9295,15.857,2017
+1513,train,fit,Timber plantation,Plantation,1.799355769,15.89108654,2020
+1514,train,fit,Timber plantation,Plantation,1.768125,15.994875,2016
+1515,train,fit,Timber plantation,Plantation,1.780875,15.944,2017
+1516,train,fit,Timber plantation,Plantation,2.111291667,16.00629167,2017
+1517,train,fit,Timber plantation,Plantation,1.987625,15.9345,2015
+1518,train,fit,Timber plantation,Plantation,1.89859375,15.8678125,2017
+1519,train,fit,Timber plantation,Plantation,2.03103125,15.8315625,2018
+1520,train,fit,Timber plantation,Plantation,1.918875,15.876325,2017
+1521,train,fit,Timber plantation,Plantation,1.853625,15.851525,2020
+1522,train,fit,Timber plantation,Plantation,1.952125,15.834625,2017
+1523,train,fit,Timber plantation,Plantation,1.769375,16.006625,2020
+1524,train,fit,Timber plantation,Plantation,2.034375,15.853625,2018
+1525,train,fit,Timber plantation,Plantation,1.793041667,15.91356944,2016
+1526,train,fit,Timber plantation,Plantation,1.851375,15.854875,2016
+1527,train,fit,Timber plantation,Plantation,1.90025,15.87225,2017
+1528,train,fit,Timber plantation,Plantation,1.950458333,15.83704167,2017
+1529,train,fit,Timber plantation,Plantation,1.861625,15.856875,2019
+1530,train,test,Timber plantation,Plantation,1.887660714,15.82930357,2018
+1531,train,fit,Timber plantation,Plantation,1.915375,15.882125,2017
+1532,train,fit,Timber plantation,Plantation,1.913875,15.87525,2017
+1533,train,fit,Timber plantation,Plantation,1.770125,16.01125,2017
+1534,train,fit,Timber plantation,Plantation,1.8530625,15.84202083,2019
+1535,train,fit,Timber plantation,Plantation,1.915200581,15.87493314,2017
+1536,train,fit,Timber plantation,Plantation,1.792402778,15.91454167,2018
+1537,train,fit,Timber plantation,Plantation,1.768125,16.002625,2017
+1538,train,fit,Timber plantation,Plantation,1.934056818,15.82373864,2017
+1539,train,fit,Timber plantation,Plantation,1.967083333,15.88695833,2017
+1540,train,fit,Timber plantation,Plantation,1.915625,15.85575,2017
+1541,train,fit,Timber plantation,Plantation,2.033339286,15.856625,2019
+1542,train,fit,Timber plantation,Plantation,1.772125,15.986125,2020
+1543,train,fit,Timber plantation,Plantation,1.844,15.845375,2017
+1544,train,fit,Timber plantation,Plantation,2.035375,15.853875,2018
+1545,train,fit,Timber plantation,Plantation,1.809291667,15.89354167,2020
+1546,train,fit,Timber plantation,Plantation,1.912791667,15.90679924,2017
+1547,train,test,Wildfire,Other,8.970726562,14.168,2015
+1548,train,test,Wildfire,Other,8.254375,14.646875,2020
+1549,train,holdout,Wildfire,Other,7.197625,12.6778125,2016
+1550,train,holdout,Wildfire,Other,8.385125,13.60653409,2017
+1551,train,test,Wildfire,Other,8.426875,13.515375,2017
+1552,train,test,Wildfire,Other,8.337375,13.55475,2020
+1553,train,fit,Wildfire,Other,7.7465625,14.5706875,2019
+1554,train,fit,Wildfire,Other,8.403875,14.9895,2017
+1555,train,fit,Wildfire,Other,8.974875,14.09975,2015
+1556,train,test,Wildfire,Other,9.085375,14.167375,2015
+1557,train,test,Wildfire,Other,9.286125,14.12925,2020
+1558,train,val,Wildfire,Other,7.314625,11.923575,2016
+1559,train,fit,Wildfire,Other,8.219958333,14.12558333,2018
+1560,train,fit,Wildfire,Other,8.213458333,15.18704167,2018
+1561,train,holdout,Wildfire,Other,8.552625,14.375875,2018
+1562,train,fit,Wildfire,Other,8.396625,13.76375,2017
+1563,train,holdout,Wildfire,Other,8.529375,14.383875,2018
+1564,train,fit,Wildfire,Other,7.7444375,14.5753125,2019
+1565,train,holdout,Wildfire,Other,8.389208333,13.60595833,2017
+1566,train,fit,Wildfire,Other,8.484375,13.735125,2018
+1567,train,test,Wildfire,Other,9.387375,14.065375,2016
+1568,train,holdout,Wildfire,Other,8.381125,13.609875,2017
+1569,train,fit,Wildfire,Other,8.5009375,13.72875,2018
+1570,train,fit,Wildfire,Other,7.745125,14.568,2019
+1571,train,fit,Wildfire,Other,8.408508025,13.73881037,2016
+1572,train,holdout,Wildfire,Other,7.196160714,12.67819643,2016
+1573,train,fit,Wildfire,Other,8.351037109,15.145375,2018
+1574,train,fit,Wildfire,Other,8.483125,13.732875,2018
+1575,train,val,Wildfire,Other,8.838875,14.0895,2015
+1576,train,holdout,Wildfire,Other,7.710958333,13.94945833,2016
+1577,train,holdout,Wildfire,Other,8.555113636,14.37063636,2018
+1578,train,holdout,Wildfire,Other,8.390375,13.610625,2017
+1579,train,holdout,Wildfire,Other,8.385319444,13.61193056,2017
+1580,train,holdout,Wildfire,Other,8.131725,15.090575,2019
+1581,train,val,Wildfire,Other,8.839175,14.092025,2015
+1582,train,fit,Wildfire,Other,8.409125,13.736625,2016
+1583,train,holdout,Wildfire,Other,8.369150695,13.60275638,2016
+1584,train,test,Wildfire,Other,8.851125,14.165625,2016
+1585,train,fit,Wildfire,Other,8.310920455,13.69473864,2019
+1586,train,val,Wildfire,Other,8.91275,14.669625,2015
+1587,train,test,Wildfire,Other,9.281425,14.132075,2020
+1588,train,test,Wildfire,Other,9.265625,14.30175,2016
+1589,train,fit,Wildfire,Other,8.493375,13.734125,2018
+1590,train,val,Wildfire,Other,8.83875,14.094125,2015
+1591,train,fit,Wildfire,Other,5.205820287,11.52665762,2020
+1592,train,fit,Wildfire,Other,7.747375,14.571125,2019
+1593,train,test,Wildfire,Other,8.136325,13.903975,2020
+1594,train,fit,Wildfire,Other,8.965875,14.50111328,2015
+1595,train,fit,Wildfire,Other,7.862624999,12.389875,2020
+1596,train,val,Wildfire,Other,8.840958333,14.11495833,2015
+1597,train,fit,Wildfire,Other,8.309875,13.691875,2019
+1598,train,test,Wildfire,Other,9.2545,14.232875,2017
+1599,train,test,Wildfire,Other,8.454083333,14.386375,2020
+1600,train,holdout,Wildfire,Other,8.385375,13.604875,2017
+1601,train,val,Wildfire,Other,5.394466496,10.94185437,2020
+1602,train,val,Wildfire,Other,8.83875,14.093375,2015
+1603,train,fit,Wildfire,Other,8.310875,13.69579167,2019
+1604,train,holdout,Wildfire,Other,8.39125,13.611875,2017
+1605,train,test,Wildfire,Other,7.956125,15.31670833,2019
+1606,train,fit,Wildfire,Other,7.992125,14.804875,2016
+1607,train,test,Wildfire,Other,8.338541667,13.55645833,2018
+1608,train,fit,Wildfire,Other,8.494125,13.722875,2018
+1609,train,fit,Wildfire,Other,8.377875,14.589625,2020
+1610,train,val,Wildfire,Other,8.8375,14.094875,2015
+1611,train,holdout,Wildfire,Other,7.733125,13.959875,2016
+1612,train,fit,Wildfire,Other,7.744625,14.57425,2019
+1613,train,fit,Wildfire,Other,8.974875,14.099,2015
+1614,train,fit,Wildfire,Other,8.926878906,14.48294922,2015
+1615,train,holdout,Wildfire,Other,8.391625,13.611,2017
+1616,train,test,Wildfire,Other,9.282321429,14.13330357,2020
+1617,train,fit,Wildfire,Other,8.971875,14.098375,2015
+1618,train,holdout,Wildfire,Other,8.133464286,15.08841071,2019
+1619,train,holdout,Wildfire,Other,8.387217262,13.60922411,2017
+1620,train,fit,Wildfire,Other,8.311425,13.69249167,2019
+1621,train,fit,Wildfire,Other,8.21425,15.195625,2018
+1622,train,test,Wildfire,Other,8.30375,14.84125,2016
+1623,train,fit,Oil palm plantation,Plantation,3.243345,10.136475,2020
+1624,val,test,Fruit plantation,Plantation,4.72675,9.653125,2015
+1625,val,test,Fruit plantation,Plantation,4.8479375,9.786583333,2017
+1626,val,test,Fruit plantation,Plantation,4.72825,9.653625,2019
+1627,val,test,Fruit plantation,Plantation,4.726125,9.651625,2015
+1628,val,fit,Fruit plantation,Plantation,4.721375,9.715375,2019
+1629,val,holdout,Grassland shrubland,Grassland shrubland,5.861625,9.83125,2020
+1630,val,fit,Grassland shrubland,Grassland shrubland,5.978410714,9.066184524,2020
+1631,val,fit,Grassland shrubland,Grassland shrubland,5.871583333,9.277458333,2020
+1632,val,val,Grassland shrubland,Grassland shrubland,5.836666667,9.692416667,2020
+1633,val,fit,Grassland shrubland,Grassland shrubland,5.826511364,9.313867424,2020
+1634,val,fit,Grassland shrubland,Grassland shrubland,5.808125,9.656930556,2020
+1635,val,fit,Grassland shrubland,Grassland shrubland,5.838811667,9.391681667,2020
+1636,val,fit,Grassland shrubland,Grassland shrubland,5.87409375,9.408421875,2020
+1637,val,test,Grassland shrubland,Grassland shrubland,5.883833333,9.956833333,2020
+1638,val,fit,Grassland shrubland,Grassland shrubland,5.991473214,9.264017857,2020
+1639,val,fit,Hunting,Other,2.405125,12.77125,2015
+1640,val,test,Hunting,Other,3.035125,14.72,2016
+1641,val,holdout,Hunting,Other,8.624375,13.435125,2020
+1642,val,test,Hunting,Other,2.122125,14.900375,2017
+1643,val,val,Hunting,Other,2.471375,12.815875,2017
+1644,val,holdout,Hunting,Other,3.525375,14.977875,2015
+1645,val,fit,Hunting,Other,3.4855,14.879625,2015
+1646,val,fit,Hunting,Other,8.486875,13.695375,2016
+1647,val,fit,Hunting,Other,8.502375,13.667,2017
+1648,val,val,Hunting,Other,4.884875,12.4231875,2017
+1649,val,fit,Hunting,Other,3.481025,14.884075,2019
+1650,val,holdout,Infrastructure,Other,4.001179491,11.05324547,2020
+1651,val,fit,Infrastructure,Other,7.300691529,12.53187243,2020
+1652,val,fit,Infrastructure,Other,4.019145796,11.1313989,2020
+1653,val,fit,Infrastructure,Other,2.815403316,10.52503608,2020
+1654,val,test,Infrastructure,Other,5.174379252,11.13319553,2020
+1655,val,fit,Infrastructure,Other,4.974953259,11.26794282,2020
+1656,val,fit,Infrastructure,Other,3.896974918,11.99917146,2020
+1657,val,test,Infrastructure,Other,6.03945687,11.07031346,2020
+1658,val,val,Infrastructure,Other,4.590474317,13.7293267,2020
+1659,val,test,Mining,Other,3.301625,15.56825,2015
+1660,val,holdout,Mining,Other,3.465875,13.871875,2016
+1661,val,test,Mining,Other,3.452975,10.66619167,2019
+1662,val,test,Mining,Other,3.4415,10.6585,2016
+1663,val,fit,Mining,Other,2.580625,12.747125,2017
+1664,val,test,Mining,Other,3.336013889,14.11384722,2015
+1665,val,holdout,Mining,Other,3.5875,10.63175,2016
+1666,val,fit,Mining,Other,3.003375,14.187725,2017
+1667,val,fit,Mining,Other,3.666940789,10.58276974,2016
+1668,val,fit,Mining,Other,3.668625,10.599375,2019
+1669,val,fit,Mining,Other,3.581625,10.756625,2019
+1670,val,holdout,Mining,Other,2.6105,12.678,2016
+1671,val,test,Mining,Other,3.352625,14.138125,2017
+1672,val,holdout,Mining,Other,3.58775,10.617375,2019
+1673,val,test,Mining,Other,3.417410714,13.83355357,2015
+1674,val,fit,Mining,Other,2.647595588,12.64719853,2015
+1675,val,fit,Oil palm plantation,Plantation,4.560625,9.026375,2020
+1676,val,fit,Oil palm plantation,Plantation,2.976553571,10.072125,2020
+1677,val,fit,Oil palm plantation,Plantation,4.558975,9.035175,2015
+1678,val,fit,Oil palm plantation,Plantation,5.188308824,9.351492647,2020
+1679,val,test,Oil palm plantation,Plantation,5.189791667,9.400291667,2020
+1680,val,test,Oil palm plantation,Plantation,4.895125,8.730875,2020
+1681,val,fit,Oil palm plantation,Plantation,4.258125,9.538625,2020
+1682,val,val,Oil palm plantation,Plantation,5.232025,9.461075,2016
+1683,val,holdout,Oil palm plantation,Plantation,5.351710526,9.465046053,2020
+1684,val,fit,Oil palm plantation,Plantation,3.7176875,10.633875,2020
+1685,val,fit,Oil palm plantation,Plantation,4.095125,9.210875,2016
+1686,val,fit,Oil palm plantation,Plantation,4.101125,9.2115,2015
+1687,val,test,Oil palm plantation,Plantation,3.719625,10.582625,2019
+1688,val,fit,Oil palm plantation,Plantation,5.165915598,9.319325855,2019
+1689,val,fit,Oil palm plantation,Plantation,3.789625,9.874875,2017
+1690,val,holdout,Oil palm plantation,Plantation,4.667242647,9.073080882,2015
+1691,val,test,Oil palm plantation,Plantation,3.134051471,12.270875,2015
+1692,val,fit,Oil palm plantation,Plantation,4.943125,8.822875,2020
+1693,val,fit,Other,Other,5.993448397,11.26288019,2020
+1694,val,fit,Other large-scale plantations,Plantation,3.623625,10.0775,2017
+1695,val,fit,Other large-scale plantations,Plantation,3.627625,10.088375,2017
+1696,val,fit,Other large-scale plantations,Plantation,4.107458333,9.219958333,2020
+1697,val,fit,Other large-scale plantations,Plantation,3.788875,9.879125,2020
+1698,val,fit,Other large-scale plantations,Plantation,4.685875,14.225125,2017
+1699,val,fit,Other large-scale plantations,Plantation,6.082666667,10.36516667,2015
+1700,val,fit,Other large-scale plantations,Plantation,4.13475,9.257625,2015
+1701,val,fit,Other large-scale plantations,Plantation,4.107958333,9.224208333,2020
+1702,val,holdout,Other large-scale plantations,Plantation,3.858625,9.988125,2019
+1703,val,holdout,Other large-scale plantations,Plantation,3.857625,9.984875,2020
+1704,val,fit,Rubber plantation,Plantation,3.240375,10.125125,2020
+1705,val,val,Rubber plantation,Plantation,4.384625,9.600875,2015
+1706,val,fit,Rubber plantation,Plantation,3.968375,9.2325,2017
+1707,val,val,Rubber plantation,Plantation,3.188791667,12.38504167,2019
+1708,val,fit,Rubber plantation,Plantation,3.011875,12.568125,2017
+1709,val,val,Rubber plantation,Plantation,3.190375,12.403375,2019
+1710,val,val,Rubber plantation,Plantation,3.231,12.406125,2017
+1711,val,val,Rubber plantation,Plantation,4.385625,9.589125,2015
+1712,val,val,Rubber plantation,Plantation,3.199375,12.405375,2016
+1713,val,val,Rubber plantation,Plantation,3.236875,12.401375,2016
+1714,val,val,Rubber plantation,Plantation,3.0375,9.994375,2020
+1715,val,test,Selective logging,Other,2.579083333,12.24916667,2018
+1716,val,holdout,Selective logging,Other,5.360208333,12.54479167,2018
+1717,val,val,Selective logging,Other,2.571875,15.646875,2018
+1718,val,fit,Selective logging,Other,2.283125,15.007375,2018
+1719,val,fit,Selective logging,Other,5.158541667,12.86279167,2017
+1720,val,test,Selective logging,Other,5.445696429,13.18944643,2017
+1721,val,fit,Selective logging,Other,2.80275,14.357375,2016
+1722,val,holdout,Selective logging,Other,2.575446429,13.25908929,2017
+1723,val,test,Selective logging,Other,4.019125,14.861625,2015
+1724,val,holdout,Selective logging,Other,5.34190625,11.21321875,2018
+1725,val,fit,Selective logging,Other,4.192208333,13.67204167,2015
+1726,val,fit,Selective logging,Other,5.262953947,12.786125,2015
+1727,val,fit,Selective logging,Other,5.052125,13.430375,2017
+1728,val,fit,Selective logging,Other,4.119125,10.449625,2018
+1729,val,fit,Selective logging,Other,2.242625,14.28975,2015
+1730,val,fit,Selective logging,Other,3.09675,14.55325,2017
+1731,val,test,Selective logging,Other,3.731475,13.810575,2015
+1732,val,val,Selective logging,Other,5.024660714,8.989779762,2018
+1733,val,holdout,Selective logging,Other,5.360625,12.073875,2016
+1734,val,fit,Selective logging,Other,3.189475,14.999275,2018
+1735,val,fit,Selective logging,Other,3.820125,13.491125,2017
+1736,val,fit,Selective logging,Other,3.617125,10.404875,2018
+1737,val,holdout,Selective logging,Other,5.299875,9.281625,2016
+1738,val,fit,Selective logging,Other,4.189806452,13.67296371,2016
+1739,val,fit,Selective logging,Other,2.73375,11.45475,2018
+1740,val,fit,Selective logging,Other,4.842125,10.619125,2017
+1741,val,fit,Selective logging,Other,2.595875,11.350875,2017
+1742,val,fit,Selective logging,Other,3.509375,13.420375,2018
+1743,val,test,Selective logging,Other,2.6455,11.166125,2015
+1744,val,fit,Selective logging,Other,3.817,13.547125,2016
+1745,val,val,Selective logging,Other,3.802375,13.24825,2015
+1746,val,test,Selective logging,Other,3.826625,14.917625,2018
+1747,val,fit,Selective logging,Other,3.594875,10.768625,2016
+1748,val,fit,Selective logging,Other,3.651625,13.331375,2016
+1749,val,val,Selective logging,Other,2.95275,11.564625,2015
+1750,val,test,Selective logging,Other,3.404875,14.907125,2016
+1751,val,fit,Selective logging,Other,3.426525,14.782925,2018
+1752,val,fit,Selective logging,Other,4.357125,13.6163125,2017
+1753,val,fit,Selective logging,Other,4.357625,13.615125,2015
+1754,val,test,Selective logging,Other,2.294375,14.330125,2016
+1755,val,val,Selective logging,Other,2.694125,13.670375,2016
+1756,val,val,Selective logging,Other,3.763125,10.949875,2018
+1757,val,fit,Selective logging,Other,5.097375,8.941375,2017
+1758,val,test,Selective logging,Other,5.030625,13.489875,2015
+1759,val,fit,Selective logging,Other,3.667125,13.855,2015
+1760,val,test,Selective logging,Other,3.739375,13.813875,2016
+1761,val,fit,Selective logging,Other,2.971141667,13.568525,2018
+1762,val,test,Selective logging,Other,3.036875,15.448625,2017
+1763,val,test,Selective logging,Other,3.4033125,15.466625,2017
+1764,val,fit,Selective logging,Other,4.189375,13.670125,2018
+1765,val,fit,Selective logging,Other,3.589791667,10.757,2017
+1766,val,fit,Selective logging,Other,4.179513889,13.09709722,2015
+1767,val,fit,Selective logging,Other,3.01075,15.361625,2015
+1768,val,fit,Selective logging,Other,3.232375,14.024875,2017
+1769,val,holdout,Selective logging,Other,4.978675,12.389975,2015
+1770,val,fit,Selective logging,Other,2.761375,15.172825,2016
+1771,val,holdout,Selective logging,Other,2.850875,10.990375,2018
+1772,val,val,Selective logging,Other,2.636125,12.769375,2017
+1773,val,fit,Selective logging,Other,3.640125,10.640125,2017
+1774,val,val,Selective logging,Other,3.021982143,15.20869643,2016
+1775,val,fit,Selective logging,Other,5.806875,8.925875,2015
+1776,val,fit,Selective logging,Other,4.848125,9.882125,2016
+1777,val,fit,Selective logging,Other,4.006625,14.08176136,2016
+1778,val,holdout,Selective logging,Other,2.549291667,11.77870833,2016
+1779,val,holdout,Selective logging,Other,2.810125,12.291875,2017
+1780,val,fit,Selective logging,Other,3.726875,13.387375,2017
+1781,val,fit,Selective logging,Other,5.971708333,9.342208333,2016
+1782,val,fit,Selective logging,Other,4.556125,9.406625,2018
+1783,val,fit,Small-scale maize plantation,Smallholder agriculture,7.566310379,13.72050098,2020
+1784,val,holdout,Small-scale maize plantation,Smallholder agriculture,7.415941071,13.59747582,2020
+1785,val,test,Small-scale maize plantation,Smallholder agriculture,7.63961794,14.11346481,2020
+1786,val,fit,Small-scale maize plantation,Smallholder agriculture,7.7045,14.445875,2020
+1787,val,test,Small-scale maize plantation,Smallholder agriculture,7.750145563,13.73681256,2020
+1788,val,val,Small-scale maize plantation,Smallholder agriculture,7.768419408,14.74353085,2020
+1789,val,fit,Small-scale maize plantation,Smallholder agriculture,7.65325681,13.6031183,2020
+1790,val,test,Small-scale maize plantation,Smallholder agriculture,7.411034163,13.47459035,2020
+1791,val,val,Small-scale maize plantation,Smallholder agriculture,7.438090183,12.96340129,2020
+1792,val,fit,Small-scale maize plantation,Smallholder agriculture,7.596784995,12.30399077,2020
+1793,val,fit,Small-scale maize plantation,Smallholder agriculture,7.810975583,14.52517892,2020
+1794,val,fit,Small-scale maize plantation,Smallholder agriculture,7.845606389,14.66858365,2020
+1795,val,test,Small-scale maize plantation,Smallholder agriculture,7.856414763,14.83291771,2020
+1796,val,test,Small-scale maize plantation,Smallholder agriculture,7.506046798,12.92104545,2020
+1797,val,fit,Small-scale maize plantation,Smallholder agriculture,7.70319577,14.44855491,2020
+1798,val,fit,Small-scale maize plantation,Smallholder agriculture,7.86408163,12.47190629,2020
+1799,val,val,Small-scale maize plantation,Smallholder agriculture,7.634358878,14.37596229,2020
+1800,val,fit,Small-scale maize plantation,Smallholder agriculture,7.762482495,13.5832675,2020
+1801,val,val,Small-scale maize plantation,Smallholder agriculture,7.722506713,14.75401668,2020
+1802,val,test,Small-scale maize plantation,Smallholder agriculture,7.79364914,14.62247511,2020
+1803,val,val,Small-scale maize plantation,Smallholder agriculture,7.778034413,14.75260281,2020
+1804,val,holdout,Small-scale maize plantation,Smallholder agriculture,7.730340035,13.95974281,2020
+1805,val,val,Small-scale maize plantation,Smallholder agriculture,7.773807325,14.75225604,2020
+1806,val,fit,Small-scale maize plantation,Smallholder agriculture,7.62867044,14.56356349,2020
+1807,val,fit,Small-scale maize plantation,Smallholder agriculture,7.702173408,13.47422591,2020
+1808,val,test,Small-scale maize plantation,Smallholder agriculture,7.434658756,13.76563781,2020
+1809,val,test,Small-scale maize plantation,Smallholder agriculture,7.430868883,13.76913146,2020
+1810,val,val,Small-scale maize plantation,Smallholder agriculture,7.712847084,14.72218236,2020
+1811,val,fit,Small-scale maize plantation,Smallholder agriculture,7.630875,14.5645,2020
+1812,val,fit,Small-scale maize plantation,Smallholder agriculture,7.694715085,13.45295185,2020
+1813,val,fit,Small-scale maize plantation,Smallholder agriculture,7.710732531,13.51397588,2020
+1814,val,test,Small-scale maize plantation,Smallholder agriculture,7.711607531,14.1108088,2020
+1815,val,fit,Small-scale maize plantation,Smallholder agriculture,7.373434248,13.00149662,2020
+1816,val,val,Small-scale maize plantation,Smallholder agriculture,7.802311578,14.74411382,2020
+1817,val,fit,Small-scale maize plantation,Smallholder agriculture,7.803933557,13.53061116,2020
+1818,val,test,Small-scale maize plantation,Smallholder agriculture,7.677878452,14.30870525,2020
+1819,val,val,Small-scale maize plantation,Smallholder agriculture,7.4330625,13.7283125,2020
+1820,val,test,Small-scale oil palm plantation,Smallholder agriculture,3.752647752,10.26619964,2019
+1821,val,fit,Small-scale oil palm plantation,Smallholder agriculture,3.697215518,11.63783706,2019
+1822,val,test,Small-scale oil palm plantation,Smallholder agriculture,3.820732662,10.91075303,2019
+1823,val,fit,Small-scale oil palm plantation,Smallholder agriculture,4.150375,9.630928794,2019
+1824,val,val,Small-scale oil palm plantation,Smallholder agriculture,3.599331552,10.13885818,2019
+1825,val,val,Small-scale oil palm plantation,Smallholder agriculture,4.195133975,9.816272909,2019
+1826,val,fit,Small-scale oil palm plantation,Smallholder agriculture,3.669309557,10.73317286,2019
+1827,val,fit,Small-scale oil palm plantation,Smallholder agriculture,4.346059335,9.564927378,2019
+1828,val,test,Small-scale oil palm plantation,Smallholder agriculture,3.675227137,10.37734216,2019
+1829,val,fit,Small-scale oil palm plantation,Smallholder agriculture,4.228083903,9.545099641,2019
+1830,val,holdout,Small-scale oil palm plantation,Smallholder agriculture,3.964932515,9.904313634,2019
+1831,val,holdout,Small-scale oil palm plantation,Smallholder agriculture,3.640695686,11.19650384,2019
+1832,val,holdout,Small-scale oil palm plantation,Smallholder agriculture,3.530133527,11.983375,2019
+1833,val,fit,Small-scale oil palm plantation,Smallholder agriculture,3.681488082,11.59980258,2019
+1834,val,val,Small-scale oil palm plantation,Smallholder agriculture,3.815502542,10.27416639,2019
+1835,val,fit,Small-scale oil palm plantation,Smallholder agriculture,2.355306095,10.6578492,2019
+1836,val,test,Small-scale oil palm plantation,Smallholder agriculture,3.650622339,10.36736719,2019
+1837,val,fit,Small-scale oil palm plantation,Smallholder agriculture,3.255970244,11.87997664,2019
+1838,val,fit,Small-scale oil palm plantation,Smallholder agriculture,3.740799351,10.75180581,2019
+1839,val,holdout,Small-scale oil palm plantation,Smallholder agriculture,4.236003675,8.985923185,2019
+1840,val,fit,Small-scale oil palm plantation,Smallholder agriculture,3.858432539,9.874696147,2019
+1841,val,val,Small-scale oil palm plantation,Smallholder agriculture,4.289256493,9.585673792,2019
+1842,val,fit,Small-scale oil palm plantation,Smallholder agriculture,3.62586871,10.7008111,2019
+1843,val,fit,Small-scale oil palm plantation,Smallholder agriculture,3.726490927,10.6820214,2019
+1844,val,fit,Small-scale oil palm plantation,Smallholder agriculture,3.760425376,10.65560842,2019
+1845,val,holdout,Small-scale oil palm plantation,Smallholder agriculture,3.645521738,11.16714797,2019
+1846,val,val,Small-scale oil palm plantation,Smallholder agriculture,3.612822406,10.11827923,2019
+1847,val,fit,Small-scale oil palm plantation,Smallholder agriculture,3.843295237,9.874796659,2019
+1848,val,fit,Small-scale oil palm plantation,Smallholder agriculture,3.123859163,12.12305449,2019
+1849,val,fit,Small-scale oil palm plantation,Smallholder agriculture,3.684532406,9.862539125,2019
+1850,val,fit,Small-scale other plantation,Smallholder agriculture,5.45420717,10.8516136,2020
+1851,val,fit,Small-scale other plantation,Smallholder agriculture,5.424364226,10.75598355,2020
+1852,val,fit,Small-scale other plantation,Smallholder agriculture,5.24304031,10.91545871,2020
+1853,val,holdout,Small-scale other plantation,Smallholder agriculture,5.716782005,10.64094636,2020
+1854,val,fit,Small-scale other plantation,Smallholder agriculture,5.635884462,10.06684407,2020
+1855,val,fit,Small-scale other plantation,Smallholder agriculture,5.845564352,10.18939951,2020
+1856,val,test,Small-scale other plantation,Smallholder agriculture,6.264865317,10.48016159,2020
+1857,val,fit,Small-scale other plantation,Smallholder agriculture,5.320234067,10.43213264,2020
+1858,val,fit,Small-scale other plantation,Smallholder agriculture,6.292068994,10.33924236,2020
+1859,val,test,Small-scale other plantation,Smallholder agriculture,5.621233603,10.58793471,2020
+1860,val,fit,Small-scale other plantation,Smallholder agriculture,5.249214612,10.86575881,2020
+1861,val,test,Small-scale other plantation,Smallholder agriculture,6.252887977,10.74928408,2020
+1862,val,test,Small-scale other plantation,Smallholder agriculture,5.975125,10.14586733,2020
+1863,val,fit,Small-scale other plantation,Smallholder agriculture,5.88389856,10.20491969,2020
+1864,val,fit,Small-scale other plantation,Smallholder agriculture,5.907625,10.177375,2020
+1865,val,fit,Small-scale other plantation,Smallholder agriculture,5.89959066,10.20226524,2020
+1866,val,holdout,Small-scale other plantation,Smallholder agriculture,5.729648069,10.64107004,2020
+1867,val,holdout,Small-scale other plantation,Smallholder agriculture,5.727887914,10.64100488,2020
+1868,val,fit,Small-scale other plantation,Smallholder agriculture,5.392217217,10.62602796,2020
+1869,val,fit,Small-scale other plantation,Smallholder agriculture,5.627436628,10.05126917,2020
+1870,val,fit,Small-scale other plantation,Smallholder agriculture,6.056926093,10.36900779,2020
+1871,val,fit,Timber plantation,Plantation,2.005048077,15.84141346,2017
+1872,val,val,Timber plantation,Plantation,2.136875,15.911375,2017
+1873,val,fit,Timber plantation,Plantation,1.8675625,16.0418125,2017
+1874,val,fit,Timber plantation,Plantation,2.027625,15.82275,2015
+1875,val,fit,Timber plantation,Plantation,1.800528846,15.88347115,2018
+1876,val,fit,Timber plantation,Plantation,2.022875,16.052125,2017
+1877,val,test,Timber plantation,Plantation,2.075625,15.779625,2020
+1878,val,fit,Timber plantation,Plantation,1.928625,15.865125,2017
+1879,val,fit,Timber plantation,Plantation,1.953125,15.840875,2017
+1880,val,fit,Timber plantation,Plantation,1.913875,15.90125,2017
+1881,val,fit,Timber plantation,Plantation,1.968875,15.889,2017
+1882,val,fit,Timber plantation,Plantation,1.9415,15.833125,2017
+1883,val,fit,Timber plantation,Plantation,1.939375,15.816125,2016
+1884,val,fit,Timber plantation,Plantation,2.085053571,16.058125,2018
+1885,val,fit,Timber plantation,Plantation,1.962291667,15.86479167,2017
+1886,val,fit,Timber plantation,Plantation,1.92975,15.865875,2017
+1887,val,fit,Timber plantation,Plantation,1.955125,15.85075,2017
+1888,val,fit,Timber plantation,Plantation,1.831166185,15.86797031,2017
+1889,val,fit,Timber plantation,Plantation,1.909875,15.916625,2017
+1890,val,fit,Timber plantation,Plantation,1.92775,15.857,2017
+1891,val,fit,Wildfire,Other,8.696673481,14.75520275,2020
+1892,val,test,Wildfire,Other,8.599375,14.377125,2016
+1893,val,test,Wildfire,Other,8.719131363,13.8056835,2020
+1894,val,fit,Wildfire,Other,7.9075625,14.992375,2020
+1895,val,test,Wildfire,Other,7.384234851,12.27675089,2020
+1896,val,holdout,Wildfire,Other,7.761083333,14.17695833,2019
+1897,val,holdout,Wildfire,Other,7.734625,13.951875,2016
+1898,val,holdout,Wildfire,Other,8.394306818,13.61530682,2017
+1899,val,test,Wildfire,Other,8.451375,14.385375,2016
+1900,val,holdout,Wildfire,Other,8.372898437,13.6055,2016
+1901,val,test,Wildfire,Other,8.451541667,14.38629167,2020
+1902,test,test,Fruit plantation,Plantation,4.85375,9.79175,2016
+1903,test,test,Fruit plantation,Plantation,4.852875,9.79175,2016
+1904,test,fit,Fruit plantation,Plantation,4.726486111,9.775152778,2017
+1905,test,test,Fruit plantation,Plantation,4.731125,9.653875,2019
+1906,test,fit,Grassland shrubland,Grassland shrubland,5.93396875,9.294114583,2020
+1907,test,val,Grassland shrubland,Grassland shrubland,5.904375,9.553041667,2020
+1908,test,val,Grassland shrubland,Grassland shrubland,5.968791667,9.19225,2020
+1909,test,fit,Grassland shrubland,Grassland shrubland,5.804833333,9.289819444,2020
+1910,test,fit,Grassland shrubland,Grassland shrubland,5.9974375,9.681770833,2020
+1911,test,fit,Grassland shrubland,Grassland shrubland,5.8285,9.307635417,2020
+1912,test,test,Grassland shrubland,Grassland shrubland,5.986580993,9.877345974,2020
+1913,test,fit,Grassland shrubland,Grassland shrubland,5.855575,9.388475,2020
+1914,test,test,Grassland shrubland,Grassland shrubland,5.938767857,9.119946429,2020
+1915,test,fit,Grassland shrubland,Grassland shrubland,5.811767857,9.645994048,2020
+1916,test,fit,Grassland shrubland,Grassland shrubland,5.946333333,9.306625,2020
+1917,test,holdout,Grassland shrubland,Grassland shrubland,5.9206,9.051045833,2020
+1918,test,fit,Grassland shrubland,Grassland shrubland,5.869189815,9.40449537,2020
+1919,test,fit,Hunting,Other,2.455485,15.495055,2019
+1920,test,fit,Hunting,Other,2.773375,15.401125,2020
+1921,test,fit,Hunting,Other,8.490875,13.662625,2015
+1922,test,fit,Hunting,Other,8.369375,12.96575,2019
+1923,test,test,Hunting,Other,3.062325,14.706075,2017
+1924,test,test,Hunting,Other,7.8728125,12.688625,2020
+1925,test,holdout,Hunting,Other,5.9665,12.40425,2017
+1926,test,test,Hunting,Other,2.169625,14.840375,2020
+1927,test,fit,Hunting,Other,2.454708333,15.49654167,2018
+1928,test,fit,Hunting,Other,3.492625,14.8875,2016
+1929,test,fit,Hunting,Other,3.4885,14.893375,2017
+1930,test,fit,Hunting,Other,8.502125,13.672125,2020
+1931,test,fit,Hunting,Other,2.141,15.667875,2015
+1932,test,fit,Hunting,Other,8.370625,12.9615,2015
+1933,test,test,Hunting,Other,3.513625,15.072625,2018
+1934,test,fit,Hunting,Other,2.7715625,15.40265625,2019
+1935,test,fit,Hunting,Other,3.278041667,14.81629167,2016
+1936,test,fit,Hunting,Other,3.488125,14.888,2020
+1937,test,fit,Hunting,Other,3.484375,14.8865,2018
+1938,test,test,Hunting,Other,8.415309783,12.98438587,2018
+1939,test,test,Hunting,Other,3.249053571,14.86610119,2020
+1940,test,val,Hunting,Other,3.008107143,15.11153571,2020
+1941,test,val,Hunting,Other,5.071375,12.438875,2016
+1942,test,holdout,Hunting,Other,5.986791667,12.39354167,2019
+1943,test,val,Hunting,Other,5.074375,12.439875,2018
+1944,test,val,Hunting,Other,2.47275,12.84425,2019
+1945,test,test,Hunting,Other,3.058950758,14.71424621,2018
+1946,test,test,Hunting,Other,8.424875,12.966375,2016
+1947,test,test,Infrastructure,Other,2.698622329,13.28466063,2020
+1948,test,holdout,Infrastructure,Other,3.889788395,12.55792357,2020
+1949,test,fit,Infrastructure,Other,3.613107288,11.26794282,2020
+1950,test,fit,Infrastructure,Other,4.232944834,11.26973945,2020
+1951,test,test,Infrastructure,Other,3.851160838,11.58504812,2020
+1952,test,fit,Infrastructure,Other,4.638085027,9.615042699,2020
+1953,test,fit,Infrastructure,Other,3.73078659,11.0667202,2020
+1954,test,fit,Infrastructure,Other,4.166469503,11.38113055,2020
+1955,test,fit,Infrastructure,Other,3.803550128,11.45030082,2020
+1956,test,holdout,Infrastructure,Other,4.431472512,11.85903428,2020
+1957,test,fit,Infrastructure,Other,5.637011623,13.71405534,2020
+1958,test,val,Infrastructure,Other,4.191622331,10.97419372,2020
+1959,test,fit,Infrastructure,Other,4.110773955,9.647382049,2020
+1960,test,fit,Mining,Other,3.669625,10.583125,2019
+1961,test,holdout,Mining,Other,3.46175,13.85025,2019
+1962,test,fit,Mining,Other,3.007175,14.18965,2019
+1963,test,holdout,Mining,Other,3.455375,13.834625,2016
+1964,test,fit,Mining,Other,2.90575,12.1685,2017
+1965,test,fit,Mining,Other,3.006625,14.188625,2016
+1966,test,fit,Mining,Other,3.66984375,10.58509375,2015
+1967,test,fit,Mining,Other,2.909125,12.181625,2016
+1968,test,holdout,Mining,Other,3.238875,15.642375,2016
+1969,test,test,Mining,Other,3.460875,10.680125,2017
+1970,test,test,Mining,Other,2.349375,12.785125,2016
+1971,test,test,Mining,Other,3.272125,15.580625,2017
+1972,test,fit,Mining,Other,3.770125,10.6365,2017
+1973,test,holdout,Mining,Other,3.240625,15.616375,2015
+1974,test,fit,Mining,Other,3.622125,10.763,2015
+1975,test,holdout,Mining,Other,2.6085,12.669625,2015
+1976,test,test,Mining,Other,2.795125,13.875125,2015
+1977,test,fit,Mining,Other,3.77065,10.63955,2017
+1978,test,holdout,Mining,Other,2.61175,12.671125,2019
+1979,test,test,Mining,Other,3.464041667,10.69220833,2019
+1980,test,holdout,Mining,Other,3.57425,10.607125,2015
+1981,test,holdout,Mining,Other,2.610875,12.683625,2017
+1982,test,fit,Mining,Other,3.586125,10.753125,2015
+1983,test,fit,Mining,Other,2.644065,12.656635,2016
+1984,test,fit,Mining,Other,3.77,10.656625,2015
+1985,test,test,Mining,Other,3.350125,14.132125,2019
+1986,test,val,Mining,Other,2.427375,12.804625,2016
+1987,test,holdout,Mining,Other,3.376569444,10.58823611,2019
+1988,test,holdout,Mining,Other,3.589778846,10.62229808,2015
+1989,test,holdout,Mining,Other,2.22925,13.929375,2015
+1990,test,test,Oil palm plantation,Plantation,5.154806818,9.440579545,2015
+1991,test,fit,Oil palm plantation,Plantation,4.254125,9.00875,2016
+1992,test,fit,Oil palm plantation,Plantation,4.704875,8.9895,2020
+1993,test,fit,Oil palm plantation,Plantation,5.162208333,9.312041667,2019
+1994,test,fit,Oil palm plantation,Plantation,4.224458333,9.030708333,2015
+1995,test,fit,Oil palm plantation,Plantation,4.551875,9.073375,2016
+1996,test,test,Oil palm plantation,Plantation,4.90775,8.830375,2017
+1997,test,test,Oil palm plantation,Plantation,5.155125,9.435375,2017
+1998,test,test,Oil palm plantation,Plantation,4.884375,8.712375,2019
+1999,test,fit,Oil palm plantation,Plantation,3.619875,10.657,2019
+2000,test,test,Oil palm plantation,Plantation,2.97375,10.032125,2020
+2001,test,holdout,Oil palm plantation,Plantation,3.927053571,9.895160714,2017
+2002,test,fit,Oil palm plantation,Plantation,4.51325,8.987625,2017
+2003,test,test,Oil palm plantation,Plantation,4.852875,9.783875,2020
+2004,test,fit,Oil palm plantation,Plantation,3.797875,9.856875,2019
+2005,test,test,Oil palm plantation,Plantation,4.032625,9.118375,2017
+2006,test,holdout,Oil palm plantation,Plantation,4.664458333,9.070236111,2016
+2007,test,test,Oil palm plantation,Plantation,4.115013889,8.991847222,2019
+2008,test,fit,Oil palm plantation,Plantation,4.513375,8.99075,2016
+2009,test,fit,Oil palm plantation,Plantation,5.168625,9.332875,2016
+2010,test,fit,Oil palm plantation,Plantation,4.227903846,9.030086538,2017
+2011,test,fit,Oil palm plantation,Plantation,4.137803571,9.251660714,2020
+2012,test,fit,Oil palm plantation,Plantation,5.136125,9.036625,2016
+2013,test,holdout,Oil palm plantation,Plantation,3.859625,9.961125,2015
+2014,test,val,Oil palm plantation,Plantation,4.450098684,8.946888158,2020
+2015,test,val,Oil palm plantation,Plantation,3.975791667,10.50676389,2016
+2016,test,test,Oil palm plantation,Plantation,4.084875,9.338125,2020
+2017,test,fit,Oil palm plantation,Plantation,3.709875,10.634875,2019
+2018,test,fit,Oil palm plantation,Plantation,5.157491667,9.263591667,2016
+2019,test,holdout,Oil palm plantation,Plantation,3.913875,9.863875,2020
+2020,test,val,Oil palm plantation,Plantation,4.461125,8.952375,2017
+2021,test,fit,Oil palm plantation,Plantation,4.458541667,9.127541667,2019
+2022,test,holdout,Oil palm plantation,Plantation,4.260875,8.970125,2019
+2023,test,fit,Oil palm plantation,Plantation,3.791208333,9.884708333,2016
+2024,test,fit,Oil palm plantation,Plantation,4.161041667,9.597708333,2017
+2025,test,fit,Oil palm plantation,Plantation,4.160875,9.596625,2020
+2026,test,test,Oil palm plantation,Plantation,4.138125,9.322,2015
+2027,test,test,Oil palm plantation,Plantation,4.136875,9.324375,2016
+2028,test,val,Oil palm plantation,Plantation,4.051833333,9.193208333,2015
+2029,test,val,Oil palm plantation,Plantation,4.05375,9.199125,2016
+2030,test,test,Other,Other,5.965958333,10.04,2020
+2031,test,test,Other,Other,5.948291667,11.08270833,2020
+2032,test,test,Other,Other,5.94857797,11.08515553,2020
+2033,test,test,Other,Other,5.990083333,11.04170833,2020
+2034,test,test,Other,Other,5.990828704,11.0415787,2020
+2035,test,fit,Other large-scale plantations,Plantation,3.650175,10.050925,2020
+2036,test,fit,Other large-scale plantations,Plantation,3.788125,9.874375,2020
+2037,test,fit,Other large-scale plantations,Plantation,3.65,10.051875,2020
+2038,test,fit,Other large-scale plantations,Plantation,4.6980625,14.2105625,2016
+2039,test,fit,Other large-scale plantations,Plantation,3.658375,10.05075,2020
+2040,test,fit,Other large-scale plantations,Plantation,4.697125,14.210625,2016
+2041,test,fit,Other large-scale plantations,Plantation,6.08975,10.369,2016
+2042,test,fit,Other large-scale plantations,Plantation,4.098125,9.219875,2015
+2043,test,fit,Other large-scale plantations,Plantation,6.082625,10.372875,2015
+2044,test,fit,Other large-scale plantations,Plantation,3.89025,9.83775,2020
+2045,test,holdout,Other large-scale plantations,Plantation,3.870875,9.966,2020
+2046,test,fit,Other large-scale plantations,Plantation,6.088969828,10.36138362,2017
+2047,test,fit,Other large-scale plantations,Plantation,6.095625,10.399875,2019
+2048,test,fit,Other large-scale plantations,Plantation,6.109875,10.394625,2015
+2049,test,fit,Rubber plantation,Plantation,4.369375,9.387,2015
+2050,test,val,Rubber plantation,Plantation,3.977575,10.509975,2015
+2051,test,fit,Rubber plantation,Plantation,4.012416667,9.257625,2020
+2052,test,fit,Rubber plantation,Plantation,4.439375,9.395625,2017
+2053,test,val,Rubber plantation,Plantation,3.198125,12.37625,2015
+2054,test,val,Rubber plantation,Plantation,3.178011051,12.39999851,2015
+2055,test,val,Rubber plantation,Plantation,3.199708333,12.36920833,2019
+2056,test,fit,Rubber plantation,Plantation,4.013125,9.256875,2016
+2057,test,test,Rubber plantation,Plantation,3.075625,12.414875,2017
+2058,test,fit,Rubber plantation,Plantation,4.012833333,9.265729167,2017
+2059,test,test,Rubber plantation,Plantation,4.307125,9.457625,2020
+2060,test,test,Rubber plantation,Plantation,3.0735,12.436125,2015
+2061,test,fit,Rubber plantation,Plantation,3.973,9.2375,2019
+2062,test,val,Rubber plantation,Plantation,3.238375,12.415875,2017
+2063,test,fit,Rubber plantation,Plantation,4.010625,9.249625,2020
+2064,test,test,Rubber plantation,Plantation,3.076125,12.426875,2017
+2065,test,test,Rubber plantation,Plantation,3.074625,12.422125,2019
+2066,test,val,Selective logging,Other,2.852375,11.42,2017
+2067,test,val,Selective logging,Other,2.493875,12.811375,2017
+2068,test,fit,Selective logging,Other,2.922175,12.267475,2016
+2069,test,fit,Selective logging,Other,3.40025,13.9885,2018
+2070,test,test,Selective logging,Other,2.906791667,16.06754167,2016
+2071,test,fit,Selective logging,Other,5.2295,9.559375,2018
+2072,test,val,Selective logging,Other,3.214513889,13.98204167,2016
+2073,test,fit,Selective logging,Other,3.959541667,12.92970833,2018
+2074,test,fit,Selective logging,Other,2.740319444,12.13976389,2016
+2075,test,fit,Selective logging,Other,2.3725,10.6945,2017
+2076,test,test,Selective logging,Other,5.706175,9.698725,2018
+2077,test,val,Selective logging,Other,5.373075,12.463275,2017
+2078,test,test,Selective logging,Other,3.376625,14.4755,2017
+2079,test,test,Selective logging,Other,4.416291667,14.46356944,2018
+2080,test,test,Selective logging,Other,2.850875,13.978625,2016
+2081,test,fit,Selective logging,Other,3.516125,13.593625,2016
+2082,test,test,Selective logging,Other,2.881125,13.92125,2015
+2083,test,fit,Selective logging,Other,2.749602273,12.45394318,2015
+2084,test,test,Selective logging,Other,4.13475,10.361125,2016
+2085,test,test,Selective logging,Other,5.907,9.106375,2018
+2086,test,fit,Selective logging,Other,3.337696429,14.176625,2015
+2087,test,holdout,Selective logging,Other,2.548875,11.79025,2015
+2088,test,val,Selective logging,Other,4.955708333,12.11579167,2018
+2089,test,fit,Selective logging,Other,4.300583333,14.409875,2016
+2090,test,fit,Selective logging,Other,4.234125,14.56194167,2015
+2091,test,holdout,Selective logging,Other,2.859375,15.66475,2015
+2092,test,fit,Selective logging,Other,5.229,9.557875,2015
+2093,test,fit,Selective logging,Other,4.232375,13.924875,2018
+2094,test,val,Selective logging,Other,2.6304375,12.7454375,2016
+2095,test,holdout,Selective logging,Other,2.804875,12.303625,2015
+2096,test,test,Selective logging,Other,2.648625,11.774625,2015
+2097,test,val,Selective logging,Other,3.034958333,15.15020833,2017
+2098,test,test,Selective logging,Other,2.7226875,14.2936875,2018
+2099,test,fit,Selective logging,Other,3.791239865,13.11611486,2017
+2100,test,fit,Selective logging,Other,2.871625,12.988875,2016
+2101,test,fit,Selective logging,Other,3.225,14.022875,2018
+2102,test,test,Selective logging,Other,2.962125,12.658625,2016
+2103,test,fit,Selective logging,Other,2.424,15.144125,2015
+2104,test,fit,Selective logging,Other,5.214625,9.493125,2017
+2105,test,fit,Selective logging,Other,2.660125,11.202375,2018
+2106,test,fit,Selective logging,Other,2.470625,15.278875,2018
+2107,test,fit,Selective logging,Other,2.736875,13.3715,2018
+2108,test,fit,Selective logging,Other,2.636375,12.587875,2015
+2109,test,test,Selective logging,Other,4.182402778,14.16581944,2015
+2110,test,fit,Selective logging,Other,2.39975,15.482875,2015
+2111,test,test,Selective logging,Other,5.428625,11.9975,2016
+2112,test,test,Selective logging,Other,2.887375,12.720125,2016
+2113,test,val,Selective logging,Other,3.112102273,13.87971591,2018
+2114,test,fit,Selective logging,Other,5.2191875,12.558125,2015
+2115,test,test,Selective logging,Other,2.816375,14.33375,2015
+2116,test,test,Selective logging,Other,3.758625,13.79,2018
+2117,test,fit,Selective logging,Other,3.614625,10.386625,2016
+2118,test,fit,Selective logging,Other,2.244375,15.219875,2017
+2119,test,fit,Selective logging,Other,2.39175,12.976125,2018
+2120,test,test,Selective logging,Other,3.477625,10.668375,2016
+2121,test,test,Selective logging,Other,5.723625,9.812875,2017
+2122,test,holdout,Selective logging,Other,2.399125,15.246625,2016
+2123,test,val,Selective logging,Other,3.070208333,14.63666667,2015
+2124,test,holdout,Selective logging,Other,3.963958333,14.115875,2017
+2125,test,val,Selective logging,Other,4.209375,14.207375,2016
+2126,test,test,Selective logging,Other,2.603375,14.015375,2015
+2127,test,val,Selective logging,Other,3.191875,15.716875,2016
+2128,test,fit,Selective logging,Other,5.81375,8.9115625,2017
+2129,test,holdout,Selective logging,Other,2.568958333,15.54329167,2015
+2130,test,fit,Selective logging,Other,3.112575,14.582025,2018
+2131,test,fit,Selective logging,Other,2.510875,13.186125,2016
+2132,test,fit,Selective logging,Other,5.243875,12.562,2015
+2133,test,fit,Selective logging,Other,2.73075,11.466,2015
+2134,test,fit,Selective logging,Other,2.737930556,11.86848611,2015
+2135,test,fit,Selective logging,Other,2.867,13.880625,2015
+2136,test,val,Selective logging,Other,2.92275,12.642125,2017
+2137,test,fit,Selective logging,Other,2.568,13.049375,2017
+2138,test,fit,Selective logging,Other,3.82125,14.884625,2016
+2139,test,fit,Selective logging,Other,2.494125,12.287375,2017
+2140,test,val,Selective logging,Other,3.10875,13.8860625,2017
+2141,test,fit,Selective logging,Other,3.741625,14.776,2017
+2142,test,fit,Selective logging,Other,3.63625,13.93325,2016
+2143,test,test,Selective logging,Other,4.85075,13.680625,2015
+2144,test,fit,Selective logging,Other,2.710375,13.609125,2016
+2145,test,fit,Selective logging,Other,2.344375,10.688875,2016
+2146,test,val,Selective logging,Other,2.938125,12.640375,2015
+2147,test,fit,Selective logging,Other,5.250125,9.318375,2018
+2148,test,holdout,Selective logging,Other,4.699875,10.31375,2018
+2149,test,val,Selective logging,Other,3.39225,14.50925,2016
+2150,test,fit,Selective logging,Other,3.665548077,12.95027885,2016
+2151,test,test,Selective logging,Other,2.609475,13.987925,2017
+2152,test,holdout,Selective logging,Other,4.058,14.67,2015
+2153,test,fit,Selective logging,Other,5.70325,11.40025,2015
+2154,test,fit,Selective logging,Other,4.281958333,14.41604167,2018
+2155,test,fit,Selective logging,Other,3.630375,13.136625,2016
+2156,test,val,Selective logging,Other,2.638625,12.766,2015
+2157,test,fit,Selective logging,Other,2.108125,15.429875,2016
+2158,test,fit,Selective logging,Other,3.632375,10.63575,2015
+2159,test,fit,Selective logging,Other,4.346916667,14.287125,2017
+2160,test,fit,Selective logging,Other,5.6175,9.122,2017
+2161,test,test,Selective logging,Other,2.391736111,10.45420833,2017
+2162,test,fit,Selective logging,Other,3.1894375,14.970875,2017
+2163,test,holdout,Selective logging,Other,4.064125,14.640625,2017
+2164,test,val,Selective logging,Other,3.655791667,13.11304167,2018
+2165,test,fit,Selective logging,Other,3.633875,10.6369375,2018
+2166,test,fit,Selective logging,Other,2.975625,11.6425,2018
+2167,test,fit,Selective logging,Other,4.847125,9.879625,2017
+2168,test,fit,Selective logging,Other,2.109375,15.427125,2015
+2169,test,test,Selective logging,Other,2.653,13.297875,2015
+2170,test,test,Selective logging,Other,3.067,14.700375,2017
+2171,test,fit,Selective logging,Other,3.486482143,12.16108929,2017
+2172,test,fit,Selective logging,Other,2.10625,15.422375,2017
+2173,test,test,Selective logging,Other,2.517232143,10.97432738,2018
+2174,test,test,Selective logging,Other,3.803875,13.046625,2018
+2175,test,test,Selective logging,Other,5.726267857,11.45523214,2018
+2176,test,val,Selective logging,Other,3.019125,15.212125,2017
+2177,test,test,Selective logging,Other,5.45625,11.992125,2015
+2178,test,fit,Selective logging,Other,4.793125,10.401875,2017
+2179,test,fit,Selective logging,Other,5.271208333,13.68029167,2017
+2180,test,fit,Selective logging,Other,3.082,11.330375,2018
+2181,test,fit,Selective logging,Other,3.937875,12.92575,2017
+2182,test,fit,Selective logging,Other,3.657894231,12.94740064,2018
+2183,test,holdout,Selective logging,Other,2.85025,10.985625,2015
+2184,test,fit,Selective logging,Other,2.708375,15.240625,2017
+2185,test,fit,Selective logging,Other,4.181517857,14.01730357,2017
+2186,test,test,Small-scale maize plantation,Smallholder agriculture,7.765232493,13.72295147,2020
+2187,test,val,Small-scale maize plantation,Smallholder agriculture,7.463784913,12.87036142,2020
+2188,test,test,Small-scale maize plantation,Smallholder agriculture,7.404816079,12.76060141,2020
+2189,test,fit,Small-scale maize plantation,Smallholder agriculture,7.389518726,13.76318863,2020
+2190,test,val,Small-scale maize plantation,Smallholder agriculture,7.794932538,13.7508218,2020
+2191,test,val,Small-scale maize plantation,Smallholder agriculture,7.718774192,14.75886669,2020
+2192,test,holdout,Small-scale maize plantation,Smallholder agriculture,7.763256656,14.61711689,2020
+2193,test,fit,Small-scale maize plantation,Smallholder agriculture,7.356375,12.99068458,2020
+2194,test,fit,Small-scale maize plantation,Smallholder agriculture,7.807355971,12.50059516,2020
+2195,test,test,Small-scale maize plantation,Smallholder agriculture,7.509673569,13.54927221,2020
+2196,test,fit,Small-scale maize plantation,Smallholder agriculture,7.387740892,13.01937816,2020
+2197,test,fit,Small-scale maize plantation,Smallholder agriculture,7.726911434,13.83013927,2020
+2198,test,fit,Small-scale maize plantation,Smallholder agriculture,7.704285965,13.52479637,2020
+2199,test,fit,Small-scale maize plantation,Smallholder agriculture,7.470415709,13.97628691,2020
+2200,test,fit,Small-scale maize plantation,Smallholder agriculture,7.744010445,13.81747978,2020
+2201,test,val,Small-scale maize plantation,Smallholder agriculture,7.809992707,14.73036235,2020
+2202,test,val,Small-scale maize plantation,Smallholder agriculture,7.832382948,14.48843452,2020
+2203,test,fit,Small-scale maize plantation,Smallholder agriculture,7.388673846,13.01847623,2020
+2204,test,fit,Small-scale maize plantation,Smallholder agriculture,7.395816085,12.93805962,2020
+2205,test,fit,Small-scale maize plantation,Smallholder agriculture,7.764873291,13.5598688,2020
+2206,test,val,Small-scale maize plantation,Smallholder agriculture,7.636755556,14.43605893,2020
+2207,test,fit,Small-scale maize plantation,Smallholder agriculture,7.612460608,14.52950996,2020
+2208,test,val,Small-scale maize plantation,Smallholder agriculture,7.545625,13.02385122,2020
+2209,test,val,Small-scale maize plantation,Smallholder agriculture,7.783923294,13.74876738,2020
+2210,test,holdout,Small-scale maize plantation,Smallholder agriculture,7.734194061,13.96252703,2020
+2211,test,holdout,Small-scale maize plantation,Smallholder agriculture,7.733565849,13.98676231,2020
+2212,test,fit,Small-scale maize plantation,Smallholder agriculture,7.875400593,13.68763459,2020
+2213,test,fit,Small-scale maize plantation,Smallholder agriculture,7.623440926,14.519875,2020
+2214,test,fit,Small-scale maize plantation,Smallholder agriculture,7.63333473,14.5657069,2020
+2215,test,val,Small-scale maize plantation,Smallholder agriculture,7.617801904,14.45207866,2020
+2216,test,fit,Small-scale maize plantation,Smallholder agriculture,7.801558207,12.49701084,2020
+2217,test,val,Small-scale maize plantation,Smallholder agriculture,7.38336323,13.69562601,2020
+2218,test,test,Small-scale maize plantation,Smallholder agriculture,7.401423367,12.79580238,2020
+2219,test,fit,Small-scale maize plantation,Smallholder agriculture,7.685732549,12.20893513,2020
+2220,test,fit,Small-scale maize plantation,Smallholder agriculture,7.827336096,13.72269195,2020
+2221,test,val,Small-scale maize plantation,Smallholder agriculture,7.630628997,14.4314787,2020
+2222,test,test,Small-scale maize plantation,Smallholder agriculture,7.412258802,12.79858715,2020
+2223,test,val,Small-scale maize plantation,Smallholder agriculture,7.640432008,14.4002779,2020
+2224,test,fit,Small-scale maize plantation,Smallholder agriculture,2.947291667,11.40004167,2017
+2225,test,fit,Small-scale maize plantation,Smallholder agriculture,7.87597858,12.46127912,2020
+2226,test,fit,Small-scale maize plantation,Smallholder agriculture,7.852922987,12.57355253,2020
+2227,test,test,Small-scale maize plantation,Smallholder agriculture,7.610246223,13.70214723,2020
+2228,test,val,Small-scale maize plantation,Smallholder agriculture,7.600429127,14.46312563,2020
+2229,test,val,Small-scale maize plantation,Smallholder agriculture,7.791397951,14.71184084,2020
+2230,test,test,Small-scale maize plantation,Smallholder agriculture,7.710613533,14.11165445,2020
+2231,test,val,Small-scale maize plantation,Smallholder agriculture,7.681719038,14.23544279,2020
+2232,test,fit,Small-scale maize plantation,Smallholder agriculture,7.760349077,13.5452762,2020
+2233,test,val,Small-scale maize plantation,Smallholder agriculture,7.74617916,14.75732696,2020
+2234,test,val,Small-scale maize plantation,Smallholder agriculture,7.431622759,13.72675789,2020
+2235,test,fit,Small-scale maize plantation,Smallholder agriculture,7.870939524,12.50555522,2020
+2236,test,val,Small-scale maize plantation,Smallholder agriculture,7.574895808,13.86043739,2020
+2237,test,fit,Small-scale maize plantation,Smallholder agriculture,7.634415029,14.55534475,2020
+2238,test,fit,Small-scale maize plantation,Smallholder agriculture,7.867440755,12.50282817,2020
+2239,test,test,Small-scale maize plantation,Smallholder agriculture,7.813875,14.636875,2020
+2240,test,fit,Small-scale maize plantation,Smallholder agriculture,7.703286531,13.50692774,2020
+2241,test,val,Small-scale maize plantation,Smallholder agriculture,7.65493781,14.16711525,2020
+2242,test,val,Small-scale maize plantation,Smallholder agriculture,7.725220899,14.71846247,2020
+2243,test,val,Small-scale maize plantation,Smallholder agriculture,7.442158826,13.38289693,2020
+2244,test,fit,Small-scale maize plantation,Smallholder agriculture,7.716423388,13.50822588,2020
+2245,test,val,Small-scale maize plantation,Smallholder agriculture,7.776214971,14.75695002,2020
+2246,test,fit,Small-scale maize plantation,Smallholder agriculture,7.698065873,14.43282548,2020
+2247,test,fit,Small-scale maize plantation,Smallholder agriculture,7.698065873,13.47218424,2020
+2248,test,fit,Small-scale maize plantation,Smallholder agriculture,7.692899211,13.46539258,2020
+2249,test,fit,Small-scale maize plantation,Smallholder agriculture,7.759603101,13.55338766,2020
+2250,test,test,Small-scale maize plantation,Smallholder agriculture,7.434125,13.769125,2020
+2251,test,fit,Small-scale maize plantation,Smallholder agriculture,7.701842792,14.46279597,2020
+2252,test,fit,Small-scale maize plantation,Smallholder agriculture,7.549876977,14.41899558,2020
+2253,test,test,Small-scale maize plantation,Smallholder agriculture,7.666387373,14.30284987,2020
+2254,test,val,Small-scale maize plantation,Smallholder agriculture,7.727146393,14.74973205,2020
+2255,test,fit,Small-scale maize plantation,Smallholder agriculture,7.690125,14.418125,2020
+2256,test,fit,Small-scale maize plantation,Smallholder agriculture,7.690548424,14.6928347,2020
+2257,test,fit,Small-scale maize plantation,Smallholder agriculture,7.690690879,14.69457511,2020
+2258,test,fit,Small-scale maize plantation,Smallholder agriculture,7.713628394,14.50136686,2020
+2259,test,holdout,Small-scale oil palm plantation,Smallholder agriculture,3.890507284,10.686732,2019
+2260,test,fit,Small-scale oil palm plantation,Smallholder agriculture,4.322033067,9.573987308,2019
+2261,test,fit,Small-scale oil palm plantation,Smallholder agriculture,3.122994773,11.7035119,2019
+2262,test,fit,Small-scale oil palm plantation,Smallholder agriculture,4.120079626,10.05263445,2019
+2263,test,holdout,Small-scale oil palm plantation,Smallholder agriculture,3.972793234,9.929512302,2019
+2264,test,val,Small-scale oil palm plantation,Smallholder agriculture,3.59628143,10.12810844,2019
+2265,test,test,Small-scale oil palm plantation,Smallholder agriculture,3.711229801,10.11012417,2019
+2266,test,val,Small-scale oil palm plantation,Smallholder agriculture,4.200207247,9.962589172,2019
+2267,test,fit,Small-scale oil palm plantation,Smallholder agriculture,3.622343615,10.71976085,2019
+2268,test,test,Small-scale oil palm plantation,Smallholder agriculture,3.887005565,10.931375,2019
+2269,test,fit,Small-scale oil palm plantation,Smallholder agriculture,3.96127598,11.666375,2019
+2270,test,fit,Small-scale oil palm plantation,Smallholder agriculture,3.663777529,10.68821035,2019
+2271,test,fit,Small-scale oil palm plantation,Smallholder agriculture,3.615987539,11.31109584,2019
+2272,test,val,Small-scale oil palm plantation,Smallholder agriculture,3.851125,9.8175,2019
+2273,test,fit,Small-scale oil palm plantation,Smallholder agriculture,4.172198234,9.850591125,2019
+2274,test,fit,Small-scale oil palm plantation,Smallholder agriculture,4.288959115,9.69602796,2019
+2275,test,fit,Small-scale oil palm plantation,Smallholder agriculture,3.684553516,9.86108585,2019
+2276,test,val,Small-scale oil palm plantation,Smallholder agriculture,4.175265554,10.6680146,2019
+2277,test,test,Small-scale oil palm plantation,Smallholder agriculture,3.609693634,10.22982158,2019
+2278,test,fit,Small-scale oil palm plantation,Smallholder agriculture,3.748964775,10.80479417,2019
+2279,test,fit,Small-scale oil palm plantation,Smallholder agriculture,3.969844957,10.0269222,2019
+2280,test,fit,Small-scale oil palm plantation,Smallholder agriculture,3.9429781,11.13782934,2019
+2281,test,holdout,Small-scale oil palm plantation,Smallholder agriculture,4.224959117,9.611790879,2019
+2282,test,fit,Small-scale oil palm plantation,Smallholder agriculture,3.68870635,10.81573205,2019
+2283,test,test,Small-scale oil palm plantation,Smallholder agriculture,3.765958988,10.27526964,2019
+2284,test,fit,Small-scale oil palm plantation,Smallholder agriculture,3.744259266,10.69701252,2019
+2285,test,fit,Small-scale oil palm plantation,Smallholder agriculture,3.692038153,10.72278798,2019
+2286,test,fit,Small-scale oil palm plantation,Smallholder agriculture,4.224289613,9.651025115,2019
+2287,test,fit,Small-scale oil palm plantation,Smallholder agriculture,3.144916326,12.10290439,2019
+2288,test,fit,Small-scale oil palm plantation,Smallholder agriculture,3.489501475,10.50503814,2019
+2289,test,fit,Small-scale oil palm plantation,Smallholder agriculture,3.989290436,11.65783334,2019
+2290,test,fit,Small-scale oil palm plantation,Smallholder agriculture,3.992510019,11.65758277,2019
+2291,test,fit,Small-scale oil palm plantation,Smallholder agriculture,4.192514399,9.635764419,2019
+2292,test,fit,Small-scale oil palm plantation,Smallholder agriculture,4.408460097,9.416382509,2019
+2293,test,val,Small-scale oil palm plantation,Smallholder agriculture,3.839539992,10.4084592,2019
+2294,test,fit,Small-scale oil palm plantation,Smallholder agriculture,4.158875,9.516625,2019
+2295,test,holdout,Small-scale oil palm plantation,Smallholder agriculture,4.004794651,9.929012648,2019
+2296,test,val,Small-scale oil palm plantation,Smallholder agriculture,4.091024417,10.92707296,2019
+2297,test,fit,Small-scale oil palm plantation,Smallholder agriculture,3.759375,10.68876505,2019
+2298,test,test,Small-scale oil palm plantation,Smallholder agriculture,3.707253933,10.40176047,2019
+2299,test,fit,Small-scale oil palm plantation,Smallholder agriculture,3.88526564,9.861739607,2019
+2300,test,val,Small-scale oil palm plantation,Smallholder agriculture,3.919560022,11.32554946,2019
+2301,test,test,Small-scale oil palm plantation,Smallholder agriculture,3.697223357,10.3797562,2019
+2302,test,fit,Small-scale oil palm plantation,Smallholder agriculture,3.795941001,10.22107791,2019
+2303,test,holdout,Small-scale oil palm plantation,Smallholder agriculture,3.967759922,9.931978118,2019
+2304,test,test,Small-scale oil palm plantation,Smallholder agriculture,3.64725014,10.12535081,2019
+2305,test,fit,Small-scale oil palm plantation,Smallholder agriculture,4.240622627,9.524371979,2019
+2306,test,val,Small-scale oil palm plantation,Smallholder agriculture,4.277078699,9.584347665,2019
+2307,test,fit,Small-scale oil palm plantation,Smallholder agriculture,3.740757548,10.67367436,2019
+2308,test,fit,Small-scale oil palm plantation,Smallholder agriculture,3.637417061,10.72027708,2019
+2309,test,test,Small-scale oil palm plantation,Smallholder agriculture,3.130367502,12.27211635,2019
+2310,test,test,Small-scale oil palm plantation,Smallholder agriculture,3.221263522,11.86417698,2019
+2311,test,fit,Small-scale oil palm plantation,Smallholder agriculture,4.234964684,9.527396872,2019
+2312,test,fit,Small-scale oil palm plantation,Smallholder agriculture,3.771326675,11.1277443,2019
+2313,test,fit,Small-scale oil palm plantation,Smallholder agriculture,3.735341707,10.67984944,2019
+2314,test,fit,Small-scale other plantation,Smallholder agriculture,5.919953914,10.19405211,2020
+2315,test,fit,Small-scale other plantation,Smallholder agriculture,5.295416235,10.72978316,2020
+2316,test,test,Small-scale other plantation,Smallholder agriculture,5.350925733,10.8233276,2020
+2317,test,fit,Small-scale other plantation,Smallholder agriculture,5.387235539,10.62553406,2020
+2318,test,test,Small-scale other plantation,Smallholder agriculture,6.280671848,10.67789217,2020
+2319,test,fit,Small-scale other plantation,Smallholder agriculture,5.290671256,10.87570791,2020
+2320,test,fit,Small-scale other plantation,Smallholder agriculture,5.291057064,10.87528205,2020
+2321,test,fit,Small-scale other plantation,Smallholder agriculture,5.709509364,10.39619375,2020
+2322,test,holdout,Small-scale other plantation,Smallholder agriculture,5.341401622,10.75938761,2020
+2323,test,val,Small-scale other plantation,Smallholder agriculture,2.70265625,12.63865625,2020
+2324,test,fit,Small-scale other plantation,Smallholder agriculture,5.387318873,10.6252424,2020
+2325,test,fit,Small-scale other plantation,Smallholder agriculture,6.177524083,10.72470631,2020
+2326,test,fit,Small-scale other plantation,Smallholder agriculture,2.770029762,10.18426786,2020
+2327,test,val,Small-scale other plantation,Smallholder agriculture,5.592411467,10.02568237,2020
+2328,test,fit,Small-scale other plantation,Smallholder agriculture,3.89413587,12.05652717,2020
+2329,test,fit,Small-scale other plantation,Smallholder agriculture,6.074596263,10.5401931,2020
+2330,test,fit,Small-scale other plantation,Smallholder agriculture,5.616703892,10.06905213,2020
+2331,test,fit,Small-scale other plantation,Smallholder agriculture,5.378707858,10.81373512,2020
+2332,test,fit,Small-scale other plantation,Smallholder agriculture,5.387763909,10.6197904,2020
+2333,test,holdout,Small-scale other plantation,Smallholder agriculture,6.018908001,10.39951043,2020
+2334,test,fit,Small-scale other plantation,Smallholder agriculture,5.620580917,10.09802886,2020
+2335,test,fit,Small-scale other plantation,Smallholder agriculture,5.268392022,10.87085781,2020
+2336,test,fit,Small-scale other plantation,Smallholder agriculture,5.875527271,10.20774234,2020
+2337,test,fit,Small-scale other plantation,Smallholder agriculture,5.859804539,10.18481275,2020
+2338,test,fit,Small-scale other plantation,Smallholder agriculture,5.870277271,10.194875,2020
+2339,test,fit,Small-scale other plantation,Smallholder agriculture,6.061118253,10.36689885,2020
+2340,test,fit,Small-scale other plantation,Smallholder agriculture,5.878235605,10.18824234,2020
+2341,test,fit,Small-scale other plantation,Smallholder agriculture,5.90321207,10.19493219,2020
+2342,test,fit,Small-scale other plantation,Smallholder agriculture,5.902027275,10.18670067,2020
+2343,test,fit,Timber plantation,Plantation,1.939375,15.812875,2017
+2344,test,test,Timber plantation,Plantation,2.079,15.77875,2020
+2345,test,fit,Timber plantation,Plantation,1.901375,16.077625,2019
+2346,test,test,Timber plantation,Plantation,2.080375,15.780875,2020
+2347,test,fit,Timber plantation,Plantation,1.938875,15.814875,2016
+2348,test,fit,Timber plantation,Plantation,1.862625,15.875125,2018
+2349,test,val,Timber plantation,Plantation,2.104875,15.968375,2016
+2350,test,val,Timber plantation,Plantation,1.998375,16.016625,2016
+2351,test,fit,Timber plantation,Plantation,1.817625,15.876,2015
+2352,test,fit,Timber plantation,Plantation,1.776541667,15.95070833,2017
+2353,test,fit,Timber plantation,Plantation,2.027625,15.861375,2016
+2354,test,fit,Timber plantation,Plantation,1.901375,15.94219643,2017
+2355,test,fit,Timber plantation,Plantation,1.963375,15.831375,2016
+2356,test,fit,Timber plantation,Plantation,1.892125,15.873625,2018
+2357,test,fit,Timber plantation,Plantation,1.936791667,15.81695833,2016
+2358,test,fit,Timber plantation,Plantation,1.900375,15.943125,2017
+2359,test,fit,Timber plantation,Plantation,1.769664815,16.01727068,2016
+2360,test,fit,Timber plantation,Plantation,1.7853375,15.9345125,2020
+2361,test,fit,Timber plantation,Plantation,1.959375,15.86225,2017
+2362,test,fit,Timber plantation,Plantation,1.9344375,15.872625,2017
+2363,test,fit,Timber plantation,Plantation,1.962125,15.863375,2017
+2364,test,fit,Timber plantation,Plantation,1.8475,15.834625,2018
+2365,test,fit,Timber plantation,Plantation,1.939625,15.82825,2016
+2366,test,fit,Timber plantation,Plantation,1.90585119,15.92725595,2017
+2367,test,fit,Timber plantation,Plantation,1.905125,15.931875,2017
+2368,test,fit,Timber plantation,Plantation,1.849875,15.8515,2020
+2369,test,fit,Timber plantation,Plantation,1.849291667,15.85170833,2020
+2370,test,fit,Timber plantation,Plantation,1.916625,15.861875,2017
+2371,test,fit,Timber plantation,Plantation,1.958958333,15.85420833,2017
+2372,test,fit,Timber plantation,Plantation,1.798208333,15.89379167,2020
+2373,test,fit,Timber plantation,Plantation,1.93625,15.888875,2017
+2374,test,fit,Timber plantation,Plantation,1.915875,15.862375,2017
+2375,test,fit,Timber plantation,Plantation,1.939125,15.87675,2017
+2376,test,fit,Timber plantation,Plantation,1.782875,15.930125,2017
+2377,test,fit,Timber plantation,Plantation,1.913875,15.880625,2017
+2378,test,fit,Timber plantation,Plantation,1.956458333,15.85745833,2017
+2379,test,fit,Timber plantation,Plantation,1.962375,15.859375,2017
+2380,test,fit,Timber plantation,Plantation,1.950875,15.817625,2016
+2381,test,fit,Timber plantation,Plantation,1.839325,15.866275,2017
+2382,test,fit,Timber plantation,Plantation,1.91,15.874625,2017
+2383,test,fit,Timber plantation,Plantation,1.769791667,15.99879167,2016
+2384,test,fit,Timber plantation,Plantation,1.92675,15.875,2017
+2385,test,fit,Timber plantation,Plantation,1.939375,15.881875,2017
+2386,test,fit,Timber plantation,Plantation,1.936025,15.875075,2017
+2387,test,fit,Timber plantation,Plantation,1.935791667,15.87358333,2017
+2388,test,fit,Timber plantation,Plantation,1.913325,15.903475,2017
+2389,test,fit,Timber plantation,Plantation,1.766875,16.001375,2020
+2390,test,test,Wildfire,Other,5.945133765,11.67038807,2020
+2391,test,test,Wildfire,Other,8.363875,15.073125,2016
+2392,test,fit,Wildfire,Other,8.755939516,14.81706317,2020
+2393,test,fit,Wildfire,Other,7.980958333,14.80904167,2016
+2394,test,holdout,Wildfire,Other,5.714266737,11.28051924,2020
+2395,test,fit,Wildfire,Other,8.961325,14.102975,2015
+2396,test,test,Wildfire,Other,6.507479133,11.93359445,2020
+2397,test,test,Wildfire,Other,7.245958333,11.82754167,2016
+2398,test,test,Wildfire,Other,8.123125,13.891875,2020
+2399,test,holdout,Wildfire,Other,8.151375,13.631625,2018
+2400,test,test,Wildfire,Other,8.63175,14.211875,2017
+2401,test,val,Wildfire,Other,7.796125,14.111875,2019
+2402,test,test,Wildfire,Other,8.672741788,13.81088437,2017
+2403,test,holdout,Wildfire,Other,8.7435,13.574375,2016
+2404,test,holdout,Wildfire,Other,7.62049177,15.51427917,2020
+2405,test,test,Wildfire,Other,8.423275,13.509075,2017
+2406,test,fit,Wildfire,Other,7.749875,14.5785,2019
+2407,test,fit,Wildfire,Other,7.7491875,14.5683125,2019
+2408,test,fit,Wildfire,Other,8.485625,13.733875,2018
+2409,test,holdout,Wildfire,Other,7.199125,12.677625,2016
+2410,test,fit,Wildfire,Other,8.214375,15.188625,2018
