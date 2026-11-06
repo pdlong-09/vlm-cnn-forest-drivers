@@ -226,7 +226,7 @@ The base model is at <https://huggingface.co/Qwen/Qwen3.5-9B>. The expected inpu
 | Recompute the main results | Python 3.12, numpy 2.5.3, pandas 3.0.6 | Any computer |
 | Data construction, tabular models, evaluation | Python 3.12, numpy 2.5.4, pandas 3.0.6, scipy 1.18.1, scikit-learn 1.9.1, lightgbm 4.7.0, shapely 2.2.0, pillow 13.0.0, matplotlib 3.11.2, pyarrow 26.0.0, earthengine-api 1.7.49; a Google Earth Engine project | CPU; Windows 11 in our runs |
 | CNN training | Python 3.12, PyTorch 2.13.0, torchvision 0.28.0 (CUDA 13.0 builds), numpy, scikit-learn | NVIDIA GPU with 12 GB; Linux |
-| VLM training and inference | Python 3.12, PyTorch, a Transformers release with Qwen3.5 support, PEFT 0.21.2, bitsandbytes, vLLM 0.31.0 | NVIDIA RTX 4090 (24 GB); Linux |
+| VLM training and inference | Python 3.12, PyTorch 2.13.0, torchvision 0.28.0 (CUDA 13.0 builds), Transformers 5.17.0, PEFT 0.21.2, bitsandbytes 0.50.2, Accelerate 1.15.0, vLLM 0.31.0, flash-linear-attention 0.5.2, qwen-vl-utils 0.0.14 | NVIDIA RTX 4090 (24 GB); Linux |
 
 The versions listed are those of our runs. Fine-tuning for two epochs took about 46 minutes, and inference on E3 about
 13 minutes per seed, on one RTX 4090.
