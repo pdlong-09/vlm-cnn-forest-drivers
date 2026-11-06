@@ -1,0 +1,122 @@
+file,column,column_meaning,value,value_meaning
+data/forestnet_events.csv,split,Official split of ForestNet (Irvin et al. 2020),train,Official training set of the source
+data/forestnet_events.csv,split,Official split of ForestNet (Irvin et al. 2020),val,Official validation set of the source
+data/forestnet_events.csv,split,Official split of ForestNet (Irvin et al. 2020),test,Official test set of the source
+data/forestnet_events.csv,part,Split used in the article,train,Training events
+data/forestnet_events.csv,part,Split used in the article,val_sel,Selection half of the validation set (choice of epochs and hyperparameters)
+data/forestnet_events.csv,part,Split used in the article,val_cal,Calibration half of the validation set (calibration of the early-attribution rule only)
+data/forestnet_events.csv,part,Split used in the article,test,Test events
+data/forestnet_events.csv,label,Detailed class of ForestNet (Irvin et al. 2020),Oil palm plantation,Detailed class; four-class label: Plantation
+data/forestnet_events.csv,label,Detailed class of ForestNet (Irvin et al. 2020),Timber plantation,Detailed class; four-class label: Plantation
+data/forestnet_events.csv,label,Detailed class of ForestNet (Irvin et al. 2020),Other large-scale plantations,Detailed class; four-class label: Plantation
+data/forestnet_events.csv,label,Detailed class of ForestNet (Irvin et al. 2020),Small-scale agriculture,Detailed class; four-class label: Smallholder agriculture
+data/forestnet_events.csv,label,Detailed class of ForestNet (Irvin et al. 2020),Small-scale mixed plantation,Detailed class; four-class label: Smallholder agriculture
+data/forestnet_events.csv,label,Detailed class of ForestNet (Irvin et al. 2020),Small-scale oil palm plantation,Detailed class; four-class label: Smallholder agriculture
+data/forestnet_events.csv,label,Detailed class of ForestNet (Irvin et al. 2020),Grassland shrubland,Detailed class; four-class label: Grassland shrubland
+data/forestnet_events.csv,label,Detailed class of ForestNet (Irvin et al. 2020),Mining,Detailed class; four-class label: Other
+data/forestnet_events.csv,label,Detailed class of ForestNet (Irvin et al. 2020),Secondary forest,Detailed class; four-class label: Other
+data/forestnet_events.csv,label,Detailed class of ForestNet (Irvin et al. 2020),Fish pond,Detailed class; four-class label: Other
+data/forestnet_events.csv,label,Detailed class of ForestNet (Irvin et al. 2020),Logging,Detailed class; four-class label: Other
+data/forestnet_events.csv,label,Detailed class of ForestNet (Irvin et al. 2020),Other,Detailed class; four-class label: Other
+data/forestnet_events.csv,merged_label,Four-class label of ForestNet (Irvin et al. 2020),Plantation,Plantation; conversion to agriculture in the binary task
+data/forestnet_events.csv,merged_label,Four-class label of ForestNet (Irvin et al. 2020),Smallholder agriculture,Smallholder agriculture; conversion to agriculture in the binary task
+data/forestnet_events.csv,merged_label,Four-class label of ForestNet (Irvin et al. 2020),Grassland shrubland,Grassland or shrubland; other driver in the binary task
+data/forestnet_events.csv,merged_label,Four-class label of ForestNet (Irvin et al. 2020),Other,Other drivers; other driver in the binary task
+data/indonesia_cells.csv,src,File of the source from which the cell comes,training,Cell from the training file of Sims et al. (2025)
+data/indonesia_cells.csv,src,File of the source from which the cell comes,validation,Cell from the validation file of Sims et al. (2025)
+data/indonesia_cells.csv,Driver_primary,"Primary driver of the cell, from Sims et al. (2025)",Permanent agriculture,Permanent agriculture; agriculture in the binary task
+data/indonesia_cells.csv,Driver_primary,"Primary driver of the cell, from Sims et al. (2025)",Shifting cultivation,Shifting cultivation; agriculture in the binary task
+data/indonesia_cells.csv,Driver_primary,"Primary driver of the cell, from Sims et al. (2025)",Logging,Logging; other driver in the binary task
+data/indonesia_cells.csv,Driver_primary,"Primary driver of the cell, from Sims et al. (2025)",Wildfire,Wildfire; other driver in the binary task
+data/indonesia_cells.csv,Driver_primary,"Primary driver of the cell, from Sims et al. (2025)",Hard commodities,Hard commodities (mining and energy); other driver in the binary task
+data/indonesia_cells.csv,Driver_primary,"Primary driver of the cell, from Sims et al. (2025)",Settlements & infrastructure,Settlements and infrastructure; other driver in the binary task
+data/indonesia_cells.csv,Driver_primary,"Primary driver of the cell, from Sims et al. (2025)",Other natural disturbances,Other natural disturbances; other driver in the binary task
+data/indonesia_cells.csv,Confidence_primary,"Confidence of the primary driver, from Sims et al. (2025)",High,High confidence of the interpreter
+data/indonesia_cells.csv,Confidence_primary,"Confidence of the primary driver, from Sims et al. (2025)",Medium,Medium confidence of the interpreter
+data/indonesia_cells.csv,Confidence_primary,"Confidence of the primary driver, from Sims et al. (2025)",Low,Low confidence of the interpreter
+data/indonesia_cells.csv,Tags,"Tag of the cell, copied from Sims et al. (2025); not used in the article",Agriculture,Tag Agriculture in the source file
+data/indonesia_cells.csv,Tags,"Tag of the cell, copied from Sims et al. (2025); not used in the article",Energy,Tag Energy in the source file
+data/indonesia_cells.csv,Tags,"Tag of the cell, copied from Sims et al. (2025); not used in the article",Mining,Tag Mining in the source file
+data/indonesia_cells.csv,Tags,"Tag of the cell, copied from Sims et al. (2025); not used in the article",Tree crop management,Tag Tree crop management in the source file
+data/indonesia_cells.csv,Tags,"Tag of the cell, copied from Sims et al. (2025); not used in the article",Not applicable,Not applicable in the source file
+data/indonesia_cells.csv,Tags,"Tag of the cell, copied from Sims et al. (2025); not used in the article",(blank),Blank in the source file
+data/indonesia_cells.csv,label_agri,Binary reference label used in the article,0,Other driver: every other value of Driver_primary
+data/indonesia_cells.csv,label_agri,Binary reference label used in the article,1,Conversion to agriculture: Driver_primary is Permanent agriculture or Shifting cultivation
+data/e2_cells.csv,src,File of the source from which the cell comes,training,Cell from the training file of Sims et al. (2025)
+data/e2_cells.csv,src,File of the source from which the cell comes,validation,Cell from the validation file of Sims et al. (2025)
+data/e2_cells.csv,Driver_primary,"Primary driver of the cell, from Sims et al. (2025)",Permanent agriculture,Permanent agriculture; agriculture in the binary task
+data/e2_cells.csv,Driver_primary,"Primary driver of the cell, from Sims et al. (2025)",Shifting cultivation,Shifting cultivation; agriculture in the binary task
+data/e2_cells.csv,Driver_primary,"Primary driver of the cell, from Sims et al. (2025)",Logging,Logging; other driver in the binary task
+data/e2_cells.csv,Driver_primary,"Primary driver of the cell, from Sims et al. (2025)",Wildfire,Wildfire; other driver in the binary task
+data/e2_cells.csv,Driver_primary,"Primary driver of the cell, from Sims et al. (2025)",Hard commodities,Hard commodities (mining and energy); other driver in the binary task
+data/e2_cells.csv,Driver_primary,"Primary driver of the cell, from Sims et al. (2025)",Settlements & infrastructure,Settlements and infrastructure; other driver in the binary task
+data/e2_cells.csv,Driver_primary,"Primary driver of the cell, from Sims et al. (2025)",Other natural disturbances,Other natural disturbances; other driver in the binary task
+data/e2_cells.csv,Confidence_primary,"Confidence of the primary driver, from Sims et al. (2025)",High,High confidence of the interpreter
+data/e2_cells.csv,Confidence_primary,"Confidence of the primary driver, from Sims et al. (2025)",Medium,Medium confidence of the interpreter
+data/e2_cells.csv,Confidence_primary,"Confidence of the primary driver, from Sims et al. (2025)",Low,Low confidence of the interpreter
+data/e2_cells.csv,Tags,"Tag of the cell, copied from Sims et al. (2025); not used in the article",Agriculture,Tag Agriculture in the source file
+data/e2_cells.csv,Tags,"Tag of the cell, copied from Sims et al. (2025); not used in the article",Energy,Tag Energy in the source file
+data/e2_cells.csv,Tags,"Tag of the cell, copied from Sims et al. (2025); not used in the article",Mining,Tag Mining in the source file
+data/e2_cells.csv,Tags,"Tag of the cell, copied from Sims et al. (2025); not used in the article",Tree crop management,Tag Tree crop management in the source file
+data/e2_cells.csv,Tags,"Tag of the cell, copied from Sims et al. (2025); not used in the article",Not applicable,Not applicable in the source file
+data/e2_cells.csv,Tags,"Tag of the cell, copied from Sims et al. (2025); not used in the article",(blank),Blank in the source file
+data/e2_cells.csv,label_agri,Binary reference label used in the article,0,Other driver: every other value of Driver_primary
+data/e2_cells.csv,label_agri,Binary reference label used in the article,1,Conversion to agriculture: Driver_primary is Permanent agriculture or Shifting cultivation
+data/e2_cells.csv,group,Region group used to draw E2 and E3,Africa,Africa
+data/e2_cells.csv,group,Region group used to draw E2 and E3,Latin America,Latin America
+data/e2_cells.csv,group,Region group used to draw E2 and E3,Asia-Pacific,"Regions Southeast Asia, Oceania and Asia of Sims et al. (2025), Indonesia excluded"
+data/e3_cells.csv,src,File of the source from which the cell comes,training,Cell from the training file of Sims et al. (2025)
+data/e3_cells.csv,src,File of the source from which the cell comes,validation,Cell from the validation file of Sims et al. (2025)
+data/e3_cells.csv,Driver_primary,"Primary driver of the cell, from Sims et al. (2025)",Permanent agriculture,Permanent agriculture; agriculture in the binary task
+data/e3_cells.csv,Driver_primary,"Primary driver of the cell, from Sims et al. (2025)",Shifting cultivation,Shifting cultivation; agriculture in the binary task
+data/e3_cells.csv,Driver_primary,"Primary driver of the cell, from Sims et al. (2025)",Logging,Logging; other driver in the binary task
+data/e3_cells.csv,Driver_primary,"Primary driver of the cell, from Sims et al. (2025)",Wildfire,Wildfire; other driver in the binary task
+data/e3_cells.csv,Driver_primary,"Primary driver of the cell, from Sims et al. (2025)",Hard commodities,Hard commodities (mining and energy); other driver in the binary task
+data/e3_cells.csv,Driver_primary,"Primary driver of the cell, from Sims et al. (2025)",Settlements & infrastructure,Settlements and infrastructure; other driver in the binary task
+data/e3_cells.csv,Driver_primary,"Primary driver of the cell, from Sims et al. (2025)",Other natural disturbances,Other natural disturbances; other driver in the binary task
+data/e3_cells.csv,Confidence_primary,"Confidence of the primary driver, from Sims et al. (2025)",High,High confidence of the interpreter
+data/e3_cells.csv,Confidence_primary,"Confidence of the primary driver, from Sims et al. (2025)",Medium,Medium confidence of the interpreter
+data/e3_cells.csv,Confidence_primary,"Confidence of the primary driver, from Sims et al. (2025)",Low,Low confidence of the interpreter
+data/e3_cells.csv,Tags,"Tag of the cell, copied from Sims et al. (2025); not used in the article",Agriculture,Tag Agriculture in the source file
+data/e3_cells.csv,Tags,"Tag of the cell, copied from Sims et al. (2025); not used in the article",Energy,Tag Energy in the source file
+data/e3_cells.csv,Tags,"Tag of the cell, copied from Sims et al. (2025); not used in the article",Mining,Tag Mining in the source file
+data/e3_cells.csv,Tags,"Tag of the cell, copied from Sims et al. (2025); not used in the article",Tree crop management,Tag Tree crop management in the source file
+data/e3_cells.csv,Tags,"Tag of the cell, copied from Sims et al. (2025); not used in the article",Not applicable,Not applicable in the source file
+data/e3_cells.csv,Tags,"Tag of the cell, copied from Sims et al. (2025); not used in the article",(blank),Blank in the source file
+data/e3_cells.csv,Tags,"Tag of the cell, copied from Sims et al. (2025); not used in the article",Tags,The word Tags in the source file (one cell: ID 7145 of the validation file)
+data/e3_cells.csv,label_agri,Binary reference label used in the article,0,Other driver: every other value of Driver_primary
+data/e3_cells.csv,label_agri,Binary reference label used in the article,1,Conversion to agriculture: Driver_primary is Permanent agriculture or Shifting cultivation
+data/e3_cells.csv,group,Region group used to draw E2 and E3,Africa,Africa
+data/e3_cells.csv,group,Region group used to draw E2 and E3,Latin America,Latin America
+data/e3_cells.csv,group,Region group used to draw E2 and E3,Asia-Pacific,"Regions Southeast Asia, Oceania and Asia of Sims et al. (2025), Indonesia excluded"
+data/cameroon_events.csv,split_official,Official split of Cam-ForestNet (Debus et al. 2024),train,Official training set of the source
+data/cameroon_events.csv,split_official,Official split of Cam-ForestNet (Debus et al. 2024),val,Official validation set of the source
+data/cameroon_events.csv,split_official,Official split of Cam-ForestNet (Debus et al. 2024),test,Official test set of the source
+data/cameroon_events.csv,part_spatial,Split of the authors by 3 km spatial clusters,fit,Used to train the models (these rows are in-sample)
+data/cameroon_events.csv,part_spatial,Split of the authors by 3 km spatial clusters,holdout,Used to select the models
+data/cameroon_events.csv,part_spatial,Split of the authors by 3 km spatial clusters,val,Used to calibrate the early-attribution rule
+data/cameroon_events.csv,part_spatial,Split of the authors by 3 km spatial clusters,test,Used for scoring
+data/cameroon_events.csv,label,Detailed class of Cam-ForestNet (Debus et al. 2024),Oil palm plantation,Detailed class; four-class label: Plantation
+data/cameroon_events.csv,label,Detailed class of Cam-ForestNet (Debus et al. 2024),Timber plantation,Detailed class; four-class label: Plantation
+data/cameroon_events.csv,label,Detailed class of Cam-ForestNet (Debus et al. 2024),Fruit plantation,Detailed class; four-class label: Plantation
+data/cameroon_events.csv,label,Detailed class of Cam-ForestNet (Debus et al. 2024),Rubber plantation,Detailed class; four-class label: Plantation
+data/cameroon_events.csv,label,Detailed class of Cam-ForestNet (Debus et al. 2024),Other large-scale plantations,Detailed class; four-class label: Plantation
+data/cameroon_events.csv,label,Detailed class of Cam-ForestNet (Debus et al. 2024),Small-scale maize plantation,Detailed class; four-class label: Smallholder agriculture
+data/cameroon_events.csv,label,Detailed class of Cam-ForestNet (Debus et al. 2024),Small-scale oil palm plantation,Detailed class; four-class label: Smallholder agriculture
+data/cameroon_events.csv,label,Detailed class of Cam-ForestNet (Debus et al. 2024),Small-scale other plantation,Detailed class; four-class label: Smallholder agriculture
+data/cameroon_events.csv,label,Detailed class of Cam-ForestNet (Debus et al. 2024),Grassland shrubland,Detailed class; four-class label: Grassland shrubland
+data/cameroon_events.csv,label,Detailed class of Cam-ForestNet (Debus et al. 2024),Selective logging,Detailed class; four-class label: Other
+data/cameroon_events.csv,label,Detailed class of Cam-ForestNet (Debus et al. 2024),Infrastructure,Detailed class; four-class label: Other
+data/cameroon_events.csv,label,Detailed class of Cam-ForestNet (Debus et al. 2024),Wildfire,Detailed class; four-class label: Other
+data/cameroon_events.csv,label,Detailed class of Cam-ForestNet (Debus et al. 2024),Hunting,Detailed class; four-class label: Other
+data/cameroon_events.csv,label,Detailed class of Cam-ForestNet (Debus et al. 2024),Mining,Detailed class; four-class label: Other
+data/cameroon_events.csv,label,Detailed class of Cam-ForestNet (Debus et al. 2024),Other,Detailed class; four-class label: Other
+data/cameroon_events.csv,merged_label,Four-class label of Cam-ForestNet (Debus et al. 2024),Plantation,Plantation; conversion to agriculture in the binary task
+data/cameroon_events.csv,merged_label,Four-class label of Cam-ForestNet (Debus et al. 2024),Smallholder agriculture,Smallholder agriculture; conversion to agriculture in the binary task
+data/cameroon_events.csv,merged_label,Four-class label of Cam-ForestNet (Debus et al. 2024),Grassland shrubland,Grassland or shrubland; other driver in the binary task
+data/cameroon_events.csv,merged_label,Four-class label of Cam-ForestNet (Debus et al. 2024),Other,Other drivers; other driver in the binary task
+predictions/*.csv,k,Step: years of evidence after the loss that the model read,0,Evidence up to the year of loss
+predictions/*.csv,k,Step: years of evidence after the loss that the model read,1,Evidence up to one year after the loss
+predictions/*.csv,k,Step: years of evidence after the loss that the model read,2,Evidence up to two years after the loss
+predictions/*.csv,k,Step: years of evidence after the loss that the model read,3,Evidence up to three years after the loss
+predictions/*.csv,k,Step: years of evidence after the loss that the model read,4,Evidence up to four years after the loss
